@@ -9,6 +9,15 @@
         "key": "68f96d618b0b956b008c445896a25a79"
     },
     {
+        "name": "TSN 1",
+        "logo": "https://images.seeklogo.com/logo-png/31/1/tsn-1-logo-png_seeklogo-314693.png",
+        "group": "FIFA",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+        "type": "dash",
+        "kid": "14eeabf30c14b7fbf3008c03099ce011",
+        "key": "17d2ac8dbc5429bd70af3433aa12158d"
+    },
+    {
         "name": "D Sports HLS",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
         "group": "FIFA",

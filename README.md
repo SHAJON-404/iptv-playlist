@@ -77,6 +77,10 @@ node scripts/json-to-m3u.js
 # Convert a specific file
 node scripts/json-to-m3u.js app/data/fifa.json app/data/fifa.m3u
 ```
+---
+## ❤️ Credits
+
+Special thanks to all IPTV open-source repository maintainers and contributors whose publicly available playlists and stream sources make this collection and player possible.
 
 ---
 
