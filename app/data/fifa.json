@@ -185,7 +185,7 @@
         "url": "https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8",
         "group": "FIFA",
         "referer": "http://www.fawanews.sc/",
-        "no_proxy": true
+        "no_proxy": false
     },
     {
         "name": "JOJ SPORTS",
@@ -341,7 +341,7 @@
         "url": "https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8",
         "referer": "https://iscreen.com.bd/",
         "group": "FIFA",
-        "no_proxy": true
+        "no_proxy": false
     },
     {
         "name": "TSN 1",
@@ -359,7 +359,7 @@
         "url": "https://live05.msdht.app/live/24561735.m3u8",
         "referer": "https://kick.yagaverse.net/",
         "group": "FIFA",
-        "no_proxy": true
+        "no_proxy": false
     },
     {
         "name": "RU LIVE",
@@ -384,7 +384,7 @@
         "url": "https://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8",
         "group": "Football",
         "referer": "http://www.fawanews.sc/",
-        "no_proxy": true
+        "no_proxy": false
     },
     {
         "name": "D Sports 2",
