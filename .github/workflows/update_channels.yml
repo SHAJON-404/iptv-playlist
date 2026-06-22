@@ -2,7 +2,7 @@ name: Automatic Channel Update
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch: # Allows manual triggering
 
 jobs:
