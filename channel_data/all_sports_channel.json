@@ -134,7 +134,7 @@
         "no_proxy": true
     },
     {
-        "name": "FOX 1080p",
+        "name": "FOX 1080p [No VPN]",
         "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2025/05/13115423/Fox-One-Logo.jpg",
         "group": "FOX",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
@@ -174,7 +174,7 @@
         "no_proxy": true
     },
     {
-        "name": "FS1",
+        "name": "FS1 [No VPN]",
         "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2025/05/13115423/Fox-One-Logo.jpg",
         "group": "FOX",
         "url": "https://vizio.kuvuslov.cymru/fs1/tracks-v1a1/mono.m3u8",
@@ -432,7 +432,7 @@
         "no_proxy": false
     },
     {
-        "name": "SKY SPORTS HD",
+        "name": "SKY SPORTS HD [No VPN]",
         "logo": "https://cdn.sportmonks.com/images/cricket/teams/6/38.png",
         "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
         "group": "Sky Sports",
@@ -754,22 +754,6 @@
         "no_proxy": false
     },
     {
-        "name": "Sport TV1",
-        "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
-        "url": "https://t7.ultrastream.vip/sporttv1/index.m3u8",
-        "group": "Sport TV",
-        "referer": "https://foottime.top/",
-        "no_proxy": false
-    },
-    {
-        "name": "Sport TV5",
-        "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6719.png",
-        "url": "https://t7.ultrastream.vip/sporttv5/index.m3u8",
-        "group": "Sport TV",
-        "referer": "https://foottime.top/",
-        "no_proxy": false
-    },
-    {
         "name": "TNT",
         "logo": "https://resources.motogp.pulselive.com/photo-resources/2026/06/15/4b8f1a01-10ce-4c91-8c14-b906d9f77caf/Czechia-GP-Poster.jpg?height=192&width=343",
         "url": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd",
@@ -864,7 +848,7 @@
         "no_proxy": true
     },
     {
-        "name": "TSN",
+        "name": "TSN [No VPN]",
         "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
         "url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "group": "TSN",
@@ -881,16 +865,6 @@
         "type": "dash",
         "kid": "e51aa21f2a0fef9aabc120dfb655b52f",
         "key": "a12a987fe725a40b6be95cd84b15f689",
-        "no_proxy": true
-    },
-    {
-        "name": "TSN 1",
-        "logo": "https://images.seeklogo.com/logo-png/31/1/tsn-1-logo-png_seeklogo-314693.png",
-        "group": "TSN",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "type": "dash",
-        "kid": "14eeabf30c14b7fbf3008c03099ce011",
-        "key": "17d2ac8dbc5429bd70af3433aa12158d",
         "no_proxy": true
     },
     {
@@ -921,16 +895,6 @@
         "type": "dash",
         "kid": "c4088f5f265f9de50cffd80bf89308b7",
         "key": "2c4d2239d96d532b4ec2050653611003",
-        "no_proxy": true
-    },
-    {
-        "name": "TSN 4 [2]",
-        "logo": "https://i.imgur.com/qJyAWU8.png",
-        "group": "TSN",
-        "url": "https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?Null",
-        "type": "dash",
-        "kid": "14eeabf30c14b7fbf3008c03099ce011",
-        "key": "17d2ac8dbc5429bd70af3433aa12158d",
         "no_proxy": true
     },
     {
@@ -1090,16 +1054,6 @@
         "name": "CazéTV",
         "logo": "https://images.seeklogo.com/logo-png/61/2/cazetv-logo-png_seeklogo-619708.png",
         "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpdamznDtid=AOAGZA014O5RE&encoding=segmentBase?",
-        "group": "FIFA",
-        "type": "dash",
-        "kid": "34475edab991ad5e92548aebd710410a",
-        "key": "501b209cccd323ac00bf5ac15b406cb4",
-        "no_proxy": true
-    },
-    {
-        "name": "CazéTV",
-        "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
         "group": "FIFA",
         "type": "dash",
         "kid": "34475edab991ad5e92548aebd710410a",
@@ -1555,7 +1509,7 @@
         "no_proxy": true
     },
     {
-        "name": "Win Sports",
+        "name": "Win Sports [No VPN]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/500px-Win_Sports_nuevo_logo.svg.png",
         "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8",
         "group": "FIFA",
