@@ -94,7 +94,7 @@ npm run get-qualities channel_data/all_sports_channel.json
 
 ### 2. GitHub Actions Cron Workflow
 A GitHub Action is configured at `.github/workflows/update_channels.yml` to automate checking:
-* Runs **every 15 minutes** automatically.
+* Runs **every hour** automatically.
 * Checks stream statuses in `channel_data/all_sports_channel.json`.
 * Saves only the valid/live streams directly to `app/data/fifa.json`.
 * Automatically runs the JSON to M3U converter to compile standard playlists.
