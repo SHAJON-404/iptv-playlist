@@ -163,13 +163,13 @@
         "no_proxy": true
     },
     {
-        "name": "Sky Sports La Liga",
+        "name": "Sky Sports La Liga 1",
         "logo": "https://epg.pw/media/images/epg/2025/04/23/20250423022300132210_61.png",
-        "url": "https://aca-live4-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
+        "url": "https://aca-live-ott.izzigo.tv/7/out/u/dash/SKY-SPORTS-16-HD-H265/default.mpd",
         "group": "Sky Sports",
         "type": "dash",
-        "kid": "cb80e1e7d7598eaf98b1dbbe6dc14ee9",
-        "key": "103ae55c7948ca1d159d6743619d26c4",
+        "kid": "95b52d16d344af539ce9c2c9ff95571a",
+        "key": "5f035d9c4a178221f89d2439426b2e9a",
         "no_proxy": true
     },
     {
@@ -180,6 +180,16 @@
         "type": "dash",
         "kid": "902e5ec0e3d05e665daa32fc23f4f59e",
         "key": "7b2322a273843921a43e2c61dac7cae3",
+        "no_proxy": true
+    },
+    {
+        "name": "TNT",
+        "logo": "https://resources.motogp.pulselive.com/photo-resources/2026/06/15/4b8f1a01-10ce-4c91-8c14-b906d9f77caf/Czechia-GP-Poster.jpg?height=192&width=343",
+        "url": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd",
+        "group": "TNT Sports",
+        "type": "dash",
+        "kid": "0b59ce06de74ed84f2eda5e81dadba13",
+        "key": "48e4ba4ad6c2a60d2bda5d71a0050844",
         "no_proxy": true
     },
     {
@@ -286,13 +296,6 @@
         "type": "dash",
         "kid": "433ffba670963e70857859a9dff4be04",
         "key": "51ede3a821229fe81e71282c8eff80e3",
-        "no_proxy": true
-    },
-    {
-        "name": "Match! Football 1",
-        "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6719.png",
-        "url": "https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8",
-        "group": "FIFA",
         "no_proxy": true
     },
     {
