@@ -96,6 +96,13 @@
         "no_proxy": true
     },
     {
+        "name": "D Sports HLS",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png",
+        "group": "D Sports",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8",
+        "no_proxy": true
+    },
+    {
         "name": "FOX 1080p [No VPN]",
         "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2025/05/13115423/Fox-One-Logo.jpg",
         "group": "FOX",
@@ -128,6 +135,14 @@
         "kid": "290e09c837da78d5cd961978d390515c",
         "key": "b748836c71e6a4ca68ef5b5652db6247",
         "no_proxy": true
+    },
+    {
+        "name": "SD LIVE",
+        "logo": "https://cdn.sportmonks.com/images/cricket/teams/6/38.png",
+        "url": "http://193.47.62.41/hls/EEEEDDD.m3u8",
+        "group": "SD Live",
+        "referer": "http://www.fawanews.sc/",
+        "no_proxy": false
     },
     {
         "name": "SD LIVE",
@@ -165,6 +180,14 @@
         "name": "SERVER 6",
         "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8263.png",
         "url": "http://193.47.62.59/hls/XlplplpA.m3u8",
+        "group": "Server",
+        "referer": "http://www.fawanews.sc/",
+        "no_proxy": false
+    },
+    {
+        "name": "SERVER 7",
+        "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8263.png",
+        "url": "http://193.47.62.59/hls/Xlplplpq.m3u8",
         "group": "Server",
         "referer": "http://www.fawanews.sc/",
         "no_proxy": false
@@ -354,16 +377,6 @@
         "type": "dash",
         "kid": "d816287e21496989eae1312925a423c5",
         "key": "00da00f13180e7e6cd5ce87d1c974e8d",
-        "no_proxy": true
-    },
-    {
-        "name": "RU LIVE",
-        "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
-        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-        "group": "FIFA",
-        "type": "dash",
-        "kid": "9145a6e0f778e61866f573d4944dd533",
-        "key": "d02173d40515fea5c83944f21d0f3114",
         "no_proxy": true
     },
     {
