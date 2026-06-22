@@ -77,6 +77,29 @@ node scripts/json-to-m3u.js
 # Convert a specific file
 node scripts/json-to-m3u.js app/data/fifa.json app/data/fifa.m3u
 ```
+
+---
+
+## ⚙️ Automated Quality Checker & Updates
+
+This repository features an automated checking and validation workflow to ensure playlist stream links stay active and up-to-date.
+
+### 1. Stream Quality Checker
+The `scripts/get_qualities.js` script fetches and parses channels from a source `.json` or `.m3u` file, verifies if the streams are alive, extracts their available video resolutions (for HLS and DASH), and writes the valid streams to `app/data/fifa.json`. All invalid and dead streams are automatically discarded.
+
+Run the quality checker manually:
+```bash
+npm run get-qualities channel_data/all_sports_channel.json
+```
+
+### 2. GitHub Actions Cron Workflow
+A GitHub Action is configured at `.github/workflows/update_channels.yml` to automate checking:
+* Runs **every 15 minutes** automatically.
+* Checks stream statuses in `channel_data/all_sports_channel.json`.
+* Saves only the valid/live streams directly to `app/data/fifa.json`.
+* Automatically runs the JSON to M3U converter to compile standard playlists.
+* Commits and pushes any updates to GitHub using a professional commit message (`chore: auto-update channel playlists [skip ci]`).
+
 ---
 ## ❤️ Credits
 
