@@ -167,6 +167,16 @@
         "no_proxy": true
     },
     {
+        "name": "SporTV 3",
+        "logo": "https://images.seeklogo.com/logo-png/42/2/sportv-logo-png_seeklogo-424355.png",
+        "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+        "group": "Sport TV",
+        "type": "dash",
+        "kid": "902e5ec0e3d05e665daa32fc23f4f59e",
+        "key": "7b2322a273843921a43e2c61dac7cae3",
+        "no_proxy": true
+    },
+    {
         "name": "TNT",
         "logo": "https://resources.motogp.pulselive.com/photo-resources/2026/06/15/4b8f1a01-10ce-4c91-8c14-b906d9f77caf/Czechia-GP-Poster.jpg?height=192&width=343",
         "url": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd",
@@ -334,16 +344,6 @@
         "no_proxy": true
     },
     {
-        "name": "TUDN",
-        "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
-        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
-        "group": "FIFA",
-        "type": "dash",
-        "kid": "75074a0cbd83f5b72fb3e5c1495252a9",
-        "key": "a4a0df04b2d28f2160cead2ecdeb7203",
-        "no_proxy": true
-    },
-    {
         "name": "ZDF (USE GERMAN VPN)",
         "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
         "url": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpdhttps://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
@@ -351,6 +351,13 @@
         "type": "dash",
         "kid": "c1a0ac1044a433d0856ccdc08f245084",
         "key": "7f0e8800a6d63d7915ac181bb88ce813",
+        "no_proxy": true
+    },
+    {
+        "name": "iOS 2",
+        "logo": "https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg",
+        "url": "https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-13/2rvn-cv3b_360p/chunklist_DVR.m3u8",
+        "group": "FIFA",
         "no_proxy": true
     },
     {
