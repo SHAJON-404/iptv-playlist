@@ -211,16 +211,6 @@
         "no_proxy": true
     },
     {
-        "name": "CTV",
-        "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
-        "group": "FIFA",
-        "type": "dash",
-        "kid": "d185684e2330de5bea436daa094a5e86",
-        "key": "014f0116154f5bf0050e03a6b0a23157",
-        "no_proxy": true
-    },
-    {
         "name": "DAZN FIFA",
         "logo": "https://i.postimg.cc/Kc3mP7Qt/cbimage.png",
         "group": "FIFA",
@@ -273,13 +263,6 @@
         "no_proxy": true
     },
     {
-        "name": "Match! Football 1",
-        "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6719.png",
-        "url": "https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8",
-        "group": "FIFA",
-        "no_proxy": true
-    },
-    {
         "name": "RTB",
         "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
         "url": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
@@ -321,6 +304,13 @@
         "type": "dash",
         "kid": "adca25b8779e4168a0cd710f59f61ccf",
         "key": "be5383ed3cd8079f4ffe78ad067f476a",
+        "no_proxy": true
+    },
+    {
+        "name": "TRT 1",
+        "logo": "https://images.seeklogo.com/logo-png/26/2/trt-1-logo-png_seeklogo-260967.png",
+        "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+        "group": "FIFA",
         "no_proxy": true
     },
     {
