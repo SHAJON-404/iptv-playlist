@@ -152,6 +152,26 @@
         "useProxy": false
     },
     {
+        "name": "SporTV 3",
+        "logo": "https://images.seeklogo.com/logo-png/42/2/sportv-logo-png_seeklogo-424355.png",
+        "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+        "group": "Sport TV",
+        "type": "dash",
+        "kid": "902e5ec0e3d05e665daa32fc23f4f59e",
+        "key": "7b2322a273843921a43e2c61dac7cae3",
+        "useProxy": false
+    },
+    {
+        "name": "TNT Sports 3",
+        "logo": "https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
+        "group": "TNT Sports",
+        "type": "dash",
+        "kid": "12413e2c2855cfc59ce0fe6b20cc71ca",
+        "key": "08d55a8f5fc93a9375f9b0cb2e1739ca",
+        "useProxy": false
+    },
+    {
         "name": "TSN [No VPN]",
         "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
         "url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
@@ -166,6 +186,16 @@
         "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
         "url": "https://live-aburayhan1111.telewebion.ir/ek/sport1/live/720p/index.m3u8",
         "group": "FIFA",
+        "useProxy": false
+    },
+    {
+        "name": "CTV",
+        "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+        "group": "FIFA",
+        "type": "dash",
+        "kid": "d185684e2330de5bea436daa094a5e86",
+        "key": "014f0116154f5bf0050e03a6b0a23157",
         "useProxy": false
     },
     {
@@ -201,13 +231,6 @@
         "type": "dash",
         "kid": "433ffba670963e70857859a9dff4be04",
         "key": "51ede3a821229fe81e71282c8eff80e3",
-        "useProxy": false
-    },
-    {
-        "name": "Match! Football 1",
-        "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6719.png",
-        "url": "https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8",
-        "group": "FIFA",
         "useProxy": false
     },
     {
@@ -323,14 +346,6 @@
         "kid": "8101e6cf94565203b66aa396a09bc030",
         "key": "114f9135bc4b8d1a5cac22a6008c517a",
         "useProxy": false
-    },
-    {
-        "name": "FOX ONE HD",
-        "logo": "",
-        "url": "https://lb.xyzcloud3.xyz/FOX/index.m3u8",
-        "group": "FOX",
-        "referer": "https://xyzstreams.shop/",
-        "useProxy": true
     },
     {
         "name": "TVE La1 SPANISH",
@@ -451,16 +466,6 @@
         "kid": "ac7abaa9c9481aacfbdac64fc3ec3312",
         "key": "c0c504a2ed2e70b879a650b8770a38c6",
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "useProxy": false
-    },
-    {
-        "name": "ViX MUNDIAL FHD",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
-        "url": "https://cun-live1-ott.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-90-HD/default.mpd",
-        "type": "dash",
-        "group": "ViX",
-        "kid": "052aba8b4944541841db862526bbe6b6",
-        "key": "b785276874581a60b8e95b668b7c0d2b",
         "useProxy": false
     },
     {
