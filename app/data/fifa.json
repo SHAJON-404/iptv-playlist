@@ -63,6 +63,16 @@
         "useProxy": false
     },
     {
+        "name": "D SPORTS",
+        "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+        "group": "D Sports",
+        "type": "dash",
+        "kid": "f8b207c10f3f76aeba32a360ec52b9e4",
+        "key": "afad49d20eb39670e93e371c1d669921",
+        "useProxy": false
+    },
+    {
         "name": "FOX 1080p [No VPN]",
         "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2025/05/13115423/Fox-One-Logo.jpg",
         "group": "FOX",
@@ -132,16 +142,6 @@
         "type": "dash",
         "kid": "95b52d16d344af539ce9c2c9ff95571a",
         "key": "5f035d9c4a178221f89d2439426b2e9a",
-        "useProxy": false
-    },
-    {
-        "name": "TNT",
-        "logo": "https://resources.motogp.pulselive.com/photo-resources/2026/06/15/4b8f1a01-10ce-4c91-8c14-b906d9f77caf/Czechia-GP-Poster.jpg?height=192&width=343",
-        "url": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd",
-        "group": "TNT Sports",
-        "type": "dash",
-        "kid": "0b59ce06de74ed84f2eda5e81dadba13",
-        "key": "48e4ba4ad6c2a60d2bda5d71a0050844",
         "useProxy": false
     },
     {
