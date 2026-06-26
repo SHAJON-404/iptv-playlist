@@ -42,6 +42,13 @@
         "useProxy": false
     },
     {
+        "name": "BeIN Sports 1",
+        "logo": "https://elmarada.org/wp-content/uploads/2022/03/download-247x200.png",
+        "url": "http://41.205.70.146/BEINSPORT1/index.m3u8",
+        "group": "BeIN",
+        "useProxy": false
+    },
+    {
         "name": "BeIN Sports 2",
         "logo": "https://elmarada.org/wp-content/uploads/2022/03/download-247x200.png",
         "url": "http://41.205.70.146/BEINSPORT2/index.m3u8",
@@ -60,6 +67,16 @@
         "logo": "https://i.ibb.co.com/S7tZS6cg/Bein-Sports-1-Direct.png",
         "group": "BeIN",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+        "useProxy": false
+    },
+    {
+        "name": "D SPORTS",
+        "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+        "group": "D Sports",
+        "type": "dash",
+        "kid": "f8b207c10f3f76aeba32a360ec52b9e4",
+        "key": "afad49d20eb39670e93e371c1d669921",
         "useProxy": false
     },
     {
@@ -98,6 +115,16 @@
         "useProxy": true
     },
     {
+        "name": "LIVE 1",
+        "logo": "https://cdn.sportmonks.com/images/cricket/teams/8/72.png",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "group": "Live",
+        "type": "dash",
+        "kid": "290e09c837da78d5cd961978d390515c",
+        "key": "b748836c71e6a4ca68ef5b5652db6247",
+        "useProxy": false
+    },
+    {
         "name": "SKY SPORTS HD [No VPN]",
         "logo": "https://cdn.sportmonks.com/images/cricket/teams/6/38.png",
         "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
@@ -122,6 +149,16 @@
         "type": "dash",
         "kid": "95b52d16d344af539ce9c2c9ff95571a",
         "key": "5f035d9c4a178221f89d2439426b2e9a",
+        "useProxy": false
+    },
+    {
+        "name": "TNT",
+        "logo": "https://resources.motogp.pulselive.com/photo-resources/2026/06/15/4b8f1a01-10ce-4c91-8c14-b906d9f77caf/Czechia-GP-Poster.jpg?height=192&width=343",
+        "url": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd",
+        "group": "TNT Sports",
+        "type": "dash",
+        "kid": "0b59ce06de74ed84f2eda5e81dadba13",
+        "key": "48e4ba4ad6c2a60d2bda5d71a0050844",
         "useProxy": false
     },
     {
@@ -228,16 +265,6 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/500px-Win_Sports_nuevo_logo.svg.png",
         "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8",
         "group": "FIFA",
-        "useProxy": false
-    },
-    {
-        "name": "TELEMUNDO FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "url": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
-        "type": "dash",
-        "group": "TELEMUNDO",
-        "kid": "1efe4add8fdf327c5f8d2a1c195e5c71",
-        "key": "4f50e6f011e60ca01ee561f27187e78f",
         "useProxy": false
     },
     {
