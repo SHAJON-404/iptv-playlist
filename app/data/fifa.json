@@ -145,6 +145,16 @@
         "useProxy": false
     },
     {
+        "name": "SporTV 3",
+        "logo": "https://images.seeklogo.com/logo-png/42/2/sportv-logo-png_seeklogo-424355.png",
+        "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+        "group": "Sport TV",
+        "type": "dash",
+        "kid": "902e5ec0e3d05e665daa32fc23f4f59e",
+        "key": "7b2322a273843921a43e2c61dac7cae3",
+        "useProxy": false
+    },
+    {
         "name": "TNT",
         "logo": "https://resources.motogp.pulselive.com/photo-resources/2026/06/15/4b8f1a01-10ce-4c91-8c14-b906d9f77caf/Czechia-GP-Poster.jpg?height=192&width=343",
         "url": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd",
@@ -172,23 +182,6 @@
         "type": "dash",
         "kid": "14eeabf30c14b7fbf3008c03099ce011",
         "key": "17d2ac8dbc5429bd70af3433aa12158d",
-        "useProxy": false
-    },
-    {
-        "name": "ARABIC LIVE",
-        "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
-        "url": "https://live-aburayhan1111.telewebion.ir/ek/sport1/live/720p/index.m3u8",
-        "group": "FIFA",
-        "useProxy": false
-    },
-    {
-        "name": "CTV",
-        "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
-        "group": "FIFA",
-        "type": "dash",
-        "kid": "d185684e2330de5bea436daa094a5e86",
-        "key": "014f0116154f5bf0050e03a6b0a23157",
         "useProxy": false
     },
     {
@@ -284,13 +277,6 @@
         "useProxy": false
     },
     {
-        "name": "IRIB 4K",
-        "logo": "",
-        "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-        "group": "IRIB",
-        "useProxy": false
-    },
-    {
         "name": "JOJ SPORTS FHD",
         "logo": "",
         "url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
@@ -365,16 +351,6 @@
         "referer": "https://streamscenter.online/",
         "origin": "https://streamscenter.online",
         "useProxy": true
-    },
-    {
-        "name": "Match Football FHD",
-        "logo": "",
-        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-        "type": "dash",
-        "group": "Match",
-        "kid": "9145a6e0f778e61866f573d4944dd533",
-        "key": "d02173d40515fea5c83944f21d0f3114",
-        "useProxy": false
     },
     {
         "name": "ViX MUNDIAL FHD",
