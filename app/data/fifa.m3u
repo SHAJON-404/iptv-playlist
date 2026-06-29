@@ -25,6 +25,8 @@ https://pastebin.com/raw/nJ3WYKnG?e=.m3u8
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/kazsport-kazakhstan.jpg" group-title="QAZ",QAZ SPORTS FHD
+https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
 #EXTINF:-1 group-title="NHK",NHK BS JAPAN
 https://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="FUJI",FUJI TV JAPAN
@@ -291,3 +293,5 @@ https://tmaxapp.site/foxcricket.m3u8
 #EXTVLCOPT:http-referrer=https://www.tapmad.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://pastebin.com/raw/U2LaqQne?&.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="SKY",SKY CRICKET FHD
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141
