@@ -282,14 +282,6 @@
         "referer": "https://xyzstreams.st/"
     },
     {
-        "name": "FOX ONE HD",
-        "logo": "",
-        "url": "https://lb.xyzcloud3.xyz/FOX/index.m3u8?",
-        "group": "FOX",
-        "useProxy": true,
-        "referer": "https://xyzstreams.st/"
-    },
-    {
         "name": "TELEMUNDO HD",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "url": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?",
@@ -321,16 +313,6 @@
         "useProxy": true,
         "referer": "https://instream.click/",
         "origin": "https://instream.click"
-    },
-    {
-        "name": "Match Football FHD",
-        "logo": "",
-        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-        "type": "dash",
-        "group": "Match",
-        "kid": "9145a6e0f778e61866f573d4944dd533",
-        "key": "d02173d40515fea5c83944f21d0f3114",
-        "useProxy": true
     },
     {
         "name": "Bein Sports 2 Arabic",
@@ -405,15 +387,6 @@
         "group": "FOX",
         "useProxy": true,
         "referer": "https://xyzstreams.st/"
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://instream.click/",
-        "origin": "https://instream.click"
     },
     {
         "name": "D SPORTS 1080p",
