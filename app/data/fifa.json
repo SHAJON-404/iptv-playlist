@@ -72,6 +72,17 @@
         "origin": "https://instream.click"
     },
     {
+        "name": "FOX ONE - AQ",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "type": "dash",
+        "group": "FOX",
+        "kid": "f6564ec2aee819046328a0e153be574d",
+        "key": "ff46a8a1031eb27ef22576a077c98ab7",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
         "name": "TSN SPORTS FHD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
@@ -125,6 +136,14 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
+        "name": "BBC SPORTS HD",
+        "logo": "",
+        "url": "https://inproviszon.st/bbc-xyz-waUvqaAACr.m3u8?",
+        "group": "BBC",
+        "useProxy": true,
+        "referer": "https://vileembeds.pages.dev/"
+    },
+    {
         "name": "FOX SPORTS 4K",
         "logo": "",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/igx02musdz/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
@@ -134,6 +153,14 @@
         "key": "20093db6455160fffed4c394def3193d",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "BBC SPORTS 4K",
+        "logo": "",
+        "url": "https://inproviszon.st/bbc-4k.m3u8?",
+        "group": "BBC",
+        "useProxy": true,
+        "referer": "https://vileembeds.pages.dev/"
     },
     {
         "name": "CANAL5 FHD",
@@ -180,9 +207,89 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
+        "name": "TSN SPORTS HD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "url": "https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8?",
+        "group": "TSN",
+        "useProxy": true,
+        "referer": "https://vileembeds.pages.dev/"
+    },
+    {
+        "name": "FOX SPORTS HD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "url": "https://inproviszon.st/fox-usa.m3u8?",
+        "group": "FOX",
+        "useProxy": true,
+        "referer": "https://vileembeds.pages.dev/"
+    },
+    {
+        "name": "DAZN MUNIDAL",
+        "logo": "",
+        "url": "https://inproviszon.st/daznmundial-es.m3u8?",
+        "group": "DAZN",
+        "useProxy": true,
+        "referer": "https://vileembeds.pages.dev/"
+    },
+    {
+        "name": "UNITE8 HINDI HD",
+        "logo": "",
+        "url": "http://fastshare1.com/live/112233/445566/741567.ts",
+        "group": "UNITE8",
+        "useProxy": false
+    },
+    {
+        "name": "TSN SPORTS 4K",
+        "logo": "",
+        "url": "https://inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8?",
+        "group": "TSN",
+        "useProxy": true,
+        "referer": "https://vileembeds.pages.dev/"
+    },
+    {
+        "name": "FOX SPORTS 4K",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "url": "https://inproviszon.st/fox4k-usa.m3u8?",
+        "group": "FOX",
+        "useProxy": true,
+        "referer": "https://xyzstreams.st/"
+    },
+    {
+        "name": "TELEMUNDO FHD",
+        "logo": "",
+        "url": "https://inproviszon.st/telemundo-xyz-waUvqaAACr.m3u8?",
+        "group": "TELEMUNDO",
+        "useProxy": true,
+        "referer": "https://vileembeds.pages.dev/"
+    },
+    {
+        "name": "TELEMUNDO 4K",
+        "logo": "",
+        "url": "https://inproviszon.st/telemundo-4k.m3u8?",
+        "group": "TELEMUNDO",
+        "useProxy": true,
+        "referer": "https://vileembeds.pages.dev/"
+    },
+    {
+        "name": "FUSSBALL 4K LIVE",
+        "logo": "",
+        "url": "https://inproviszon.st/fussballtv1uhd-de.m3u8?",
+        "group": "FUSSBALL",
+        "useProxy": true,
+        "referer": "https://vileembeds.pages.dev/"
+    },
+    {
         "name": "SportzX Live",
         "logo": "",
-        "url": "https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?",
+        "url": "https://instreams.pro/US/NFLHD1/tracks-v1a1/mono.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://instream.click/",
+        "origin": "https://instream.click"
+    },
+    {
+        "name": "SportzX Live ES",
+        "logo": "",
+        "url": "https://instreams.pro/US/NFLHD2/tracks-v1a1/mono.m3u8?",
         "group": "SportzX",
         "useProxy": true,
         "referer": "https://instream.click/",
@@ -200,7 +307,7 @@
     {
         "name": "HD SERVER AR",
         "logo": "",
-        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?",
+        "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
         "group": "HD",
         "useProxy": true,
         "referer": "https://streamscenter.online/",
@@ -319,26 +426,11 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
-        "name": "UNITE8 HINDI HD",
-        "logo": "",
-        "url": "http://fastshare1.com/live/112233/445566/741567.ts",
-        "group": "UNITE8",
-        "useProxy": false
-    },
-    {
         "name": "beIN MAX HD",
         "logo": "",
         "url": "https://sh.kooraa36.cfd/endroom1.m3u8",
         "group": "beIN",
         "useProxy": false
-    },
-    {
-        "name": "TSN SPORTS HD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "url": "https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8?",
-        "group": "TSN",
-        "useProxy": true,
-        "referer": "https://vileembeds.pages.dev/"
     },
     {
         "name": "FOX SPORTS HD",
@@ -358,26 +450,10 @@
         "origin": "https://instream.click"
     },
     {
-        "name": "TSN SPORTS 4K",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "url": "https://inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8?",
-        "group": "TSN",
-        "useProxy": true,
-        "referer": "https://xyzstreams.st/"
-    },
-    {
         "name": "FOX ONE 4K",
         "logo": "",
         "url": "https://inproviszon.st/fox-sports-1-4k.m3u8?",
         "group": "FOX",
-        "useProxy": true,
-        "referer": "https://vileembeds.pages.dev/"
-    },
-    {
-        "name": "TELEMUNDO 4K",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "url": "https://inproviszon.st/telemundo-4k.m3u8?",
-        "group": "TELEMUNDO",
         "useProxy": true,
         "referer": "https://vileembeds.pages.dev/"
     },
@@ -390,43 +466,9 @@
         "referer": "https://xyzstreams.st/"
     },
     {
-        "name": "DAZN MUNDIAL",
-        "logo": "",
-        "url": "https://inproviszon.st/daznmundial-es.m3u8?",
-        "group": "DAZN",
-        "useProxy": true,
-        "referer": "https://vileembeds.pages.dev/"
-    },
-    {
-        "name": "FUSSBALL 4K LIVE",
-        "logo": "",
-        "url": "https://inproviszon.st/fussballtv1uhd-de.m3u8?",
-        "group": "FUSSBALL",
-        "useProxy": true,
-        "referer": "https://vileembeds.pages.dev/"
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://instreams.pro/US/NFLHD1/tracks-v1a1/mono.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://instream.click/",
-        "origin": "https://instream.click"
-    },
-    {
         "name": "HD SERVER ENG",
         "logo": "",
         "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?",
-        "group": "HD",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "HD SERVER AR",
-        "logo": "",
-        "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
         "group": "HD",
         "useProxy": true,
         "referer": "https://streamscenter.online/",
@@ -446,6 +488,15 @@
         "logo": "",
         "url": "http://193.47.62.55/hls/HXCZzsssQ.m3u8?",
         "group": "ENG",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
+    },
+    {
+        "name": "SD SERVER [NL BE]",
+        "logo": "",
+        "url": "http://193.47.62.59/hls/HXCZckkkqqqq.m3u8?",
+        "group": "SD",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/"
@@ -565,6 +616,24 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8",
         "group": "beIN",
         "useProxy": false
+    },
+    {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://instream.click/",
+        "origin": "https://instream.click"
+    },
+    {
+        "name": "HD SERVER AR",
+        "logo": "",
+        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?",
+        "group": "HD",
+        "useProxy": true,
+        "referer": "https://streamscenter.online/",
+        "origin": "https://streamscenter.online"
     },
     {
         "name": "D SPORTS 1080p",
