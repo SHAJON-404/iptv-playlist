@@ -188,6 +188,15 @@
         "useProxy": false
     },
     {
+        "name": "NBC SPORTS HD",
+        "logo": "",
+        "url": "https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?",
+        "group": "NBC",
+        "useProxy": true,
+        "referer": "https://instream.click/",
+        "origin": "https://instream.click"
+    },
+    {
         "name": "SportzX Live",
         "logo": "",
         "url": "https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?",

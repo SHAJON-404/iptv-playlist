@@ -37,6 +37,10 @@ https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?
 https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="beIN",Bein Sports 2 Arabic
 https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8
+#EXTINF:-1 group-title="NBC",NBC SPORTS HD
+#EXTVLCOPT:http-referrer=https://instream.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 group-title="SportzX",SportzX Live
 #EXTVLCOPT:http-referrer=https://instream.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
