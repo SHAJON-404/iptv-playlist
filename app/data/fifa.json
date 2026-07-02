@@ -46,6 +46,24 @@
         "origin": "https://instream.click"
     },
     {
+        "name": "TSN2 SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "type": "dash",
+        "group": "TSN",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "TSN5 SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbc6muqib6/out/v1/f5774813052f4d5499e7611d0db33b2f/cenc.mpd",
+        "type": "dash",
+        "group": "TSN",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
         "name": "SP0TV HD",
         "logo": "",
         "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd",
@@ -78,6 +96,49 @@
         "useProxy": true
     },
     {
+        "name": "CENTER COURT",
+        "logo": "",
+        "url": "https://inproviszon.st/wimbledon-centre.m3u8?",
+        "group": "CENTER",
+        "useProxy": true,
+        "referer": "https://vileembeds.pages.dev/"
+    },
+    {
+        "name": "COURT No. 1",
+        "logo": "",
+        "url": "https://inproviszon.st/wimbledon-crt1.m3u8?",
+        "group": "COURT",
+        "useProxy": true,
+        "referer": "https://vileembeds.pages.dev/"
+    },
+    {
+        "name": "COURT No. 2",
+        "logo": "",
+        "url": "https://inproviszon.st/wimbledon-crt2.m3u8?",
+        "group": "COURT",
+        "useProxy": true,
+        "referer": "https://vileembeds.pages.dev/"
+    },
+    {
+        "name": "Binge BDIX (BD)",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/kazsport-kazakhstan.jpg",
+        "url": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8",
+        "group": "Binge",
+        "useProxy": true,
+        "referer": "https://iscreen.com.bd/"
+    },
+    {
+        "name": "TUDN MEXICO",
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/sonnfj1629403437.png",
+        "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+        "type": "dash",
+        "group": "TUDN",
+        "kid": "763ce1ebcaf23502c8cf357c6ef423e1",
+        "key": "0c5e6c0820a1ea28753721db00272411",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
         "name": "WC TV FHD",
         "logo": "",
         "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
@@ -85,6 +146,16 @@
         "group": "WC",
         "kid": "2c338a117d434ce4bbe3569231af90f1",
         "key": "a9633d901ee8a3f4f58ac314b5c5f4fb",
+        "useProxy": true
+    },
+    {
+        "name": "RTE SPORTS FHD",
+        "logo": "",
+        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/a15f395f-f7d2-4728-8db4-ee96e5643dcb:GRQ/manifest.mpd",
+        "type": "dash",
+        "group": "RTE",
+        "kid": "d816287e21496989eae1312925a423c5",
+        "key": "00da00f13180e7e6cd5ce87d1c974e8d",
         "useProxy": true
     },
     {
@@ -98,9 +169,26 @@
         "useProxy": true
     },
     {
+        "name": "M6 FRANCE (USA)",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/tvp-2-poland.png",
+        "url": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+        "type": "dash",
+        "group": "M6",
+        "kid": "0182ed7af02734ecb17a2f55eec98f99",
+        "key": "60346785b1095596de621031e9daf3ec",
+        "useProxy": true
+    },
+    {
+        "name": "UNITE8 HINDI HD",
+        "logo": "",
+        "url": "http://fastshare1.com/live/112233/445566/741567.ts",
+        "group": "UNITE8",
+        "useProxy": false
+    },
+    {
         "name": "TELEMUNDO HD",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "url": "https://instreams.pro/EU/HDWC2/tracks-v1a1/mono.m3u8?",
+        "url": "https://instreams.pro/US/NFLHD2/tracks-v1a1/mono.m3u8?",
         "group": "TELEMUNDO",
         "useProxy": true,
         "referer": "https://instream.click/",
@@ -109,35 +197,17 @@
     {
         "name": "SportzX Live",
         "logo": "",
-        "url": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8?",
+        "url": "https://instreams.pro/US/NFLHD1/tracks-v1a1/mono.m3u8?",
         "group": "SportzX",
         "useProxy": true,
         "referer": "https://instream.click/",
         "origin": "https://instream.click"
     },
     {
-        "name": "beIN SPORTS HD",
+        "name": "SportzX Live EN",
         "logo": "",
-        "url": "https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?",
-        "group": "beIN",
-        "useProxy": true,
-        "referer": "https://instream.click/",
-        "origin": "https://instream.click"
-    },
-    {
-        "name": "VRT SPORTS HD",
-        "logo": "",
-        "url": "https://instreams.pro/EU/HDWC4/tracks-v1a1/mono.m3u8?",
-        "group": "VRT",
-        "useProxy": true,
-        "referer": "https://instream.click/",
-        "origin": "https://instream.click"
-    },
-    {
-        "name": "HD SERVER",
-        "logo": "",
-        "url": "https://instreams.pro/EU/HDWC6/tracks-v1a1/mono.m3u8?",
-        "group": "HD",
+        "url": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?",
+        "group": "SportzX",
         "useProxy": true,
         "referer": "https://instream.click/",
         "origin": "https://instream.click"
@@ -188,10 +258,10 @@
         "useProxy": true
     },
     {
-        "name": "TELEMUNDO HD",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "url": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?",
-        "group": "TELEMUNDO",
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8?",
+        "group": "SportzX",
         "useProxy": true,
         "referer": "https://instream.click/",
         "origin": "https://instream.click"
@@ -208,6 +278,15 @@
         "logo": "",
         "url": "https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?",
         "group": "NBC",
+        "useProxy": true,
+        "referer": "https://instream.click/",
+        "origin": "https://instream.click"
+    },
+    {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?",
+        "group": "SportzX",
         "useProxy": true,
         "referer": "https://instream.click/",
         "origin": "https://instream.click"
@@ -257,6 +336,15 @@
         "useProxy": true
     },
     {
+        "name": "TELEMUNDO HD",
+        "logo": "",
+        "url": "https://instreams.pro/EU/HDWC2/tracks-v1a1/mono.m3u8?",
+        "group": "TELEMUNDO",
+        "useProxy": true,
+        "referer": "https://instream.click/",
+        "origin": "https://instream.click"
+    },
+    {
         "name": "FANCODE - SD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
@@ -290,14 +378,5 @@
         "url": "http://starhub.pro/live/farhat-3379/67897-913379/745270.ts",
         "group": "NOW",
         "useProxy": false
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "url": "https://instreams.pro/US/NFLHD1/tracks-v1a1/mono.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://instream.click/",
-        "origin": "https://instream.click"
     }
 ]
