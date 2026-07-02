@@ -2,15 +2,6 @@
     {
         "name": "HD SERVER",
         "logo": "",
-        "url": "https://instreams.pro/US/MLB2/tracks-v1a1/mono.m3u8?",
-        "group": "HD",
-        "useProxy": true,
-        "referer": "https://instream.click/",
-        "origin": "https://instream.click"
-    },
-    {
-        "name": "HD SERVER",
-        "logo": "",
         "url": "https://instreams.pro/US/MLB9/tracks-v1a1/mono.m3u8?",
         "group": "HD",
         "useProxy": true,
@@ -48,6 +39,15 @@
         "name": "HD SERVER",
         "logo": "",
         "url": "https://instreams.pro/US/MLB4/tracks-v1a1/mono.m3u8?",
+        "group": "HD",
+        "useProxy": true,
+        "referer": "https://instream.click/",
+        "origin": "https://instream.click"
+    },
+    {
+        "name": "HD SERVER",
+        "logo": "",
+        "url": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?",
         "group": "HD",
         "useProxy": true,
         "referer": "https://instream.click/",
@@ -169,15 +169,6 @@
         "referer": "https://instream.click/",
         "origin": "https://instream.click",
         "useProxy": true
-    },
-    {
-        "name": "HD SERVER",
-        "logo": "",
-        "url": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?",
-        "group": "HD",
-        "useProxy": true,
-        "referer": "https://instream.click/",
-        "origin": "https://instream.click"
     },
     {
         "name": "TELEMUNDO HD",
