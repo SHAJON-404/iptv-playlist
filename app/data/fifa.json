@@ -74,14 +74,37 @@
         "useProxy": true
     },
     {
-        "name": "VRT SPORTS FHD",
+        "name": "D Sports FHD",
         "logo": "",
-        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout_cgyt8a.isml/.mpd",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
         "type": "dash",
-        "group": "VRT",
-        "kid": "1a55840f87681db7e9e87ebfeecbb316",
-        "key": "e06e221dc1b66687bc2d2fca24f67360",
-        "useProxy": true
+        "group": "D",
+        "kid": "f836853d8eac19446ed9535f5fc568b1",
+        "key": "b3bc5ef00602b29abac7e482d3d9fbf3",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+        "type": "dash",
+        "group": "CAZE",
+        "kid": "1223d5105392cabf1bb9c2c1fdf6539a",
+        "key": "340b409f4b8f78a343e0363a7938df38",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "FOX SPORTS HD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd",
+        "type": "dash",
+        "group": "FOX",
+        "kid": "d7d78ea2021a29541136bd5dc8352fe7",
+        "key": "6425ac4c0cdf906fe0cce5cf40dc8933",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
         "name": "UNITE8 HINDI HD",
@@ -144,6 +167,16 @@
         "useProxy": true
     },
     {
+        "name": "WILLOW HD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "type": "dash",
+        "group": "WILLOW",
+        "kid": "290e09c837da78d5cd961978d390515c",
+        "key": "b748836c71e6a4ca68ef5b5652db6247",
+        "useProxy": true
+    },
+    {
         "name": "TUDN MEXICO",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/sonnfj1629403437.png",
         "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
@@ -155,20 +188,22 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
+        "name": "CT SPORTS CZ",
+        "logo": "",
+        "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+        "type": "dash",
+        "group": "CT",
+        "kid": "11223344556677889900112233445566",
+        "key": "4b80724d0ef86bcb2c21f7999d67739d",
+        "useProxy": true
+    },
+    {
         "name": "BBC SPORTS",
         "logo": "",
         "url": "https://inproviszon.st/bbc-xyz-waUvqaAACr.m3u8?",
         "group": "BBC",
         "useProxy": true,
         "referer": "https://vileembeds.pages.dev/"
-    },
-    {
-        "name": "beIN SPORTS - AQ",
-        "logo": "",
-        "url": "https://81cup.s3.us-east-2.amazonaws.com/max1/master.m3u8",
-        "group": "beIN",
-        "useProxy": true,
-        "referer": "https://kora.depoooo.com/"
     },
     {
         "name": "M6 FRANCE (USA)",
@@ -195,6 +230,13 @@
         "group": "FOX",
         "useProxy": true,
         "referer": "https://vileembeds.pages.dev/"
+    },
+    {
+        "name": "FAST SERVER",
+        "logo": "",
+        "url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSYcTmdWXx9Vx.m3u8?txSecret=c1d59b6e4aae3e22f9ffc885921b5e31&txTime=6A46D7E0",
+        "group": "FAST",
+        "useProxy": false
     },
     {
         "name": "FOX ONE 4K",
@@ -227,6 +269,15 @@
         "group": "FUSSBALL",
         "useProxy": true,
         "referer": "https://vileembeds.pages.dev/"
+    },
+    {
+        "name": "SportzX Live EN",
+        "logo": "",
+        "url": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://instream.click/",
+        "origin": "https://instream.click"
     },
     {
         "name": "HD SERVER AR",
@@ -274,15 +325,6 @@
         "origin": "http://www.fawanews.sc/"
     },
     {
-        "name": "ESPANOL SD",
-        "logo": "",
-        "url": "http://193.47.62.59/hls/THXCZckkkqqq.m3u8?",
-        "group": "ESPANOL",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
         "name": "SportzX Live",
         "logo": "",
         "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?",
@@ -317,16 +359,6 @@
         "useProxy": true,
         "referer": "https://instream.click/",
         "origin": "https://instream.click"
-    },
-    {
-        "name": "CT SPORTS CZ",
-        "logo": "",
-        "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-        "type": "dash",
-        "group": "CT",
-        "kid": "11223344556677889900112233445566",
-        "key": "4b80724d0ef86bcb2c21f7999d67739d",
-        "useProxy": true
     },
     {
         "name": "SportzX Live",
@@ -457,5 +489,13 @@
         "useProxy": true,
         "referer": "https://instream.click/",
         "origin": "https://instream.click"
+    },
+    {
+        "name": "SKY CRICKET FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141",
+        "group": "SKY",
+        "useProxy": false,
+        "user-agent": "Mozilla"
     }
 ]
