@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server';
 import path from 'path';
+import fs from 'fs/promises';
 
 export const dynamic = 'force-dynamic';
 
@@ -10,20 +11,13 @@ export async function GET(
   const { filename } = await params;
   
   // Basic security check
-  if (!filename || filename.includes('..') || filename.includes('/')) {
+  if (!filename || filename.includes('..') || filename.includes('/') || filename.includes('\\')) {
     return new NextResponse('Invalid filename', { status: 400 });
   }
 
   try {
-    // Append a cache-busting timestamp to bypass GitHub's 5-minute CDN raw content caching
-    const githubUrl = `https://raw.githubusercontent.com/SHAJON-404/iptv-playlist/refs/heads/main/app/data/${filename}?t=${Date.now()}`;
-    const githubResponse = await fetch(githubUrl, { cache: 'no-store' });
-    
-    if (!githubResponse.ok) {
-      return new NextResponse('Playlist not found', { status: 404 });
-    }
-
-    const fileBuffer = await githubResponse.arrayBuffer();
+    const filePath = path.join(process.cwd(), 'app', 'data', filename);
+    const fileBuffer = await fs.readFile(filePath);
 
     const ext = path.extname(filename).toLowerCase();
     let contentType = 'text/plain';
@@ -42,8 +36,12 @@ export async function GET(
     
     return response;
   } catch (error) {
-    console.error('Error fetching playlist file from GitHub:', error);
+    if (error && typeof error === 'object' && 'code' in error && error.code === 'ENOENT') {
+      return new NextResponse('Playlist not found', { status: 404 });
+    }
+    console.error('Error reading playlist file:', error);
     return new NextResponse('Internal Server Error', { status: 500 });
   }
 }
+
 
