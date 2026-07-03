@@ -60,6 +60,16 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
+        "name": "WC TV FHD",
+        "logo": "",
+        "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+        "type": "dash",
+        "group": "WC",
+        "kid": "2c338a117d434ce4bbe3569231af90f1",
+        "key": "a9633d901ee8a3f4f58ac314b5c5f4fb",
+        "useProxy": true
+    },
+    {
         "name": "RTE SPORTS FHD",
         "logo": "",
         "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/66bcdbbf-5a90-41d5-b332-91c48db07257:BRU/manifest.mpd",
@@ -160,6 +170,16 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
+        "name": "VRT SPORTS FHD",
+        "logo": "",
+        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout_cgyt8a.isml/.mpd",
+        "type": "dash",
+        "group": "VRT",
+        "kid": "1a55840f87681db7e9e87ebfeecbb316",
+        "key": "e06e221dc1b66687bc2d2fca24f67360",
+        "useProxy": true
+    },
+    {
         "name": "UNITE8 HINDI HD",
         "logo": "",
         "url": "http://fastshare1.com/live/112233/445566/741567.ts",
@@ -213,13 +233,6 @@
         "group": "beIN",
         "useProxy": true,
         "referer": "https://vileembeds.pages.dev/"
-    },
-    {
-        "name": "NOW TV 4K",
-        "logo": "",
-        "url": "http://starhub.pro/live/farhat-3379/67897-913379/745270.ts",
-        "group": "NOW",
-        "useProxy": false
     },
     {
         "name": "DAZN MUNDIAL",
@@ -352,6 +365,16 @@
         "key": "ae008f1e47e6567fe4201a6ff8f1ae54",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "RTE SPORTS FHD",
+        "logo": "",
+        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/def159ca-02f8-4dc1-8e2b-a41ec46da398:BRU/manifest.mpd",
+        "type": "dash",
+        "group": "RTE",
+        "kid": "d816287e21496989eae1312925a423c5",
+        "key": "00da00f13180e7e6cd5ce87d1c974e8d",
+        "useProxy": true
     },
     {
         "name": "CANAL5 FHD",
@@ -759,16 +782,6 @@
         "useProxy": true,
         "referer": "https://instream.click/",
         "origin": "https://instream.click"
-    },
-    {
-        "name": "WILLOW FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/slqmxbfik7/out/v1/7712c83009e8420fb34db73f3a1a2151/cenc.mpd",
-        "type": "dash",
-        "group": "WILLOW",
-        "kid": "b686f89fa608fc0bb8fc7b21b3c98ffd",
-        "key": "9e87208b1511dcbd6d4b54b89252c3d6",
-        "useProxy": true
     },
     {
         "name": "WILLOW HD",
