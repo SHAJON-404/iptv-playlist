@@ -70,16 +70,6 @@
         "useProxy": true
     },
     {
-        "name": "RTE SPORTS FHD",
-        "logo": "",
-        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/66bcdbbf-5a90-41d5-b332-91c48db07257:BRU/manifest.mpd",
-        "type": "dash",
-        "group": "RTE",
-        "kid": "d816287e21496989eae1312925a423c5",
-        "key": "00da00f13180e7e6cd5ce87d1c974e8d",
-        "useProxy": true
-    },
-    {
         "name": "TIPIK FR FHD",
         "logo": "",
         "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
@@ -170,6 +160,16 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
+        "name": "VRT SPORTS FHD",
+        "logo": "",
+        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout_cgyt8a.isml/.mpd",
+        "type": "dash",
+        "group": "VRT",
+        "kid": "1a55840f87681db7e9e87ebfeecbb316",
+        "key": "e06e221dc1b66687bc2d2fca24f67360",
+        "useProxy": true
+    },
+    {
         "name": "UNITE8 HINDI HD",
         "logo": "",
         "url": "http://fastshare1.com/live/112233/445566/741567.ts",
@@ -213,14 +213,6 @@
         "logo": "",
         "url": "https://inproviszon.st/bbc-4k.m3u8?",
         "group": "BBC",
-        "useProxy": true,
-        "referer": "https://vileembeds.pages.dev/"
-    },
-    {
-        "name": "beIN SPORTS 4K",
-        "logo": "",
-        "url": "https://inproviszon.st/bein4k-xyz-waUvqaAACr.m3u8?",
-        "group": "beIN",
         "useProxy": true,
         "referer": "https://vileembeds.pages.dev/"
     },
@@ -321,15 +313,6 @@
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "url": "http://193.47.62.47/hls/THXCZckkkq.m3u8?",
         "group": "beIN",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
-        "name": "ESPANOL SD",
-        "logo": "",
-        "url": "http://193.47.62.59/hls/THXCZckkkqr.m3u8?",
-        "group": "ESPANOL",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/"
@@ -625,6 +608,13 @@
         "logo": "https://i.ibb.co.com/S7tZS6cg/Bein-Sports-1-Direct.png",
         "group": "BeIN",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+        "useProxy": false
+    },
+    {
+        "name": "ARABIC LIVE",
+        "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
+        "url": "https://live-aburayhan1111.telewebion.ir/ek/sport1/live/720p/index.m3u8",
+        "group": "FIFA",
         "useProxy": false
     },
     {
