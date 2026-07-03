@@ -165,6 +165,13 @@
         "origin": "https://instream.click"
     },
     {
+        "name": "NOW TV 4K",
+        "logo": "",
+        "url": "http://starhub.pro/live/farhat-3379/67897-913379/745270.ts",
+        "group": "NOW",
+        "useProxy": false
+    },
+    {
         "name": "FOX 4k",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ypwo5fhwov/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
@@ -354,6 +361,15 @@
         "origin": "https://streamscenter.online"
     },
     {
+        "name": "HD SERVER",
+        "logo": "",
+        "url": "https://instreams.pro/US/MLB8/tracks-v1a1/mono.m3u8?",
+        "group": "HD",
+        "useProxy": true,
+        "referer": "https://instream.click/",
+        "origin": "https://instream.click"
+    },
+    {
         "name": "SportzX Live",
         "logo": "",
         "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?",
@@ -363,6 +379,15 @@
         "origin": "https://streamscenter.online"
     },
     {
+        "name": "HD SERVER",
+        "logo": "",
+        "url": "https://instreams.pro/US/MLB9/tracks-v1a1/mono.m3u8?",
+        "group": "HD",
+        "useProxy": true,
+        "referer": "https://instream.click/",
+        "origin": "https://instream.click"
+    },
+    {
         "name": "SportzX Live",
         "logo": "",
         "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?",
@@ -370,6 +395,14 @@
         "useProxy": true,
         "referer": "https://streamscenter.online/",
         "origin": "https://streamscenter.online"
+    },
+    {
+        "name": "SKY CRICKET FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+        "group": "SKY",
+        "useProxy": false,
+        "user-agent": "Mozilla"
     },
     {
         "name": "WILLOW HD",
