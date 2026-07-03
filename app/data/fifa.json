@@ -95,6 +95,13 @@
         "useProxy": true
     },
     {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://hugh.cdn.rumble.cloud/live/qt9k24wa/slot-45/9rr2-ntiy/chunklist.m3u8",
+        "group": "SportzX",
+        "useProxy": false
+    },
+    {
         "name": "APPLE TV FHD",
         "logo": "",
         "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/6a181ba834a92654cb39b87270db8153/index.m3u8?",
@@ -111,6 +118,14 @@
         "referer": "https://pushembdz.store/"
     },
     {
+        "name": "SKY F1 UHD",
+        "logo": "",
+        "url": "https://inproviszon.st/sky-sports-f1-uhd.m3u8?",
+        "group": "SKY",
+        "useProxy": true,
+        "referer": "https://vileembeds.pages.dev/"
+    },
+    {
         "name": "SKY F1 FHD",
         "logo": "",
         "url": "https://inproviszon.st/sky-sports-f1.m3u8?",
@@ -121,7 +136,7 @@
     {
         "name": "DAZN ESPANOL",
         "logo": "",
-        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/f6ff498a6abd018b2d6c24aa77f6e001/index.m3u8?",
+        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/d969a98e9d8b3953b2510f7dedabedf2/index.m3u8?",
         "group": "DAZN",
         "useProxy": true,
         "referer": "https://pushembdz.store/"
@@ -129,7 +144,7 @@
     {
         "name": "SKY ITALY FHD",
         "logo": "",
-        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/264a05ba99b8850a8fbc750ae109cc03/index.m3u8?",
+        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/448ce762361de1738f44fa2f44d887a2/index.m3u8?",
         "group": "SKY",
         "useProxy": true,
         "referer": "https://pushembdz.store/"
@@ -202,15 +217,6 @@
         "name": "HD SERVER",
         "logo": "",
         "url": "https://instreams.pro/US/MLB7/tracks-v1a1/mono.m3u8?",
-        "group": "HD",
-        "useProxy": true,
-        "referer": "https://instream.click/",
-        "origin": "https://instream.click"
-    },
-    {
-        "name": "HD SERVER",
-        "logo": "",
-        "url": "https://instreams.pro/US/MLB11/tracks-v1a1/mono.m3u8?",
         "group": "HD",
         "useProxy": true,
         "referer": "https://instream.click/",
