@@ -196,15 +196,6 @@
         "origin": "https://streamscenter.online"
     },
     {
-        "name": "HD SERVER",
-        "logo": "",
-        "url": "https://instreams.pro/US/MLB9/tracks-v1a1/mono.m3u8?",
-        "group": "HD",
-        "useProxy": true,
-        "referer": "https://instream.click/",
-        "origin": "https://instream.click"
-    },
-    {
         "name": "SportzX Live",
         "logo": "",
         "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?",
@@ -217,6 +208,15 @@
         "name": "HD SERVER",
         "logo": "",
         "url": "https://instreams.pro/US/MLB7/tracks-v1a1/mono.m3u8?",
+        "group": "HD",
+        "useProxy": true,
+        "referer": "https://instream.click/",
+        "origin": "https://instream.click"
+    },
+    {
+        "name": "HD SERVER",
+        "logo": "",
+        "url": "https://instreams.pro/US/MLB11/tracks-v1a1/mono.m3u8?",
         "group": "HD",
         "useProxy": true,
         "referer": "https://instream.click/",
@@ -239,13 +239,6 @@
         "useProxy": true,
         "referer": "https://instream.click/",
         "origin": "https://instream.click"
-    },
-    {
-        "name": "NOW TV 4K",
-        "logo": "",
-        "url": "http://starhub.pro/live/farhat-3379/67897-913379/745270.ts",
-        "group": "NOW",
-        "useProxy": false
     },
     {
         "name": "FOX 4k",
@@ -542,6 +535,16 @@
         "key": "ae008f1e47e6567fe4201a6ff8f1ae54",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "VRT SPORTS FHD",
+        "logo": "",
+        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout_cgyt8a.isml/.mpd",
+        "type": "dash",
+        "group": "VRT",
+        "kid": "1a55840f87681db7e9e87ebfeecbb316",
+        "key": "e06e221dc1b66687bc2d2fca24f67360",
+        "useProxy": true
     },
     {
         "name": "BBC SPORTS",
