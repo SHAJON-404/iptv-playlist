@@ -71,10 +71,6 @@ https://instreams.pro/US/MLB14/tracks-v1a1/mono.m3u8?
 https://edgestream3.pro/hls/mlkijfezag65.m3u8?
 #EXTINF:-1 group-title="4K",NOW TV 4K [No VPN]
 http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo_of_Binge.svg/330px-Logo_of_Binge.svg.png" group-title="Binge",Binge BDIX (BD)
-#EXTVLCOPT:http-referrer=https://iscreen.com.bd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
 #EXTINF:-1 tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png" group-title="TELEMUNDO",TELEMUNDO HD
 #EXTVLCOPT:http-referrer=https://instream.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
