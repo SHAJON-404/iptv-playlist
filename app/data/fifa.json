@@ -102,16 +102,6 @@
         "useProxy": true
     },
     {
-        "name": "RTE SPORTS FHD",
-        "logo": "",
-        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/2a690d5f-7ab5-460e-ba3d-cef6b7a86e29:GRQ/manifest.mpd",
-        "type": "dash",
-        "group": "RTE",
-        "kid": "d816287e21496989eae1312925a423c5",
-        "key": "00da00f13180e7e6cd5ce87d1c974e8d",
-        "useProxy": true
-    },
-    {
         "name": "TVE La 1 FHD",
         "logo": "",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
@@ -327,25 +317,18 @@
         "useProxy": true
     },
     {
-        "name": "beIN MAX FHD",
-        "logo": "",
-        "url": "https://85cup.s3.eu-north-1.amazonaws.com/max3/max3_1080p/index.m3u8?",
-        "group": "beIN",
-        "useProxy": true,
-        "referer": "https://kora.depoooo.com/"
-    },
-    {
-        "name": "beIN MAX FHD",
-        "logo": "",
-        "url": "https://85cup.s3.eu-north-1.amazonaws.com/max1/master.m3u8?",
-        "group": "beIN",
-        "useProxy": true,
-        "referer": "https://kora.depoooo.com/"
-    },
-    {
         "name": "SD SERVER [ENG]",
         "logo": "",
         "url": "http://193.47.62.42/hls/cdTHXCZzsss.m3u8?",
+        "group": "SERVER",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
+    },
+    {
+        "name": "SD SERVER [SWE]",
+        "logo": "",
+        "url": "http://193.47.62.59/hls/cdTHXCZckkkqq.m3u8?",
         "group": "SERVER",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
@@ -546,6 +529,13 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8",
         "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
         "group": "TVP Sports",
+        "useProxy": false
+    },
+    {
+        "name": "616 Sports 4K B",
+        "url": "http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745270.ts",
+        "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+        "group": "4K",
         "useProxy": false
     },
     {
