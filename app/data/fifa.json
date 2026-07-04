@@ -18,6 +18,120 @@
         "origin": "https://instream.click"
     },
     {
+        "name": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+        "type": "dash",
+        "group": "TSN",
+        "kid": "385ceb9714b75e0cef61254f80b31002",
+        "key": "18dce92a2891fee68d21ede5173230f8",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "type": "dash",
+        "group": "FANCODE",
+        "kid": "7e9239c1982d984a002df3ed049d0756",
+        "key": "1b8a17598129a3618535c8fb05f103fe",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "SPX FHD LIVE",
+        "logo": "",
+        "url": "https://hugh.cdn.rumble.cloud/live/gi29le7p/slot-81/y4ts-2uef_1080p/chunklist.m3u8",
+        "group": "SPX",
+        "useProxy": false
+    },
+    {
+        "name": "FOX SPORTS FHD",
+        "logo": "",
+        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/9d4734249f313497f7f5bfcb51e304ed/index.m3u8?",
+        "group": "FOX",
+        "useProxy": true,
+        "referer": "https://pushembdz.store/"
+    },
+    {
+        "name": "APPLE TV FHD",
+        "logo": "",
+        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/d5939f2a6aba569ae727e3b1475e9a13/index.m3u8?",
+        "group": "APPLE",
+        "useProxy": true,
+        "referer": "https://pushembdz.store/"
+    },
+    {
+        "name": "SKY F1 UHD",
+        "logo": "",
+        "url": "https://inproviszon.st/sky-sports-f1-uhd.m3u8?",
+        "group": "SKY",
+        "useProxy": true,
+        "referer": "https://vileembeds.pages.dev/"
+    },
+    {
+        "name": "SKY F1 FHD",
+        "logo": "",
+        "url": "https://inproviszon.st/sky-sports-f1.m3u8?",
+        "group": "SKY",
+        "useProxy": true,
+        "referer": "https://vileembeds.pages.dev/"
+    },
+    {
+        "name": "DAZN ESPANOL",
+        "logo": "",
+        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/9d2d22606965ece825a7f8bde5cdaddc/index.m3u8?",
+        "group": "DAZN",
+        "useProxy": true,
+        "referer": "https://pushembdz.store/"
+    },
+    {
+        "name": "SKY ITALY FHD",
+        "logo": "",
+        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/ad1587c1c1eb348ea47ef59ae48ad574/index.m3u8?",
+        "group": "SKY",
+        "useProxy": true,
+        "referer": "https://pushembdz.store/"
+    },
+    {
+        "name": "LOW RES",
+        "logo": "",
+        "url": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/591117fc358e96e61ad474678142ee72/index.m3u8?",
+        "group": "LOW",
+        "useProxy": true,
+        "referer": "https://pushembdz.store/"
+    },
+    {
+        "name": "Tipik FRANCE FHD",
+        "logo": "",
+        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+        "type": "dash",
+        "group": "Tipik",
+        "kid": "adca25b8779e4168a0cd710f59f61ccf",
+        "key": "be5383ed3cd8079f4ffe78ad067f476a",
+        "useProxy": true
+    },
+    {
+        "name": "ELEVEN SPORTS",
+        "logo": "",
+        "url": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
+        "type": "dash",
+        "group": "ELEVEN",
+        "kid": "69021095220f3c0eae9bc24215fd692b",
+        "key": "eb58cfe0458ed0b48f7351fa3393ad59",
+        "useProxy": true
+    },
+    {
+        "name": "Sky F1 DE",
+        "logo": "",
+        "url": "https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8",
+        "group": "Sky",
+        "useProxy": true,
+        "referer": "https://instream.click/",
+        "origin": "https://instream.click"
+    },
+    {
         "name": "HD SERVER",
         "logo": "",
         "url": "https://instreams.pro/US/MLB9/tracks-v1a1/mono.m3u8?",
@@ -75,57 +189,6 @@
         "key": "e5250924f4b738905f7163a0134587a7",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-        "name": "TSN 5",
-        "logo": "",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-        "type": "dash",
-        "group": "TSN",
-        "kid": "385ceb9714b75e0cef61254f80b31002",
-        "key": "18dce92a2891fee68d21ede5173230f8",
-        "useProxy": true,
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-        "name": "FANCODE FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-        "type": "dash",
-        "group": "FANCODE",
-        "kid": "7e9239c1982d984a002df3ed049d0756",
-        "key": "1b8a17598129a3618535c8fb05f103fe",
-        "useProxy": true,
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-        "name": "Tipik FRANCE FHD",
-        "logo": "",
-        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "type": "dash",
-        "group": "Tipik",
-        "kid": "adca25b8779e4168a0cd710f59f61ccf",
-        "key": "be5383ed3cd8079f4ffe78ad067f476a",
-        "useProxy": true
-    },
-    {
-        "name": "ELEVEN SPORTS",
-        "logo": "",
-        "url": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
-        "type": "dash",
-        "group": "ELEVEN",
-        "kid": "69021095220f3c0eae9bc24215fd692b",
-        "key": "eb58cfe0458ed0b48f7351fa3393ad59",
-        "useProxy": true
-    },
-    {
-        "name": "Sky F1 DE",
-        "logo": "",
-        "url": "https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8",
-        "group": "Sky",
-        "useProxy": true,
-        "referer": "https://instream.click/",
-        "origin": "https://instream.click"
     },
     {
         "name": "TSN3 SPORTS FHD",
@@ -190,6 +253,15 @@
         "name": "HD SERVER",
         "logo": "",
         "url": "https://instreams.pro/US/MLB12/tracks-v1a1/mono.m3u8?",
+        "group": "HD",
+        "useProxy": true,
+        "referer": "https://instream.click/",
+        "origin": "https://instream.click"
+    },
+    {
+        "name": "HD SERVER",
+        "logo": "",
+        "url": "https://instreams.pro/US/MLB13/tracks-v1a1/mono.m3u8?",
         "group": "HD",
         "useProxy": true,
         "referer": "https://instream.click/",

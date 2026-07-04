@@ -7,16 +7,46 @@ https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?
 #EXTVLCOPT:http-referrer=https://instream.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://instreams.pro/US/MLB10/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 group-title="SPX",SPX FHD LIVE
+https://hugh.cdn.rumble.cloud/live/gi29le7p/slot-81/y4ts-2uef_1080p/chunklist.m3u8
+#EXTINF:-1 group-title="FOX",FOX SPORTS FHD
+#EXTVLCOPT:http-referrer=https://pushembdz.store/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://whioefwhi.sense-scramble-bay.xyz/out/v2/9d4734249f313497f7f5bfcb51e304ed/index.m3u8?
+#EXTINF:-1 group-title="APPLE",APPLE TV FHD
+#EXTVLCOPT:http-referrer=https://pushembdz.store/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://whioefwhi.sense-scramble-bay.xyz/out/v2/d5939f2a6aba569ae727e3b1475e9a13/index.m3u8?
+#EXTINF:-1 group-title="SKY",SKY F1 UHD
+#EXTVLCOPT:http-referrer=https://vileembeds.pages.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://inproviszon.st/sky-sports-f1-uhd.m3u8?
+#EXTINF:-1 group-title="SKY",SKY F1 FHD
+#EXTVLCOPT:http-referrer=https://vileembeds.pages.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://inproviszon.st/sky-sports-f1.m3u8?
+#EXTINF:-1 group-title="DAZN",DAZN ESPANOL
+#EXTVLCOPT:http-referrer=https://pushembdz.store/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://whioefwhi.sense-scramble-bay.xyz/out/v2/9d2d22606965ece825a7f8bde5cdaddc/index.m3u8?
+#EXTINF:-1 group-title="SKY",SKY ITALY FHD
+#EXTVLCOPT:http-referrer=https://pushembdz.store/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://whioefwhi.sense-scramble-bay.xyz/out/v2/ad1587c1c1eb348ea47ef59ae48ad574/index.m3u8?
+#EXTINF:-1 group-title="LOW",LOW RES
+#EXTVLCOPT:http-referrer=https://pushembdz.store/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://whioefwhi.sense-scramble-bay.xyz/out/v2/591117fc358e96e61ad474678142ee72/index.m3u8?
+#EXTINF:-1 group-title="Sky",Sky F1 DE
+#EXTVLCOPT:http-referrer=https://instream.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HD",HD SERVER
 #EXTVLCOPT:http-referrer=https://instream.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://instreams.pro/US/MLB9/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 group-title="4K",NOW TV 4K [No VPN]
 http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
-#EXTINF:-1 group-title="Sky",Sky F1 DE
-#EXTVLCOPT:http-referrer=https://instream.click/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HD",HD SERVER
 #EXTVLCOPT:http-referrer=https://instream.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -25,6 +55,10 @@ https://instreams.pro/US/MLB11/tracks-v1a1/mono.m3u8?
 #EXTVLCOPT:http-referrer=https://instream.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://instreams.pro/US/MLB12/tracks-v1a1/mono.m3u8?
+#EXTINF:-1 group-title="HD",HD SERVER
+#EXTVLCOPT:http-referrer=https://instream.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://instreams.pro/US/MLB13/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="FOX",FOX SPORTS HD
 #EXTVLCOPT:http-referrer=https://vileembeds.pages.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
