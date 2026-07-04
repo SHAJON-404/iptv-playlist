@@ -27,6 +27,15 @@
         "origin": "https://streamscenter.online"
     },
     {
+        "name": "HD SERVER",
+        "logo": "",
+        "url": "https://instreams.pro/US/MLB10/tracks-v1a1/mono.m3u8?",
+        "group": "HD",
+        "useProxy": true,
+        "referer": "https://instream.click/",
+        "origin": "https://instream.click"
+    },
+    {
         "name": "FOX ONE - AQ",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
@@ -71,6 +80,16 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
+        "name": "WC TV FHD",
+        "logo": "",
+        "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+        "type": "dash",
+        "group": "WC",
+        "kid": "2c338a117d434ce4bbe3569231af90f1",
+        "key": "a9633d901ee8a3f4f58ac314b5c5f4fb",
+        "useProxy": true
+    },
+    {
         "name": "TIPIK FR FHD",
         "logo": "",
         "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
@@ -78,6 +97,16 @@
         "group": "TIPIK",
         "kid": "adca25b8779e4168a0cd710f59f61ccf",
         "key": "be5383ed3cd8079f4ffe78ad067f476a",
+        "useProxy": true
+    },
+    {
+        "name": "RTE SPORTS FHD",
+        "logo": "",
+        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/e101edda-ef7f-4ff8-b6a5-4453db98fb2e:GRQ/manifest.mpd",
+        "type": "dash",
+        "group": "RTE",
+        "kid": "d816287e21496989eae1312925a423c5",
+        "key": "00da00f13180e7e6cd5ce87d1c974e8d",
         "useProxy": true
     },
     {
@@ -165,13 +194,6 @@
         "referer": "https://vileembeds.pages.dev/"
     },
     {
-        "name": "FAST SERVER",
-        "logo": "",
-        "url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSYT95RQWihmQ.m3u8?txSecret=ae5bc870355e23e1548e30c489b7525e&txTime=6A488798",
-        "group": "FAST",
-        "useProxy": false
-    },
-    {
         "name": "TELEMUNDO HD",
         "logo": "",
         "url": "https://instreams.pro/US/NFLHD2/tracks-v1a1/mono.m3u8?",
@@ -247,58 +269,14 @@
         "origin": "https://streamscenter.online"
     },
     {
-        "name": "HD SERVER AR",
+        "name": "Match Football FHD",
         "logo": "",
-        "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
-        "group": "HD",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "SD SERVER [ENG]",
-        "logo": "",
-        "url": "http://193.47.62.55/hls/dTHXCZzsss.m3u8?",
-        "group": "SD",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
-        "name": "ENG SD SERVER",
-        "logo": "",
-        "url": "http://193.47.62.55/hls/dTHXCZzsssQ.m3u8?",
-        "group": "ENG",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
-        "name": "SD SERVER [SWE]",
-        "logo": "",
-        "url": "http://193.47.62.51/hls/dTHXCZckkkqq.m3u8?",
-        "group": "SD",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
-        "name": "beiN SPORTS FR",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "url": "http://193.47.62.47/hls/dTHXCZckkkq.m3u8?",
-        "group": "beIN",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
-        "name": "ESPANOL SD",
-        "logo": "",
-        "url": "http://193.47.62.51/hls/dTHXCZckkkqqq.m3u8?",
-        "group": "ESPANOL",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
+        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+        "type": "dash",
+        "group": "Match",
+        "kid": "9145a6e0f778e61866f573d4944dd533",
+        "key": "d02173d40515fea5c83944f21d0f3114",
+        "useProxy": true
     },
     {
         "name": "SportzX Live",
@@ -445,24 +423,6 @@
         "useProxy": true,
         "referer": "https://streamscenter.online/",
         "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "SD SERVER [SWE]",
-        "logo": "",
-        "url": "http://193.47.62.47/hls/dTHXCZckkkqq.m3u8?",
-        "group": "SD",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
-        "name": "beiN SPORTS FR",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "url": "http://193.47.62.55/hls/dTHXCZckkkq.m3u8?",
-        "group": "beIN",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
     },
     {
         "name": "SportzX TV+ HD",
@@ -659,37 +619,10 @@
         "origin": "https://streamscenter.online"
     },
     {
-        "name": "SD SERVER [ENG]",
-        "logo": "",
-        "url": "http://193.47.62.47/hls/dTHXCZzsss.m3u8?",
-        "group": "SD",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
-        "name": "ENG SERVER SD",
-        "logo": "",
-        "url": "http://193.47.62.42/hls/dTHXCZzsssQ.m3u8?",
-        "group": "ENG",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
         "name": "SD SERVER AR",
         "logo": "",
         "url": "http://193.47.62.51/hls/dTHXCZckkkqr.m3u8?",
         "group": "SD",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
-        "name": "beiN SPORTS FR",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "url": "http://193.47.62.59/hls/dTHXCZckkkq.m3u8?",
-        "group": "beIN",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/"
