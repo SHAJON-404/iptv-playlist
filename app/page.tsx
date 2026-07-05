@@ -9,7 +9,7 @@ export default async function Home() {
   try {
     const dirEntries = await fs.readdir(dataDir);
     for (const file of dirEntries) {
-      if (file.endsWith('.json') || file.endsWith('.m3u')) {
+      if (file.endsWith('.json')) {
         const stat = await fs.stat(path.join(dataDir, file));
         files.push({
           name: file,

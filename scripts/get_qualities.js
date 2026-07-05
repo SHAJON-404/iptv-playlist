@@ -485,7 +485,7 @@ function parseResolution(buffer) {
   if (spsNalu) {
     try {
       return parseSPS(spsNalu);
-    } catch (e) {
+    } catch {
       // ignore parsing error
     }
   }

@@ -42,7 +42,7 @@ export default function FAQ() {
                 </li>
                 <li className="flex items-start gap-2">
                   <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-emerald-400 mt-0.5"><polyline points="20 6 9 17 4 12"/></svg>
-                  The reported channel will be immediately removed from the `.m3u` and `.json` playlists.
+                  The reported channel will be immediately removed from the `.json` playlists.
                 </li>
               </ul>
               <a 
@@ -63,7 +63,7 @@ export default function FAQ() {
           <div className="p-8 rounded-3xl bg-white/5 border border-white/10 backdrop-blur-xl">
             <h3 className="text-xl font-semibold text-white mb-3">How do I use these playlists?</h3>
             <p className="text-zinc-400">
-              Simply copy the URL of the `.m3u` or `.json` file from the main page and paste it into your favorite IPTV player (like VLC, Tivimate, or our custom web player).
+              Simply copy the URL of the `.json` file from the main page and paste it into your favorite IPTV player (like VLC, Tivimate, or our custom web player).
             </p>
           </div>
           
@@ -84,7 +84,7 @@ export default function FAQ() {
           <div className="p-8 rounded-3xl bg-white/5 border border-white/10 backdrop-blur-xl">
             <h3 className="text-xl font-semibold text-white mb-3">What formats are supported?</h3>
             <p className="text-zinc-400">
-              We support both traditional `M3U` formats for general players and structured `JSON` files for specialized modern players and custom integrations.
+              We support structured `JSON` files designed for modern IPTV players and custom integrations.
             </p>
           </div>
         </div>
