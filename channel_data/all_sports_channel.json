@@ -262,6 +262,16 @@
         "origin": "https://instream.click"
     },
     {
+        "name": "Match Football FHD",
+        "logo": "",
+        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+        "type": "dash",
+        "group": "Match",
+        "kid": "9145a6e0f778e61866f573d4944dd533",
+        "key": "d02173d40515fea5c83944f21d0f3114",
+        "useProxy": true
+    },
+    {
         "name": "ITV SPORTS FHD",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
@@ -458,13 +468,6 @@
         "url": "https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8",
         "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
         "group": "Mahsun Sports",
-        "useProxy": false
-    },
-    {
-        "name": "M6 Spports",
-        "url": "https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8",
-        "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
-        "group": "M6 Spports",
         "useProxy": false
     },
     {
