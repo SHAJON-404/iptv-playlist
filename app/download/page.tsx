@@ -1,4 +1,5 @@
 import DownloadClient from "./DownloadClient";
+import Link from "next/link";
 
 interface GitHubAsset {
   name: string;
@@ -15,58 +16,7 @@ interface ReleaseData {
   assets: GitHubAsset[];
 }
 
-const FALLBACK_RELEASE: ReleaseData = {
-  tag_name: "v3.0.0",
-  name: "IPTV Player v3.0.0",
-  published_at: "2026-07-07T12:00:00Z",
-  html_url: "https://github.com/SHAJON-404/iptv/releases/tag/v3.0.0",
-  assets: [
-    {
-      name: "IPTV Player Setup 3.0.0.exe",
-      browser_download_url: "https://github.com/SHAJON-404/iptv/releases/download/v3.0.0/IPTV.Player.Setup.3.0.0.exe",
-      size: 82837504,
-      download_count: 4531,
-    },
-    {
-      name: "IPTV Player 3.0.0.exe",
-      browser_download_url: "https://github.com/SHAJON-404/iptv/releases/download/v3.0.0/IPTV.Player.3.0.0.exe",
-      size: 81788928,
-      download_count: 983,
-    },
-    {
-      name: "IPTV Player-3.0.0-win.zip",
-      browser_download_url: "https://github.com/SHAJON-404/iptv/releases/download/v3.0.0/IPTV.Player-3.0.0-win.zip",
-      size: 83886080,
-      download_count: 1205,
-    },
-    {
-      name: "iptv_3.0.0_amd64.deb",
-      browser_download_url: "https://github.com/SHAJON-404/iptv/releases/download/v3.0.0/iptv_3.0.0_amd64.deb",
-      size: 65011712,
-      download_count: 1253,
-    },
-    {
-      name: "IPTV Player-3.0.0.AppImage",
-      browser_download_url: "https://github.com/SHAJON-404/iptv/releases/download/v3.0.0/IPTV.Player-3.0.0.AppImage",
-      size: 72351744,
-      download_count: 671,
-    },
-    {
-      name: "iptv-3.0.0.x86_64.rpm",
-      browser_download_url: "https://github.com/SHAJON-404/iptv/releases/download/v3.0.0/iptv-3.0.0.x86_64.rpm",
-      size: 68157440,
-      download_count: 342,
-    },
-    {
-      name: "iptv-3.0.0.zip",
-      browser_download_url: "https://github.com/SHAJON-404/iptv/releases/download/v3.0.0/iptv-3.0.0.zip",
-      size: 78643200,
-      download_count: 512,
-    }
-  ]
-};
-
-async function getLatestRelease(): Promise<ReleaseData> {
+async function getLatestRelease(): Promise<ReleaseData | null> {
   const secret = process.env.GITHUB_SECRETS || process.env.GITHUB_SECREST;
   const headers: Record<string, string> = {
     'Accept': 'application/vnd.github.v3+json',
@@ -85,13 +35,13 @@ async function getLatestRelease(): Promise<ReleaseData> {
     });
 
     if (!res.ok) {
-      console.warn(`GitHub API release fetch failed: ${res.status} ${res.statusText}. Using fallback data.`);
-      return FALLBACK_RELEASE;
+      console.warn(`GitHub API release fetch failed: ${res.status} ${res.statusText}`);
+      return null;
     }
 
     const data = await res.json();
     if (!data.assets || data.assets.length === 0) {
-      return FALLBACK_RELEASE;
+      return null;
     }
 
     return {
@@ -109,12 +59,55 @@ async function getLatestRelease(): Promise<ReleaseData> {
     };
   } catch (error) {
     console.error("Error fetching release from GitHub API:", error);
-    return FALLBACK_RELEASE;
+    return null;
   }
 }
 
 export default async function DownloadPage() {
   const release = await getLatestRelease();
+
+  if (!release) {
+    return (
+      <main className="container mx-auto px-4 sm:px-6 py-16 max-w-xl flex flex-col items-center justify-center min-h-[60vh] relative z-10 select-none animate-fade-in">
+        <div className="absolute -top-12 w-64 h-64 rounded-full bg-red-500/10 blur-[80px] pointer-events-none -z-10 animate-pulse duration-[6000ms]" />
+        
+        <div className="w-full bg-slate-900/40 backdrop-blur-xl border border-white/15 rounded-2xl p-8 sm:p-10 text-center shadow-2xl relative overflow-hidden">
+          {/* Ambient inner glow */}
+          <div className="absolute inset-0 bg-gradient-to-b from-white/[0.02] to-transparent pointer-events-none" />
+          
+          <div className="w-16 h-16 rounded-2xl bg-red-500/10 border border-red-500/20 text-red-400 flex items-center justify-center text-xl mx-auto mb-6 shadow-inner">
+            ⚠️
+          </div>
+          
+          <h1 className="text-2xl sm:text-3xl font-black text-white tracking-tight mb-4">
+            Service Offline
+          </h1>
+          
+          <p className="text-sm sm:text-base text-zinc-400 leading-relaxed mb-8">
+            We are currently unable to retrieve the latest version information from GitHub. You can still download all releases directly from the GitHub repository.
+          </p>
+          
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
+            <a 
+              href="https://github.com/SHAJON-404/iptv/releases" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="w-full sm:w-auto px-6 py-3 rounded-xl bg-blue-600 hover:bg-blue-500 text-white font-bold text-sm tracking-wide shadow-lg shadow-blue-600/20 hover:shadow-blue-500/30 transition-all duration-300 transform active:scale-95"
+            >
+              Go to GitHub Releases
+            </a>
+            <Link 
+              href="/"
+              className="w-full sm:w-auto px-6 py-3 rounded-xl bg-white/[0.03] border border-white/15 hover:bg-white/[0.08] hover:border-white/20 text-zinc-300 font-bold text-sm tracking-wide transition-all duration-300 text-center"
+            >
+              Back to Home
+            </Link>
+          </div>
+        </div>
+      </main>
+    );
+  }
+
   const publishDate = new Date(release.published_at).toLocaleDateString('en-US', {
     year: 'numeric',
     month: 'long',
