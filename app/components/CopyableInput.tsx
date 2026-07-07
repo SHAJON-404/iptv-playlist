@@ -31,7 +31,7 @@ export function CopyableInput({ endpoint }: { endpoint: string }) {
           type="text" 
           readOnly 
           value={fullUrl || endpoint} 
-          className="w-full pl-4 pr-12 py-3 rounded-xl bg-black/60 border border-white/10 text-sm font-mono text-zinc-400 focus:outline-none group-hover/copy:border-blue-500/50 group-hover/copy:text-blue-200 transition-all cursor-pointer shadow-inner"
+          className="w-full pl-4 pr-12 py-3 rounded-xl bg-slate-900/60 border border-white/10 text-sm font-mono text-zinc-400 focus:outline-none group-hover/copy:border-blue-500/50 group-hover/copy:text-blue-200 transition-all cursor-pointer shadow-inner"
         />
         <div className={`absolute right-2 flex items-center justify-center p-2 rounded-lg transition-all ${copied ? 'bg-emerald-500/20 text-emerald-400' : 'bg-white/10 text-zinc-400 group-hover/copy:bg-blue-500/20 group-hover/copy:text-blue-400'}`}>
           {copied ? (

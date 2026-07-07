@@ -30,7 +30,7 @@ export default function FAQ() {
             <p className="text-zinc-300 leading-relaxed mb-6">
               We respect the intellectual property rights of others. This project merely aggregates public, free-to-air links found on the internet. We do not host, store, or stream any media files ourselves.
             </p>
-            <div className="bg-black/40 border border-white/5 rounded-2xl p-6">
+            <div className="bg-slate-900/45 border border-white/5 rounded-2xl p-6">
               <h3 className="text-lg font-semibold text-white mb-2">How to file a takedown request?</h3>
               <p className="text-zinc-400 mb-4">
                 If you believe a channel or link violates your copyright, please create an issue on our GitHub repository or contact the developer directly. Once you contact us with valid proof:
@@ -46,7 +46,7 @@ export default function FAQ() {
                 </li>
               </ul>
               <a 
-                href="https://github.com/SHAJON-404/iptv-playlist/issues/new" 
+                href="https://github.com/SHAJON-404/iptv-docs/issues/new" 
                 target="_blank" 
                 rel="noreferrer"
                 className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-white text-black font-semibold hover:bg-zinc-200 transition-colors"

@@ -1,43 +1,60 @@
-import fs from 'fs/promises';
-import path from 'path';
-import { PlaylistTabs } from './components/PlaylistTabs';
+import path from "path";
+import fs from "fs/promises";
+import HomeClient from "./HomeClient";
+
+interface PlaylistInfo {
+  filename: string;
+  name: string;
+  channelCount: number;
+  sizeBytes: number;
+}
+
+const PLAYLIST_NAMES: Record<string, string> = {
+  'fifa.json': 'FIFA Live Streams',
+  'sports.json': 'Sports Live Streams',
+  'channels.json': 'Universal Live Streams',
+  'bangla.json': 'Bangla Live Streams',
+};
+
+function getPlaylistName(filename: string): string {
+  if (PLAYLIST_NAMES[filename]) {
+    return PLAYLIST_NAMES[filename];
+  }
+  const base = path.basename(filename, path.extname(filename));
+  const capitalized = base.charAt(0).toUpperCase() + base.slice(1);
+  return `${capitalized} Live Streams`;
+}
 
 export default async function Home() {
   const dataDir = path.join(process.cwd(), 'app', 'data');
-  const files: { name: string; updated: string; size: number }[] = [];
+  const dirEntries = await fs.readdir(dataDir);
+  
+  const playlistFiles = dirEntries
+    .filter((file) => file.endsWith('.json'))
+    .sort();
 
-  try {
-    const dirEntries = await fs.readdir(dataDir);
-    for (const file of dirEntries) {
-      if (file.endsWith('.json')) {
-        const stat = await fs.stat(path.join(dataDir, file));
-        files.push({
-          name: file,
-          updated: stat.mtime.toISOString(), // Must serialize Date for client components
-          size: stat.size,
-        });
+  const playlists: PlaylistInfo[] = await Promise.all(
+    playlistFiles.map(async (file) => {
+      const filePath = path.join(dataDir, file);
+      const fileBuffer = await fs.readFile(filePath);
+      const stat = await fs.stat(filePath);
+      
+      let channelCount = 0;
+      try {
+        const parsed = JSON.parse(fileBuffer.toString());
+        channelCount = Array.isArray(parsed) ? parsed.length : 0;
+      } catch (err) {
+        console.error(`Failed to parse playlist file ${file}:`, err);
       }
-    }
-  } catch (error) {
-    console.error('Failed to read data dir:', error);
-  }
 
-  return (
-    <main className="container mx-auto px-6 py-12 max-w-6xl flex flex-col justify-center">
-      <div className="text-center mb-12 space-y-4">
-        <div className="inline-flex items-center justify-center px-4 py-1.5 rounded-full bg-blue-500/10 border border-blue-500/20 backdrop-blur-md mb-2">
-          <span className="text-xs font-bold text-blue-400 tracking-wider uppercase">Live Synchronization</span>
-        </div>
-        <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight bg-gradient-to-b from-white to-white/50 bg-clip-text text-transparent">
-          Available Playlists
-        </h1>
-        <p className="text-base md:text-lg text-zinc-400 max-w-xl mx-auto font-light leading-relaxed">
-          Copy these dynamic URLs directly into your favorite IPTV player to keep your streams in sync.
-        </p>
-      </div>
-
-      {/* Dynamic tabs and filters */}
-      <PlaylistTabs files={files} />
-    </main>
+      return {
+        filename: file,
+        name: getPlaylistName(file),
+        channelCount,
+        sizeBytes: stat.size,
+      };
+    })
   );
+
+  return <HomeClient playlists={playlists} />;
 }
