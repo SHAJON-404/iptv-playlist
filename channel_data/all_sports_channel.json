@@ -11,17 +11,6 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
-        "name": "TSN SPORTS FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "type": "dash",
-        "group": "TSN",
-        "kid": "14eeabf30c14b7fbf3008c03099ce011",
-        "key": "17d2ac8dbc5429bd70af3433aa12158d",
-        "useProxy": true,
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
         "name": "TSN4 SPORTS FHD",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
@@ -31,6 +20,16 @@
         "key": "e5250924f4b738905f7163a0134587a7",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "WC TV FHD",
+        "logo": "",
+        "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+        "type": "dash",
+        "group": "WC",
+        "kid": "2c338a117d434ce4bbe3569231af90f1",
+        "key": "a9633d901ee8a3f4f58ac314b5c5f4fb",
+        "useProxy": true
     },
     {
         "name": "GOLTV VIVO",
@@ -47,14 +46,6 @@
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "url": "https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8?",
         "group": "TSN",
-        "useProxy": true,
-        "referer": "https://vileembeds.pages.dev/"
-    },
-    {
-        "name": "FOX SPORTS HD",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "url": "https://inproviszon.st/fox-usa.m3u8?",
-        "group": "FOX",
         "useProxy": true,
         "referer": "https://vileembeds.pages.dev/"
     },
@@ -156,20 +147,19 @@
         "origin": "https://instream.click"
     },
     {
-        "name": "MATCH TV RU",
+        "name": "SD SERVER [SWE]",
         "logo": "",
-        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-        "type": "dash",
-        "group": "MATCH",
-        "kid": "9145a6e0f778e61866f573d4944dd533",
-        "key": "d02173d40515fea5c83944f21d0f3114",
-        "useProxy": true
+        "url": "http://193.47.62.59/hls/dTHXCZckkkqq.m3u8?",
+        "group": "SERVER",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
     },
     {
-        "name": "beiN SPORTS FR",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "url": "http://193.47.62.59/hls/dTHXCZckkkq.m3u8?",
-        "group": "beIN",
+        "name": "ESPANOL SD",
+        "logo": "",
+        "url": "http://193.47.62.59/hls/dTHXCZckkkqqq.m3u8?",
+        "group": "ESPANOL",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/"
@@ -265,15 +255,6 @@
         "referer": "https://vileembeds.pages.dev/"
     },
     {
-        "name": "SD SERVER [ENG]",
-        "logo": "",
-        "url": "http://193.47.62.59/hls/JMMMCZzsss.m3u8?",
-        "group": "SERVER",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
         "name": "ITV SPORTS FHD",
         "logo": "",
         "url": "https://inproviszon.st/itv1-uk.m3u8?",
@@ -306,6 +287,15 @@
         "referer": "https://gooz.aapmains.net"
     },
     {
+        "name": "SD SERVER [ENG]",
+        "logo": "",
+        "url": "http://193.47.62.55/hls/QJMMMCZzsss.m3u8?",
+        "group": "SERVER",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
+    },
+    {
         "name": "SD SERVER  [SWE]",
         "logo": "",
         "url": "http://193.47.62.59/hls/QJMMMCZckkkqq.m3u8?",
@@ -319,6 +309,15 @@
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "url": "http://193.47.62.59/hls/QJMMMCZckkkq.m3u8?",
         "group": "beIN",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
+    },
+    {
+        "name": "ESPANOL SD",
+        "logo": "",
+        "url": "http://193.47.62.51/hls/QJMMMCZckkkqqq.m3u8?",
+        "group": "ESPANOL",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/"
@@ -338,6 +337,17 @@
         "useProxy": false
     },
     {
+        "name": "CTV SPORTS FHD",
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wwr35d1665918725.png",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+        "type": "dash",
+        "group": "CTV",
+        "kid": "d185684e2330de5bea436daa094a5e86",
+        "key": "014f0116154f5bf0050e03a6b0a23157",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
         "name": "CT SPORTS CZ",
         "logo": "",
         "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
@@ -346,17 +356,6 @@
         "kid": "11223344556677889900112233445566",
         "key": "4b80724d0ef86bcb2c21f7999d67739d",
         "useProxy": true
-    },
-    {
-        "name": "CTV SPORTS FHD",
-        "logo": "",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
-        "type": "dash",
-        "group": "CTV",
-        "kid": "d185684e2330de5bea436daa094a5e86",
-        "key": "014f0116154f5bf0050e03a6b0a23157",
-        "useProxy": true,
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
         "name": "ENG SD SERVER",
@@ -372,15 +371,6 @@
         "logo": "",
         "url": "http://193.47.62.59/hls/cdTHXCZckkkqq.m3u8?",
         "group": "SERVER",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
-        "name": "beiN SPORTS FR",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "url": "http://193.47.62.59/hls/cdTHXCZckkkq.m3u8?",
-        "group": "beIN",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/"
