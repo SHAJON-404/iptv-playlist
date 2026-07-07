@@ -963,9 +963,14 @@ async function getStreamQualities() {
     if (!url) continue;
     if (!stream.url) stream.url = url;
 
-    // ── Skip URLs containing 'fullmatchshows' ───────────────────────────
-    if (url.toLowerCase().includes('fullmatchshows')) {
+    // ── Skip URLs containing 'fullmatchshows' or 'highlight' ────────────
+    if (/fullmatchshows/i.test(url)) {
       printRow(idx, '???', stream.name, 'SKIP', `URL contains fullmatchshows: ${url}`);
+      stats.skipped++;
+      continue;
+    }
+    if (/highlight/i.test(url) || /highlight/i.test(stream.name || '')) {
+      printRow(idx, '???', stream.name, 'SKIP', `Name or URL contains highlight: ${stream.name || url}`);
       stats.skipped++;
       continue;
     }
