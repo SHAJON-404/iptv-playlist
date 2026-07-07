@@ -43,6 +43,16 @@
         "useProxy": true
     },
     {
+        "name": "RTE SPORTS FHD",
+        "logo": "",
+        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/f63170fb-3c13-4829-8e8c-0977ed9011d7:BRU/manifest.mpd",
+        "type": "dash",
+        "group": "RTE",
+        "kid": "d816287e21496989eae1312925a423c5",
+        "key": "00da00f13180e7e6cd5ce87d1c974e8d",
+        "useProxy": true
+    },
+    {
         "name": "DSports FHD",
         "logo": "https://www.directvsports.com/__export/1674066777645/sites/dsports/arte/apps/facebook_1200x630.png",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
@@ -220,16 +230,6 @@
         "origin": "http://www.fawanews.sc/"
     },
     {
-        "name": "TIPIK FR FHD",
-        "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bb/Logo_Tipik_2025.png",
-        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "type": "dash",
-        "group": "Tipik",
-        "kid": "adca25b8779e4168a0cd710f59f61ccf",
-        "key": "be5383ed3cd8079f4ffe78ad067f476a",
-        "useProxy": true
-    },
-    {
         "name": "TVE La 1 FHD",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/p19tzj1781340041.png",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
@@ -272,6 +272,16 @@
         "key": "0c5e6c0820a1ea28753721db00272411",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "RTE SPORTS FHD",
+        "logo": "",
+        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/def159ca-02f8-4dc1-8e2b-a41ec46da398:BRU/manifest.mpd",
+        "type": "dash",
+        "group": "RTE",
+        "kid": "d816287e21496989eae1312925a423c5",
+        "key": "00da00f13180e7e6cd5ce87d1c974e8d",
+        "useProxy": true
     },
     {
         "name": "FOX SPORTS 4K",
@@ -331,6 +341,16 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
+        "name": "RTE SPORTS FHD",
+        "logo": "",
+        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/88fd3886-51db-45b1-a9fd-a6c8db5a50ae:GRQ/manifest.mpd",
+        "type": "dash",
+        "group": "RTE",
+        "kid": "d816287e21496989eae1312925a423c5",
+        "key": "00da00f13180e7e6cd5ce87d1c974e8d",
+        "useProxy": true
+    },
+    {
         "name": "CT SPORTS CZ",
         "logo": "",
         "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
@@ -379,6 +399,16 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
+        "name": "RTE SPORTS FHD",
+        "logo": "",
+        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/4661fa2a-637f-4a69-bf86-31e73a99d2c2:BRU/manifest.mpd",
+        "type": "dash",
+        "group": "RTE",
+        "kid": "d816287e21496989eae1312925a423c5",
+        "key": "00da00f13180e7e6cd5ce87d1c974e8d",
+        "useProxy": true
+    },
+    {
         "name": "SporTV BR FHD",
         "logo": "https://iili.io/CFFRvqJ.png",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
@@ -401,6 +431,16 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
+        "name": "RTE SPORTS FHD",
+        "logo": "",
+        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/530f2af5-e363-41cd-b42d-ca3abb273fce:GRQ/manifest.mpd",
+        "type": "dash",
+        "group": "RTE",
+        "kid": "d816287e21496989eae1312925a423c5",
+        "key": "00da00f13180e7e6cd5ce87d1c974e8d",
+        "useProxy": true
+    },
+    {
         "name": "ENG SD SERVER",
         "logo": "",
         "url": "http://193.47.62.59/hls/cdTHXCZzsssQ.m3u8?",
@@ -410,10 +450,10 @@
         "origin": "http://www.fawanews.sc/"
     },
     {
-        "name": "beiN SPORTS FR",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "url": "http://193.47.62.59/hls/cdTHXCZckkkq.m3u8?",
-        "group": "beIN",
+        "name": "SD SERVER [SWE]",
+        "logo": "",
+        "url": "http://193.47.62.59/hls/cdTHXCZckkkqq.m3u8?",
+        "group": "SERVER",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/"
@@ -512,13 +552,6 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8",
         "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
         "group": "TVP Sports",
-        "useProxy": false
-    },
-    {
-        "name": "Mahsun Sports",
-        "url": "https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8",
-        "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
-        "group": "Mahsun Sports",
         "useProxy": false
     },
     {
