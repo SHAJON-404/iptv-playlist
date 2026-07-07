@@ -22,14 +22,6 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
-        "name": "Binge BDIX (BD)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo_of_Binge.svg/330px-Logo_of_Binge.svg.png",
-        "url": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8",
-        "group": "Binge",
-        "useProxy": true,
-        "referer": "https://iscreen.com.bd/"
-    },
-    {
         "name": "TSN4 SPORTS FHD",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
@@ -113,6 +105,14 @@
         "referer": "https://vileembeds.pages.dev/"
     },
     {
+        "name": "FOX SPORTS HD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "url": "https://inproviszon.st/fox-usa.m3u8?",
+        "group": "FOX",
+        "useProxy": true,
+        "referer": "https://vileembeds.pages.dev/"
+    },
+    {
         "name": "TELEMUNDO HD",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "url": "https://instreams.pro/US/NFLHD2/tracks-v1a1/mono.m3u8?",
@@ -125,6 +125,14 @@
         "name": "TSN SPORTS 4K",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "url": "https://inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8?",
+        "group": "4K",
+        "useProxy": true,
+        "referer": "https://vileembeds.pages.dev/"
+    },
+    {
+        "name": "FOX ONE 4K",
+        "logo": "",
+        "url": "https://inproviszon.st/fox4k-usa.m3u8?",
         "group": "4K",
         "useProxy": true,
         "referer": "https://vileembeds.pages.dev/"
@@ -154,6 +162,14 @@
         "referer": "https://vileembeds.pages.dev/"
     },
     {
+        "name": "FUSSBALL TV 4K",
+        "logo": "",
+        "url": "https://inproviszon.st/fussballtv1uhd-de.m3u8?",
+        "group": "4K",
+        "useProxy": true,
+        "referer": "https://vileembeds.pages.dev/"
+    },
+    {
         "name": "IRIB 4K",
         "logo": "",
         "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
@@ -170,28 +186,10 @@
         "origin": "https://instream.click"
     },
     {
-        "name": "SD SERVER [SWE]",
-        "logo": "",
-        "url": "http://193.47.62.59/hls/dTHXCZckkkqq.m3u8?",
-        "group": "SERVER",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
         "name": "beiN SPORTS FR",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "url": "http://193.47.62.59/hls/dTHXCZckkkq.m3u8?",
         "group": "beIN",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
-        "name": "ESPANOL SD",
-        "logo": "",
-        "url": "http://193.47.62.59/hls/dTHXCZckkkqqq.m3u8?",
-        "group": "ESPANOL",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/"
@@ -289,13 +287,12 @@
         "referer": "https://vileembeds.pages.dev/"
     },
     {
-        "name": "SD SERVER [ENG]",
-        "logo": "",
-        "url": "http://193.47.62.59/hls/JMMMCZzsss.m3u8?",
-        "group": "SERVER",
+        "name": "TELEMUNDO FHD",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "url": "https://inproviszon.st/telemund0-usa.m3u8?",
+        "group": "TELEMUNDO",
         "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
+        "referer": "https://vileembeds.pages.dev/"
     },
     {
         "name": "CTV SPORTS FHD",
@@ -377,6 +374,16 @@
         "key": "014f0116154f5bf0050e03a6b0a23157",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "RTE SPORTS FHD",
+        "logo": "",
+        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/530f2af5-e363-41cd-b42d-ca3abb273fce:GRQ/manifest.mpd",
+        "type": "dash",
+        "group": "RTE",
+        "kid": "d816287e21496989eae1312925a423c5",
+        "key": "00da00f13180e7e6cd5ce87d1c974e8d",
+        "useProxy": true
     },
     {
         "name": "ENG SD SERVER",
