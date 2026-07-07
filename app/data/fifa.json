@@ -105,14 +105,6 @@
         "referer": "https://vileembeds.pages.dev/"
     },
     {
-        "name": "beIN MAX FHD",
-        "logo": "",
-        "url": "https://inproviszon.st/beinsportsmax-sa.m3u8?",
-        "group": "beIN",
-        "useProxy": true,
-        "referer": "https://vileembeds.pages.dev/"
-    },
-    {
         "name": "TELEMUNDO HD",
         "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "url": "https://instreams.pro/US/NFLHD2/tracks-v1a1/mono.m3u8?",
@@ -161,14 +153,6 @@
         "referer": "https://vileembeds.pages.dev/"
     },
     {
-        "name": "ARABIC LIVE FHD",
-        "logo": "",
-        "url": "https://inproviszon.st/bein-xyz-waUvqaAACr.m3u8?",
-        "group": "ARABIC",
-        "useProxy": true,
-        "referer": "https://vileembeds.pages.dev/"
-    },
-    {
         "name": "IRIB 4K",
         "logo": "",
         "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
@@ -198,15 +182,6 @@
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "url": "http://193.47.62.59/hls/dTHXCZckkkq.m3u8?",
         "group": "beIN",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
-        "name": "ESPANOL SD",
-        "logo": "",
-        "url": "http://193.47.62.59/hls/dTHXCZckkkqqq.m3u8?",
-        "group": "ESPANOL",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/"
@@ -399,15 +374,6 @@
         "logo": "",
         "url": "http://193.47.62.59/hls/cdTHXCZckkkqq.m3u8?",
         "group": "SERVER",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
-        "name": "beiN SPORTS FR",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "url": "http://193.47.62.59/hls/cdTHXCZckkkq.m3u8?",
-        "group": "beIN",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/"
