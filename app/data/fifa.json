@@ -1,389 +1,5 @@
 [
     {
-        "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
-        "group": "T Sports",
-        "name": "T Sports",
-        "url": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
-        "group": "Win Sports",
-        "name": "Win Sports",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
-        "group": "BeIN Sports",
-        "name": "beIN Sports",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/eYP_0o2cnt.jpg",
-        "group": "DSports D 🇦🇷",
-        "name": "DSports D 🇦🇷",
-        "url": "http://rlatinop.com:8880/Jhoselin102030xd1011/SQDyyTdV2z6x/526169",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/eYP_0o2cnt.jpg",
-        "group": "Vivo TV",
-        "name": "Vivo TV",
-        "url": "http://rlatinop.com:8880/Jhoselin102030xd1011/SQDyyTdV2z6x/527938",
-        "useProxy": false
-    },
-    {
-        "logo": "https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png",
-        "group": "Caze TV 🇧🇷 Brazil",
-        "name": "Caze TV 🇧🇷 Brazil",
-        "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png",
-        "group": "Caze TV B - 🇧🇷 Brazil",
-        "name": "Caze TV B - 🇧🇷 Brazil",
-        "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png",
-        "group": "BTV 🇧🇩 Bangladesh",
-        "name": "BTV 🇧🇩 Bangladesh",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png",
-        "group": "Somoy TV 🇧🇩 Bangladesh",
-        "name": "Somoy TV 🇧🇩 Bangladesh",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png",
-        "group": "T Sports  🇧🇩 Bangladesh",
-        "name": "T Sports HD 🇧🇩 Bangladesh",
-        "url": "http://27.124.71.27/T-Sports/index.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/Kvj2fsr4S8.png",
-        "group": "DAZN",
-        "name": "DAZN 1 HD",
-        "url": "http://znty.dyndns.org:5010/hls/eleven1.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/Kvj2fsr4S8.png",
-        "group": "DAZN",
-        "name": "DAZN 2 HD",
-        "url": "http://znty.dyndns.org:5010/hls/eleven2.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/Kvj2fsr4S8.png",
-        "group": "DAZN",
-        "name": "DAZN 3 HD",
-        "url": "http://znty.dyndns.org:5010/hls/eleven3.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/Kvj2fsr4S8.png",
-        "group": "DAZN",
-        "name": "DAZN 4 HD",
-        "url": "http://znty.dyndns.org:5010/hls/eleven4.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/Kvj2fsr4S8.png",
-        "group": "DAZN",
-        "name": "DAZN 5 HD",
-        "url": "http://znty.dyndns.org:5010/hls/eleven5.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
-        "group": "Bein Sports  - 🇫🇷 France",
-        "name": "Bein Sports  - 🇫🇷 France",
-        "url": "http://145.239.5.177/559/mpegts",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
-        "group": "Bein Sports  🇫🇷 France",
-        "name": "Bein Sports  🇫🇷 France",
-        "url": "http://145.239.5.177:80/559/index.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
-        "group": "Bein Sports 1  🇷🇸 Serbia",
-        "name": "Bein Sports 1  🇷🇸 Serbia",
-        "url": "http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
-        "group": "Bein Sports 2 🇷🇸 Serbia",
-        "name": "Bein Sports 2 🇷🇸 Serbia",
-        "url": "http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/Tf3GP8uGY_.jpg",
-        "group": "TUDN 🇲🇽 Mexico",
-        "name": "TUDN 🇲🇽 Mexico",
-        "url": "http://177.10.184.60:8002/play/a013/index.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/Tf3GP8uGY_.jpg",
-        "group": "TUDN B 1080 🇲🇽 Mexico",
-        "name": "TUDN B 1080 🇲🇽 Mexico",
-        "url": "https://streaming.alwaysdata.net/tudn.php",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
-        "group": "Bein Sports",
-        "name": "Bein Sports 4",
-        "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
-        "group": "BeIN Sports Xtra",
-        "name": "beIN Sports Xtra",
-        "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
-        "group": "Bein Sports",
-        "name": "Bein Sports 1",
-        "url": "https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
-        "group": "Bein Sports",
-        "name": "Bein Sports 2",
-        "url": "https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
-        "group": "Bein Sports",
-        "name": "Bein Sports 3",
-        "url": "https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
-        "group": "Bein Sports",
-        "name": "Bein Sports 4",
-        "url": "https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/SZphbKsSMx.png",
-        "group": "Euro TV",
-        "name": "Euro TV",
-        "url": "https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/HMfImxTUXS.jpg",
-        "group": "Cricket Gold",
-        "name": "Cricket Gold",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8",
-        "useProxy": false
-    },
-    {
-        "group": "FOX",
-        "name": "FOX 03",
-        "url": "http://stream.cammonitorplus.net/1752/index.m3u8",
-        "useProxy": false
-    },
-    {
-        "group": "FS",
-        "name": "FS1 03",
-        "customHeaders": {
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "http-reconnect": "true",
-            "input-repeat": "-1"
-        },
-        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/328813",
-        "useProxy": false
-    },
-    {
-        "group": "FS",
-        "name": "FS1 05",
-        "url": "http://wickediptv.xyz/Randall123/Randall321/53390",
-        "useProxy": false
-    },
-    {
-        "group": "TSN",
-        "name": "TSN1 CA 04",
-        "url": "http://wickediptv.xyz/Randall123/Randall321/53805",
-        "useProxy": false
-    },
-    {
-        "group": "BBC One",
-        "name": "BBC One UK 01",
-        "url": "http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts",
-        "useProxy": false
-    },
-    {
-        "group": "BBC One",
-        "name": "BBC One UK 04",
-        "url": "http://wickediptv.xyz/Randall123/Randall321/53842",
-        "useProxy": false
-    },
-    {
-        "group": "ITV",
-        "name": "ITV1 UK 01",
-        "url": "http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/239.ts",
-        "useProxy": false
-    },
-    {
-        "group": "4K",
-        "name": "Fussball TV 1 4K DE",
-        "customHeaders": {
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "http-reconnect": "true",
-            "input-repeat": "-1"
-        },
-        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465825",
-        "useProxy": false
-    },
-    {
-        "group": "4K",
-        "name": "Fussball TV 2 4K DE",
-        "customHeaders": {
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "http-reconnect": "true",
-            "input-repeat": "-1"
-        },
-        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465822",
-        "useProxy": false
-    },
-    {
-        "group": "4K",
-        "name": "Fussball TV 3 4K DE",
-        "customHeaders": {
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "http-reconnect": "true",
-            "input-repeat": "-1"
-        },
-        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465809",
-        "useProxy": false
-    },
-    {
-        "group": "FIFAWC 2026 GAME",
-        "name": "FIFAWC 2026 GAME 01",
-        "url": "http://wickediptv.xyz/Randall123/Randall321/340018",
-        "useProxy": false
-    },
-    {
-        "group": "FIFAWC 2026 GAME",
-        "name": "FIFAWC 2026 GAME 02",
-        "url": "http://wickediptv.xyz/Randall123/Randall321/340019",
-        "useProxy": false
-    },
-    {
-        "group": "FIFAWC 2026 GAME",
-        "name": "FIFAWC 2026 GAME 03",
-        "url": "http://wickediptv.xyz/Randall123/Randall321/340017",
-        "useProxy": false
-    },
-    {
-        "group": "FIFAWC 2026 GAME",
-        "name": "FIFAWC 2026 GAME 04",
-        "url": "http://wickediptv.xyz/Randall123/Randall321/340016",
-        "useProxy": false
-    },
-    {
-        "group": "4K",
-        "name": "NOW Sports 616 4K",
-        "customHeaders": {
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "http-reconnect": "true",
-            "input-repeat": "-1"
-        },
-        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465865",
-        "useProxy": false
-    },
-    {
-        "group": "NOW Sports",
-        "name": "NOW Sports 618",
-        "customHeaders": {
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "http-reconnect": "true",
-            "input-repeat": "-1"
-        },
-        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465863",
-        "useProxy": false
-    },
-    {
-        "group": "Channel",
-        "name": "Channel 465845",
-        "customHeaders": {
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "http-reconnect": "true",
-            "input-repeat": "-1"
-        },
-        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465845",
-        "useProxy": false
-    },
-    {
-        "group": "Channel",
-        "name": "Channel 465848",
-        "customHeaders": {
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "http-reconnect": "true",
-            "input-repeat": "-1"
-        },
-        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465848",
-        "useProxy": false
-    },
-    {
-        "group": "Channel",
-        "name": "Channel 465856",
-        "customHeaders": {
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "http-reconnect": "true",
-            "input-repeat": "-1"
-        },
-        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465856",
-        "useProxy": false
-    },
-    {
-        "group": "Channel",
-        "name": "Channel 465858",
-        "customHeaders": {
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "http-reconnect": "true",
-            "input-repeat": "-1"
-        },
-        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465858",
-        "useProxy": false
-    },
-    {
-        "group": "Channel",
-        "name": "Channel 465875",
-        "customHeaders": {
-            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "http-reconnect": "true",
-            "input-repeat": "-1"
-        },
-        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465875",
-        "useProxy": false
-    },
-    {
         "name": "HD SERVER",
         "logo": "",
         "url": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?",
@@ -616,6 +232,24 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
+        "name": "SD SERVER [ENG]",
+        "logo": "",
+        "url": "http://193.47.62.59/hls/cdTHXCZzsss.m3u8?",
+        "group": "SERVER",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
+    },
+    {
+        "name": "beIN SPORTS FR",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+        "url": "http://193.47.62.59/hls/cdTHXCZckkkq.m3u8?",
+        "group": "beIN",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
+    },
+    {
         "name": "CAZE TV FHD",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
         "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
@@ -647,6 +281,15 @@
         "key": "f55dc8b66ed4fc6753d6035ae7e17144",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "SD SERVER  [SWE]",
+        "logo": "",
+        "url": "http://193.47.62.59/hls/QJMMMCZckkkqq.m3u8?",
+        "group": "SERVER",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
     },
     {
         "name": "TSports BDIX",
@@ -689,19 +332,40 @@
         "origin": "primevideo.com"
     },
     {
-        "name": "CTV SPORTS FHD",
-        "logo": "",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+        "name": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
         "type": "dash",
-        "group": "CTV",
-        "kid": "d185684e2330de5bea436daa094a5e86",
-        "key": "014f0116154f5bf0050e03a6b0a23157",
+        "group": "TSN",
+        "kid": "385ceb9714b75e0cef61254f80b31002",
+        "key": "18dce92a2891fee68d21ede5173230f8",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
-        "name": "SporTV BR FHD",
+        "name": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "type": "dash",
+        "group": "FANCODE",
+        "kid": "7e9239c1982d984a002df3ed049d0756",
+        "key": "1b8a17598129a3618535c8fb05f103fe",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "ELEVEN SPORTS",
         "logo": "",
+        "url": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
+        "type": "dash",
+        "group": "ELEVEN",
+        "kid": "69021095220f3c0eae9bc24215fd692b",
+        "key": "eb58cfe0458ed0b48f7351fa3393ad59",
+        "useProxy": true
+    },
+    {
+        "name": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
         "type": "dash",
         "group": "SporTV",
@@ -719,6 +383,17 @@
         "kid": "11223344556677889900112233445566",
         "key": "4b80724d0ef86bcb2c21f7999d67739d",
         "useProxy": true
+    },
+    {
+        "name": "CTV SPORTS FHD",
+        "logo": "",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+        "type": "dash",
+        "group": "CTV",
+        "kid": "d185684e2330de5bea436daa094a5e86",
+        "key": "014f0116154f5bf0050e03a6b0a23157",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
         "name": "SportzX Live",
@@ -748,6 +423,391 @@
         "key": "0c5e6c0820a1ea28753721db00272411",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+        "group": "T Sports",
+        "name": "T Sports",
+        "url": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+        "group": "Win Sports",
+        "name": "Win Sports",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+        "group": "BeIN Sports",
+        "name": "beIN Sports",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/eYP_0o2cnt.jpg",
+        "group": "DSports D 🇦🇷",
+        "name": "DSports D 🇦🇷",
+        "url": "http://rlatinop.com:8880/Jhoselin102030xd1011/SQDyyTdV2z6x/526169",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/eYP_0o2cnt.jpg",
+        "group": "Vivo TV",
+        "name": "Vivo TV",
+        "url": "http://rlatinop.com:8880/Jhoselin102030xd1011/SQDyyTdV2z6x/527938",
+        "useProxy": false
+    },
+    {
+        "logo": "https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png",
+        "group": "Caze TV 🇧🇷 Brazil",
+        "name": "Caze TV 🇧🇷 Brazil",
+        "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
+        "useProxy": false
+    },
+    {
+        "logo": "https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png",
+        "group": "Caze TV B - 🇧🇷 Brazil",
+        "name": "Caze TV B - 🇧🇷 Brazil",
+        "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/Kvj2fsr4S8.png",
+        "group": "DAZN",
+        "name": "DAZN 1 HD",
+        "url": "http://znty.dyndns.org:5010/hls/eleven1.m3u8",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/Kvj2fsr4S8.png",
+        "group": "DAZN",
+        "name": "DAZN 2 HD",
+        "url": "http://znty.dyndns.org:5010/hls/eleven2.m3u8",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/Kvj2fsr4S8.png",
+        "group": "DAZN",
+        "name": "DAZN 3 HD",
+        "url": "http://znty.dyndns.org:5010/hls/eleven3.m3u8",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/Kvj2fsr4S8.png",
+        "group": "DAZN",
+        "name": "DAZN 4 HD",
+        "url": "http://znty.dyndns.org:5010/hls/eleven4.m3u8",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/Kvj2fsr4S8.png",
+        "group": "DAZN",
+        "name": "DAZN 5 HD",
+        "url": "http://znty.dyndns.org:5010/hls/eleven5.m3u8",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
+        "group": "Bein Sports  - 🇫🇷 France",
+        "name": "Bein Sports  - 🇫🇷 France",
+        "url": "http://145.239.5.177/559/mpegts",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
+        "group": "Bein Sports  🇫🇷 France",
+        "name": "Bein Sports  🇫🇷 France",
+        "url": "http://145.239.5.177:80/559/index.m3u8",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
+        "group": "Bein Sports 1  🇷🇸 Serbia",
+        "name": "Bein Sports 1  🇷🇸 Serbia",
+        "url": "http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
+        "group": "Bein Sports 2 🇷🇸 Serbia",
+        "name": "Bein Sports 2 🇷🇸 Serbia",
+        "url": "http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/Tf3GP8uGY_.jpg",
+        "group": "TUDN 🇲🇽 Mexico",
+        "name": "TUDN 🇲🇽 Mexico",
+        "url": "http://177.10.184.60:8002/play/a013/index.m3u8",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/Tf3GP8uGY_.jpg",
+        "group": "TUDN B 1080 🇲🇽 Mexico",
+        "name": "TUDN B 1080 🇲🇽 Mexico",
+        "url": "https://streaming.alwaysdata.net/tudn.php",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
+        "group": "Bein Sports",
+        "name": "Bein Sports 4",
+        "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
+        "group": "BeIN Sports Xtra",
+        "name": "beIN Sports Xtra",
+        "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
+        "group": "Bein Sports",
+        "name": "Bein Sports 1",
+        "url": "https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
+        "group": "Bein Sports",
+        "name": "Bein Sports 2",
+        "url": "https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
+        "group": "Bein Sports",
+        "name": "Bein Sports 3",
+        "url": "https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
+        "group": "Bein Sports",
+        "name": "Bein Sports 4",
+        "url": "https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/SZphbKsSMx.png",
+        "group": "Euro TV",
+        "name": "Euro TV",
+        "url": "https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8",
+        "useProxy": false
+    },
+    {
+        "logo": "https://imglink.cc/cdn/HMfImxTUXS.jpg",
+        "group": "Cricket Gold",
+        "name": "Cricket Gold",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8",
+        "useProxy": false
+    },
+    {
+        "group": "FOX",
+        "name": "FOX 03",
+        "url": "http://stream.cammonitorplus.net/1752/index.m3u8",
+        "useProxy": false
+    },
+    {
+        "group": "FS",
+        "name": "FS1 03",
+        "customHeaders": {
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "http-reconnect": "true",
+            "input-repeat": "-1"
+        },
+        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/328813",
+        "useProxy": false
+    },
+    {
+        "group": "FS",
+        "name": "FS1 05",
+        "url": "http://wickediptv.xyz/Randall123/Randall321/53390",
+        "useProxy": false
+    },
+    {
+        "group": "TSN",
+        "name": "TSN1 CA 04",
+        "url": "http://wickediptv.xyz/Randall123/Randall321/53805",
+        "useProxy": false
+    },
+    {
+        "group": "BBC One",
+        "name": "BBC One UK 01",
+        "url": "http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts",
+        "useProxy": false
+    },
+    {
+        "group": "BBC One",
+        "name": "BBC One UK 04",
+        "url": "http://wickediptv.xyz/Randall123/Randall321/53842",
+        "useProxy": false
+    },
+    {
+        "group": "ITV",
+        "name": "ITV1 UK 01",
+        "url": "http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/239.ts",
+        "useProxy": false
+    },
+    {
+        "group": "4K",
+        "name": "Fussball TV 1 4K DE",
+        "customHeaders": {
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "http-reconnect": "true",
+            "input-repeat": "-1"
+        },
+        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465825",
+        "useProxy": false
+    },
+    {
+        "group": "4K",
+        "name": "Fussball TV 2 4K DE",
+        "customHeaders": {
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "http-reconnect": "true",
+            "input-repeat": "-1"
+        },
+        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465822",
+        "useProxy": false
+    },
+    {
+        "group": "FIFAWC 2026 GAME",
+        "name": "FIFAWC 2026 GAME 01",
+        "url": "http://wickediptv.xyz/Randall123/Randall321/340018",
+        "useProxy": false
+    },
+    {
+        "group": "FIFAWC 2026 GAME",
+        "name": "FIFAWC 2026 GAME 02",
+        "url": "http://wickediptv.xyz/Randall123/Randall321/340019",
+        "useProxy": false
+    },
+    {
+        "group": "FIFAWC 2026 GAME",
+        "name": "FIFAWC 2026 GAME 03",
+        "url": "http://wickediptv.xyz/Randall123/Randall321/340017",
+        "useProxy": false
+    },
+    {
+        "group": "FIFAWC 2026 GAME",
+        "name": "FIFAWC 2026 GAME 04",
+        "url": "http://wickediptv.xyz/Randall123/Randall321/340016",
+        "useProxy": false
+    },
+    {
+        "group": "4K",
+        "name": "NOW Sports 616 4K",
+        "customHeaders": {
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "http-reconnect": "true",
+            "input-repeat": "-1"
+        },
+        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465865",
+        "useProxy": false
+    },
+    {
+        "group": "4K",
+        "name": "NOW Sports 617 4K",
+        "customHeaders": {
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "http-reconnect": "true",
+            "input-repeat": "-1"
+        },
+        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465864",
+        "useProxy": false
+    },
+    {
+        "group": "NOW Sports",
+        "name": "NOW Sports 618",
+        "customHeaders": {
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "http-reconnect": "true",
+            "input-repeat": "-1"
+        },
+        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465863",
+        "useProxy": false
+    },
+    {
+        "group": "NOW Sports",
+        "name": "NOW Sports 619",
+        "customHeaders": {
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "http-reconnect": "true",
+            "input-repeat": "-1"
+        },
+        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465861",
+        "useProxy": false
+    },
+    {
+        "group": "4K",
+        "name": "TSN 4K",
+        "customHeaders": {
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "http-reconnect": "true",
+            "input-repeat": "-1"
+        },
+        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465866",
+        "useProxy": false
+    },
+    {
+        "group": "Channel",
+        "name": "Channel 465845",
+        "customHeaders": {
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "http-reconnect": "true",
+            "input-repeat": "-1"
+        },
+        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465845",
+        "useProxy": false
+    },
+    {
+        "group": "Channel",
+        "name": "Channel 465856",
+        "customHeaders": {
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "http-reconnect": "true",
+            "input-repeat": "-1"
+        },
+        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465856",
+        "useProxy": false
+    },
+    {
+        "group": "Channel",
+        "name": "Channel 465858",
+        "customHeaders": {
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "http-reconnect": "true",
+            "input-repeat": "-1"
+        },
+        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465858",
+        "useProxy": false
+    },
+    {
+        "group": "Channel",
+        "name": "Channel 465859",
+        "customHeaders": {
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "http-reconnect": "true",
+            "input-repeat": "-1"
+        },
+        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465859",
+        "useProxy": false
+    },
+    {
+        "group": "Channel",
+        "name": "Channel 465875",
+        "customHeaders": {
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "http-reconnect": "true",
+            "input-repeat": "-1"
+        },
+        "url": "http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465875",
+        "useProxy": false
     },
     {
         "name": "SportzX Live",
@@ -1026,16 +1086,6 @@
         "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
         "group": "TVP Sports",
         "useProxy": false
-    },
-    {
-        "name": "ELEVEN SPORTS",
-        "logo": "",
-        "url": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
-        "type": "dash",
-        "group": "ELEVEN",
-        "kid": "69021095220f3c0eae9bc24215fd692b",
-        "key": "eb58cfe0458ed0b48f7351fa3393ad59",
-        "useProxy": true
     },
     {
         "name": "SP0TV HD",
