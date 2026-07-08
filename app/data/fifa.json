@@ -232,24 +232,6 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
-        "name": "SD SERVER [ENG]",
-        "logo": "",
-        "url": "http://193.47.62.59/hls/cdTHXCZzsss.m3u8?",
-        "group": "SERVER",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
-        "name": "beIN SPORTS FR",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "url": "http://193.47.62.59/hls/cdTHXCZckkkq.m3u8?",
-        "group": "beIN",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
         "name": "CAZE TV FHD",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
         "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
@@ -287,15 +269,6 @@
         "logo": "",
         "url": "http://193.47.62.59/hls/QJMMMCZckkkqq.m3u8?",
         "group": "SERVER",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
-        "name": "beiN SPORTS FR",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "url": "http://193.47.62.59/hls/QJMMMCZckkkq.m3u8?",
-        "group": "beIN",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/"
@@ -414,6 +387,15 @@
         "origin": "http://www.fawanews.sc/"
     },
     {
+        "name": "SD SERVER [SWE]",
+        "logo": "",
+        "url": "http://193.47.62.59/hls/cdTHXCZckkkqq.m3u8?",
+        "group": "SERVER",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
+    },
+    {
         "name": "SportzX Live",
         "logo": "",
         "url": "https://edgestream2.pro/hls/hefbafbakx28.m3u8?",
@@ -430,16 +412,6 @@
         "useProxy": true,
         "referer": "https://instream.click/",
         "origin": "https://instream.click"
-    },
-    {
-        "name": "RTE SPORTS FHD",
-        "logo": "",
-        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/39e74ad9-137f-423c-969d-e7298cf3bf4e:BRU/manifest.mpd",
-        "type": "dash",
-        "group": "RTE",
-        "kid": "d816287e21496989eae1312925a423c5",
-        "key": "00da00f13180e7e6cd5ce87d1c974e8d",
-        "useProxy": true
     },
     {
         "name": "TUDN MEXICO",
@@ -825,15 +797,6 @@
         "useProxy": true,
         "referer": "https://streamscenter.online/",
         "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "HD SERVER",
-        "logo": "",
-        "url": "https://instreams.pro/US/MLB6/tracks-v1a1/mono.m3u8?",
-        "group": "SERVER",
-        "useProxy": true,
-        "referer": "https://instream.click/",
-        "origin": "https://instream.click"
     },
     {
         "name": "SportzX Live",
