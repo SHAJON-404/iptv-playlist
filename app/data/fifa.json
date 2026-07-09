@@ -203,16 +203,6 @@
         "useProxy": true
     },
     {
-        "name": "RTE SPORTS FHD",
-        "logo": "",
-        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/def159ca-02f8-4dc1-8e2b-a41ec46da398:BRU/manifest.mpd",
-        "type": "dash",
-        "group": "RTE",
-        "kid": "d816287e21496989eae1312925a423c5",
-        "key": "00da00f13180e7e6cd5ce87d1c974e8d",
-        "useProxy": true
-    },
-    {
         "name": "D Sports FHD",
         "logo": "",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
@@ -251,6 +241,16 @@
         "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
         "group": "4K",
         "useProxy": false
+    },
+    {
+        "name": "Match Football FHD",
+        "logo": "",
+        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+        "type": "dash",
+        "group": "Match",
+        "kid": "9145a6e0f778e61866f573d4944dd533",
+        "key": "d02173d40515fea5c83944f21d0f3114",
+        "useProxy": true
     },
     {
         "name": "SD SERVER [ENG]",
@@ -362,6 +362,16 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
+        "name": "RTE SPORTS FHD",
+        "logo": "",
+        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/4661fa2a-637f-4a69-bf86-31e73a99d2c2:BRU/manifest.mpd",
+        "type": "dash",
+        "group": "RTE",
+        "kid": "d816287e21496989eae1312925a423c5",
+        "key": "00da00f13180e7e6cd5ce87d1c974e8d",
+        "useProxy": true
+    },
+    {
         "name": "SporTV BR FHD",
         "logo": "https://iili.io/CFFRvqJ.png",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
@@ -436,6 +446,27 @@
         "useProxy": true
     },
     {
+        "name": "RTE SPORTS FHD",
+        "logo": "",
+        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/530f2af5-e363-41cd-b42d-ca3abb273fce:GRQ/manifest.mpd",
+        "type": "dash",
+        "group": "RTE",
+        "kid": "d816287e21496989eae1312925a423c5",
+        "key": "00da00f13180e7e6cd5ce87d1c974e8d",
+        "useProxy": true
+    },
+    {
+        "name": "FOX SPORTS 4K",
+        "logo": "",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+        "type": "dash",
+        "group": "4K",
+        "kid": "1f68713028d439ec03be07f56c1d6213",
+        "key": "20093db6455160fffed4c394def3193d",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
         "name": "FOX ONE HDR",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgmw19qjux/out/v1/c6ac7e638a9d4998891ae85aba377c59/cenc.mpd",
@@ -443,6 +474,17 @@
         "group": "FOX",
         "kid": "48afc63fa0ecccc3a71f46d3fda20249",
         "key": "c7cd8801e238a263fe4349a95682b83b",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
+        "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+        "type": "dash",
+        "group": "CAZE",
+        "kid": "34475edab991ad5e92548aebd710410a",
+        "key": "501b209cccd323ac00bf5ac15b406cb4",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
@@ -479,6 +521,14 @@
         "referer": "https://ritzembeds.pages.dev/"
     },
     {
+        "name": "beIN MAX - AQ",
+        "logo": "",
+        "url": "https://78cup.s3.eu-north-1.amazonaws.com/max1/master.m3u8?",
+        "group": "beIN",
+        "useProxy": true,
+        "referer": "https://b.depoooo.com/"
+    },
+    {
         "name": "TSN SPORTS 4K",
         "logo": "",
         "url": "https://pacquiao.inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8?",
@@ -491,6 +541,14 @@
         "logo": "",
         "url": "https://pacquiao.inproviszon.st/bein4k-xyz-waUvqaAAC.m3u8?",
         "group": "4K",
+        "useProxy": true,
+        "referer": "https://ritzembeds.pages.dev/"
+    },
+    {
+        "name": "FUSSBALL TV UHD",
+        "logo": "",
+        "url": "https://pacquiao.inproviszon.st/fussballtv1uhd-de.m3u8?",
+        "group": "FUSSBALL",
         "useProxy": true,
         "referer": "https://ritzembeds.pages.dev/"
     },
@@ -511,18 +569,27 @@
         "referer": "https://gooz.aapmains.net"
     },
     {
-        "name": "ENG SD SERVER",
+        "name": "SD SERVER [ENG]",
         "logo": "",
-        "url": "http://193.47.62.59/hls/cdTHXCZzsssQ.m3u8?",
+        "url": "http://193.47.62.51/hls/VQJMMMCZzsss.m3u8?",
         "group": "SERVER",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/"
     },
     {
-        "name": "SD SERVER [SWE]",
+        "name": "ENG SD SERVER",
         "logo": "",
-        "url": "http://193.47.62.59/hls/cdTHXCZckkkqq.m3u8?",
+        "url": "http://193.47.62.55/hls/VQJMMMCZckkkq.m3u8?",
+        "group": "SERVER",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
+    },
+    {
+        "name": "SD SERVER [AR]",
+        "logo": "",
+        "url": "http://193.47.62.51/hls/VQJMMMCZckkkqr.m3u8?",
         "group": "SERVER",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
@@ -531,11 +598,41 @@
     {
         "name": "beiN SPORTS FR",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "url": "http://193.47.62.59/hls/cdTHXCZckkkq.m3u8?",
+        "url": "http://193.47.62.51/hls/VQJMMMCZckkkq.m3u8?",
         "group": "beIN",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/"
+    },
+    {
+        "name": "ESPANOL SD",
+        "logo": "",
+        "url": "http://193.47.62.51/hls/VQJMMMCZckkkqqq.m3u8?",
+        "group": "ESPANOL",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
+    },
+    {
+        "name": "BTV BDIX HD",
+        "logo": "",
+        "url": "http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8",
+        "group": "BTV",
+        "useProxy": false
+    },
+    {
+        "name": "TSports HD",
+        "logo": "",
+        "url": "http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8",
+        "group": "TSports",
+        "useProxy": false
+    },
+    {
+        "name": "SOMOY TV HD",
+        "logo": "",
+        "url": "http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8",
+        "group": "SOMOY",
+        "useProxy": false
     },
     {
         "name": "SportzX MLB",
@@ -572,6 +669,33 @@
         "referer": "https://streamscenter.online/",
         "origin": "https://streamscenter.online",
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "ENG SD SERVER",
+        "logo": "",
+        "url": "http://193.47.62.59/hls/cdTHXCZzsssQ.m3u8?",
+        "group": "SERVER",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
+    },
+    {
+        "name": "SD SERVER [SWE]",
+        "logo": "",
+        "url": "http://193.47.62.59/hls/cdTHXCZckkkqq.m3u8?",
+        "group": "SERVER",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
+    },
+    {
+        "name": "beiN SPORTS FR",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+        "url": "http://193.47.62.59/hls/cdTHXCZckkkq.m3u8?",
+        "group": "beIN",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
     },
     {
         "name": "SportzX MLB",
@@ -1086,13 +1210,6 @@
         "key": "501b209cccd323ac00bf5ac15b406cb4",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-        "name": "SOMOY TV HD",
-        "logo": "",
-        "url": "http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8",
-        "group": "SOMOY",
-        "useProxy": false
     },
     {
         "name": "TSN SPORTS FHD",
