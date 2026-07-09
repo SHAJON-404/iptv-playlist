@@ -36,12 +36,25 @@
         "origin": "https://streamscenter.online"
     },
     {
-        "name": "SKY CRICKET - AQ",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141",
-        "group": "SKY",
-        "useProxy": false,
-        "user-agent": "Mozilla"
+        "name": "WILLOW FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dtyyswyqxt/out/v1/6706270f291145aaa388903d32c6cd6f/cenc.mpd",
+        "type": "dash",
+        "group": "WILLOW",
+        "kid": "b9d942f08fa157e355701dd5d6f0bd32",
+        "key": "32b949d60fd1fd73002e0286a5225ead",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "WILLOW ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/dtyyswyqxt/out/v1/6706270f291145aaa388903d32c6cd6f/cenc.mpd",
+        "type": "dash",
+        "group": "WILLOW",
+        "kid": "b9d942f08fa157e355701dd5d6f0bd32",
+        "key": "32b949d60fd1fd73002e0286a5225ead",
+        "useProxy": true
     },
     {
         "name": "WILLOW HD",
@@ -52,6 +65,44 @@
         "kid": "290e09c837da78d5cd961978d390515c",
         "key": "b748836c71e6a4ca68ef5b5652db6247",
         "useProxy": true
+    },
+    {
+        "name": "LOW SERVER",
+        "logo": "",
+        "url": "http://193.47.62.42/hls/FBBBQQQQQQQ.m3u8",
+        "group": "LOW",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/"
+    },
+    {
+        "name": "SONY TEN 1 - IN",
+        "logo": "",
+        "url": "https://dishmt.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8?hdnea=exp=1783654759~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=248eb41103c6143461848cf0f909137167ab9ac9317c2121fafd2e760e5249e3",
+        "group": "SONY",
+        "useProxy": true,
+        "origin": "https://www.sonyliv.com",
+        "referer": "https://www.sonyliv.com/",
+        "x-playback-session-id": "1e03fe217581440690708a23c8a3a3ff-1783611559313"
+    },
+    {
+        "name": "SONY TEN 3 - IN",
+        "logo": "",
+        "url": "https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1783654759~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=248eb41103c6143461848cf0f909137167ab9ac9317c2121fafd2e760e5249e3",
+        "group": "SONY",
+        "useProxy": true,
+        "origin": "https://www.sonyliv.com",
+        "referer": "https://www.sonyliv.com/",
+        "x-playback-session-id": "1e03fe217581440690708a23c8a3a3ff-1783611559313"
+    },
+    {
+        "name": "SONY TEN 4 - IN",
+        "logo": "",
+        "url": "https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1783654759~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=248eb41103c6143461848cf0f909137167ab9ac9317c2121fafd2e760e5249e3",
+        "group": "SONY",
+        "useProxy": true,
+        "origin": "https://www.sonyliv.com",
+        "referer": "https://www.sonyliv.com/",
+        "x-playback-session-id": "1e03fe217581440690708a23c8a3a3ff-1783611559313"
     },
     {
         "name": "SportzX Live",
@@ -178,16 +229,6 @@
         "useProxy": true
     },
     {
-        "name": "RTE SPORTS FHD",
-        "logo": "",
-        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/def159ca-02f8-4dc1-8e2b-a41ec46da398:BRU/manifest.mpd",
-        "type": "dash",
-        "group": "RTE",
-        "kid": "d816287e21496989eae1312925a423c5",
-        "key": "00da00f13180e7e6cd5ce87d1c974e8d",
-        "useProxy": true
-    },
-    {
         "name": "D Sports FHD",
         "logo": "",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
@@ -267,15 +308,6 @@
         "key": "a879b1d38ed002d4018bce96f9219b8d",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-        "name": "SD SERVER  [SWE]",
-        "logo": "",
-        "url": "http://193.47.62.59/hls/QJMMMCZckkkqq.m3u8?",
-        "group": "SERVER",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
     },
     {
         "name": "TSports BDIX",
@@ -399,10 +431,10 @@
         "origin": "http://www.fawanews.sc/"
     },
     {
-        "name": "SD SERVER [SWE]",
-        "logo": "",
-        "url": "http://193.47.62.59/hls/cdTHXCZckkkqq.m3u8?",
-        "group": "SERVER",
+        "name": "beiN SPORTS FR",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+        "url": "http://193.47.62.59/hls/cdTHXCZckkkq.m3u8?",
+        "group": "beIN",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/"
