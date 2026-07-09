@@ -9,10 +9,12 @@ export async function GET(
   { params }: { params: Promise<{ filename: string }> }
 ) {
   const { filename } = await params;
-  
+  const isJson = filename.endsWith('.json');
+  const isM3u = filename.endsWith('.m3u');
+
   // Basic security check
-  if (!filename || filename.includes('..') || filename.includes('/') || filename.includes('\\') || !filename.endsWith('.json')) {
-    return new NextResponse('Invalid filename or format. Only JSON is supported.', { status: 400 });
+  if (!filename || filename.includes('..') || filename.includes('/') || filename.includes('\\') || (!isJson && !isM3u)) {
+    return new NextResponse('Invalid filename or format. Only JSON and M3U are supported.', { status: 400 });
   }
 
   try {
@@ -20,7 +22,8 @@ export async function GET(
     const fileBuffer = await fs.readFile(filePath);
 
     const response = new NextResponse(fileBuffer);
-    response.headers.set('Content-Type', 'application/json');
+    const contentType = isJson ? 'application/json' : 'application/x-mpegurl; charset=utf-8';
+    response.headers.set('Content-Type', contentType);
     response.headers.set('Content-Length', fileBuffer.byteLength.toString());
     response.headers.set('Cache-Control', 'no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0');
     response.headers.set('Access-Control-Allow-Origin', '*');
