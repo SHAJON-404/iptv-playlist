@@ -178,6 +178,16 @@
         "useProxy": true
     },
     {
+        "name": "RTE SPORTS FHD",
+        "logo": "",
+        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/def159ca-02f8-4dc1-8e2b-a41ec46da398:BRU/manifest.mpd",
+        "type": "dash",
+        "group": "RTE",
+        "kid": "d816287e21496989eae1312925a423c5",
+        "key": "00da00f13180e7e6cd5ce87d1c974e8d",
+        "useProxy": true
+    },
+    {
         "name": "D Sports FHD",
         "logo": "",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
@@ -218,15 +228,6 @@
         "useProxy": false
     },
     {
-        "name": "SD SERVER [ENG]",
-        "logo": "",
-        "url": "http://193.47.62.59/hls/JMMMCZzsss.m3u8?",
-        "group": "SERVER",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
         "name": "ITV SPORTS FHD",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
@@ -247,6 +248,15 @@
         "key": "a879b1d38ed002d4018bce96f9219b8d",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "SD SERVER  [SWE]",
+        "logo": "",
+        "url": "http://193.47.62.59/hls/QJMMMCZckkkqq.m3u8?",
+        "group": "SERVER",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
     },
     {
         "name": "beiN SPORTS FR",
@@ -570,13 +580,6 @@
         "group": "Bein Sports  🇫🇷 France",
         "name": "Bein Sports  🇫🇷 France",
         "url": "http://145.239.5.177:80/559/index.m3u8",
-        "useProxy": false
-    },
-    {
-        "logo": "https://imglink.cc/cdn/Tf3GP8uGY_.jpg",
-        "group": "TUDN 🇲🇽 Mexico",
-        "name": "TUDN 🇲🇽 Mexico",
-        "url": "http://177.10.184.60:8002/play/a013/index.m3u8",
         "useProxy": false
     },
     {
