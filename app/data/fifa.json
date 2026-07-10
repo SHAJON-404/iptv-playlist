@@ -2,15 +2,6 @@
     {
         "name": "SportzX Live",
         "logo": "",
-        "url": "https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
         "url": "https://edgestream1.pro/hls/jzabfazkbf27.m3u8?",
         "group": "SportzX",
         "useProxy": true,
@@ -525,16 +516,6 @@
         "url": "http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8",
         "group": "SOMOY",
         "useProxy": false
-    },
-    {
-        "name": "FIFA WC TV",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/16/image",
-        "url": "https://rcg-bks400-06.starhubgo.com/bpk-token/1ab@04m31aa2tvpdquttxoskez0xbawhl5ga0kkeiwda/bpk-tv/FIFAWCCh1/output/manifest.mpd?bkm-query",
-        "type": "dash",
-        "group": "FIFA",
-        "kid": "9e695f8c65d74c6a9827a2e35367c086",
-        "key": "decde9976ea76d1a91f91d9bf068f413",
-        "useProxy": true
     },
     {
         "name": "SportzX Live",
