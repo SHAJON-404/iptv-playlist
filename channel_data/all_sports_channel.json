@@ -328,15 +328,6 @@
         "origin": "http://www.fawanews.sc/"
     },
     {
-        "name": "beiN SPORTS FR",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "url": "http://193.47.62.59/hls/QJMMMCZckkkq.m3u8?",
-        "group": "beIN",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
         "name": "TSports BDIX",
         "logo": "",
         "url": "http://103.165.93.31:8095/tsports/video.m3u8",
