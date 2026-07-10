@@ -83,16 +83,6 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
-        "name": "FIFA WC TV",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/16/image",
-        "url": "https://sh-bks400-08.starhubgo.com/bpk-token/1ac@p0z20j0mhtlhzap3muxbntzvtetogxosp0pf0zca/bpk-tv/FIFAWCCh1/output/manifest.mpd?bkm-query",
-        "type": "dash",
-        "group": "FIFA",
-        "kid": "9e695f8c65d74c6a9827a2e35367c086",
-        "key": "decde9976ea76d1a91f91d9bf068f413",
-        "useProxy": true
-    },
-    {
         "name": "TSN SPORTS FHD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
@@ -192,6 +182,23 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
+        "name": "BBC SPORTS HD",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
+        "url": "https://chatgpt.hereisman.net/playlist/53152/load-playlist?",
+        "group": "BBC",
+        "useProxy": true,
+        "referer": "https://gooz.aapmains.net"
+    },
+    {
+        "name": "TELEMUNDO HD",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "url": "https://instreams.pro/live/NFLHD2/mono.m3u8?st=As5eiAcV0d4BI0820Y9VuQ&e=1783719317",
+        "group": "TELEMUNDO",
+        "useProxy": true,
+        "referer": "https://instream.click/",
+        "origin": "https://instream.click"
+    },
+    {
         "name": "FOX ONE HD",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd",
@@ -208,6 +215,31 @@
         "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
         "group": "4K",
         "useProxy": false
+    },
+    {
+        "name": "FOX SPORTS HD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "url": "https://chatgpt.hereisman.net/playlist/53156/load-playlist?",
+        "group": "FOX",
+        "useProxy": true,
+        "referer": "https://gooz.aapmains.net"
+    },
+    {
+        "name": "TSN SPORTS HD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "url": "https://chatgpt.hereisman.net/playlist/53157/load-playlist?",
+        "group": "TSN",
+        "useProxy": true,
+        "referer": "https://gooz.aapmains.net"
+    },
+    {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://instreams.pro/live/NFLHD1/mono.m3u8?st=UdIeVOzE67EBwP6Cfi0X1Q&e=1783719417",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://instream.click/",
+        "origin": "https://instream.click"
     },
     {
         "name": "TSports HD",
@@ -267,6 +299,15 @@
         "logo": "",
         "url": "http://193.47.62.59/hls/QJMMMCZckkkqq.m3u8?",
         "group": "SERVER",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
+    },
+    {
+        "name": "beiN SPORTS FR",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+        "url": "http://193.47.62.59/hls/QJMMMCZckkkq.m3u8?",
+        "group": "beIN",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/"
@@ -904,12 +945,6 @@
         "group": "TSN",
         "name": "TSN1 CA 04",
         "url": "http://wickediptv.xyz/Randall123/Randall321/53805",
-        "useProxy": false
-    },
-    {
-        "group": "BBC One",
-        "name": "BBC One UK 01",
-        "url": "http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts",
         "useProxy": false
     },
     {
