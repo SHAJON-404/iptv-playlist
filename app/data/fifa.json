@@ -26,14 +26,6 @@
         "origin": "https://streamscenter.online"
     },
     {
-        "name": "SportzX MLB",
-        "logo": "",
-        "url": "https://chatgpt.hereisman.net/playlist/53144/load-playlist?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://gooz.aapmains.net"
-    },
-    {
         "name": "SportzX Live",
         "logo": "",
         "url": "https://edgestream1.pro/hls/dzjhkfazbka26.m3u8?",
@@ -87,14 +79,6 @@
         "origin": "https://streamscenter.online"
     },
     {
-        "name": "SportzX WNBA",
-        "logo": "",
-        "url": "https://chatgpt.hereisman.net/playlist/53149/load-playlist?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://gooz.aapmains.net"
-    },
-    {
         "name": "SportzX Live",
         "logo": "",
         "url": "https://edgestream2.pro/hls/yjtzafghvjza74.m3u8?",
@@ -126,6 +110,20 @@
         "logo": "",
         "url": "https://hgcloud.to/e/us7kdjgtzcka",
         "group": "FULL",
+        "useProxy": false
+    },
+    {
+        "name": "1st HALF",
+        "logo": "",
+        "url": "https://soccerfull.net/hls/14645.m3u8",
+        "group": "1st",
+        "useProxy": false
+    },
+    {
+        "name": "2nd HALF",
+        "logo": "",
+        "url": "https://hgcloud.to/e/vo1x8pseaklb",
+        "group": "2nd",
         "useProxy": false
     },
     {
@@ -276,15 +274,6 @@
         "useProxy": false
     },
     {
-        "name": "SD SERVER [ENG]",
-        "logo": "",
-        "url": "http://193.47.62.59/hls/JMMMCZzsss.m3u8?",
-        "group": "SERVER",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
         "name": "ITV SPORTS FHD",
         "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
@@ -305,15 +294,6 @@
         "key": "a879b1d38ed002d4018bce96f9219b8d",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-        "name": "SD SERVER  [SWE]",
-        "logo": "",
-        "url": "http://193.47.62.59/hls/QJMMMCZckkkqq.m3u8?",
-        "group": "SERVER",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
     },
     {
         "name": "beiN SPORTS FR",
@@ -346,14 +326,6 @@
         "useProxy": true,
         "referer": "https://streamscenter.online/",
         "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "SportzX WNBA",
-        "logo": "",
-        "url": "https://chatgpt.hereisman.net/playlist/53148/load-playlist?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://gooz.aapmains.net"
     },
     {
         "name": "SportzX Live",
