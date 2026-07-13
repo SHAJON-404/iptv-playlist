@@ -43,17 +43,6 @@
         "origin": "https://streamscenter.online"
     },
     {
-        "name": "ICC TV FHD",
-        "logo": "",
-        "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1783963527~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=a52111765afdb90aa53807f7fda3806eac1c3f031521826b7f798a7e7a2c50ef/manifest.mpd",
-        "type": "dash",
-        "group": "ICC",
-        "kid": "39bd302cdeed3710a89fb004d232ab67",
-        "key": "9869f804ba18d7e508cbff781829221c",
-        "useProxy": true,
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-    },
-    {
         "name": "WILLOW FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xcprfcksme/out/v1/a91ca17f42454defaae994587f35fcf7/cenc.mpd?",
@@ -294,6 +283,24 @@
         "useProxy": false
     },
     {
+        "name": "SD SERVER [ENG]",
+        "logo": "",
+        "url": "http://193.47.62.59/hls/VVQJMMMCZzsssp.m3u8?",
+        "group": "SERVER",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
+    },
+    {
+        "name": "SD SERVER [SWE]",
+        "logo": "",
+        "url": "http://193.47.62.59/hls/VVQJMMMCZckkkqq.m3u8?",
+        "group": "SERVER",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
+    },
+    {
         "name": "beiN SPORTS FR",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "url": "http://193.47.62.59/hls/VVQJMMMCZckkkq.m3u8?",
@@ -355,15 +362,6 @@
         "key": "a879b1d38ed002d4018bce96f9219b8d",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-        "name": "SD SERVER  [SWE]",
-        "logo": "",
-        "url": "http://193.47.62.59/hls/QJMMMCZckkkqq.m3u8?",
-        "group": "SERVER",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
     },
     {
         "name": "beiN SPORTS FR",
