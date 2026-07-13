@@ -60,6 +60,14 @@
         "useProxy": true
     },
     {
+        "name": "SKY CRICKET - AQ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141",
+        "group": "SKY",
+        "useProxy": false,
+        "user-agent": "Mozilla"
+    },
+    {
         "name": "WILLOW FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xcprfcksme/out/v1/a91ca17f42454defaae994587f35fcf7/cenc.mpd?",
@@ -69,6 +77,14 @@
         "key": "83c65be540066b2b8156a5023a474d9d",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "SKY CRICKET FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+        "group": "SKY",
+        "useProxy": false,
+        "user-agent": "Mozilla"
     },
     {
         "name": "WILLOW - ALT",
@@ -267,9 +283,9 @@
         "useProxy": false
     },
     {
-        "name": "SD SERVER [SWE]",
+        "name": "SD SERVER [ENG]",
         "logo": "",
-        "url": "http://193.47.62.59/hls/VVQJMMMCZckkkqq.m3u8?",
+        "url": "http://193.47.62.59/hls/VVQJMMMCZzsssp.m3u8?",
         "group": "SERVER",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
@@ -339,10 +355,10 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
-        "name": "beiN SPORTS FR",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "url": "http://193.47.62.59/hls/QJMMMCZckkkq.m3u8?",
-        "group": "beIN",
+        "name": "SD SERVER  [SWE]",
+        "logo": "",
+        "url": "http://193.47.62.59/hls/QJMMMCZckkkqq.m3u8?",
+        "group": "SERVER",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/"
@@ -415,6 +431,16 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
+        "name": "RTE SPORTS FHD",
+        "logo": "",
+        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/f3263b66-0a16-442d-9fe8-e17453eae386:BRU/manifest.mpd",
+        "type": "dash",
+        "group": "RTE",
+        "kid": "d816287e21496989eae1312925a423c5",
+        "key": "00da00f13180e7e6cd5ce87d1c974e8d",
+        "useProxy": true
+    },
+    {
         "name": "CTV SPORTS FHD",
         "logo": "https://r2.thesportsdb.com/images/media/channel/logo/wwr35d1665918725.png",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
@@ -475,6 +501,24 @@
         "origin": "http://www.fawanews.sc/"
     },
     {
+        "name": "beiN SPORTS FR",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+        "url": "http://193.47.62.59/hls/yyyyCZckkkq.m3u8?",
+        "group": "beIN",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
+    },
+    {
+        "name": "ESPANOL SD",
+        "logo": "",
+        "url": "http://193.47.62.59/hls/yyyyCZckkkqqq.m3u8?",
+        "group": "ESPANOL",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
+    },
+    {
         "name": "SportzX Live",
         "logo": "",
         "url": "https://edgestream1.pro/hls/zeafwqvhfe69.m3u8?",
@@ -516,6 +560,44 @@
         "url": "https://soccerfull.net/hls/14664.m3u8",
         "group": "ET",
         "useProxy": false
+    },
+    {
+        "name": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "type": "dash",
+        "group": "FANCODE",
+        "kid": "7e9239c1982d984a002df3ed049d0756",
+        "key": "1b8a17598129a3618535c8fb05f103fe",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "TNT SPORTS HD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+        "url": "https://tmaxapp.site/8wirwjs76erftg/tntsports4.m3u8",
+        "group": "TNT",
+        "useProxy": false
+    },
+    {
+        "name": "FANCODE SD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+        "type": "dash",
+        "group": "FANCODE",
+        "kid": "709c812e1b4174002605df1d17d34a4c",
+        "key": "0bbee6c9c20a0f065bf8369d54cbf83e",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "LOW SERVER",
+        "logo": "",
+        "url": "http://193.47.62.41/hls/tatataqQQQQQ.m3u8?",
+        "group": "LOW",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
     },
     {
         "name": "SportzX Live",
