@@ -43,40 +43,11 @@
         "origin": "https://streamscenter.online"
     },
     {
-        "name": "WILLOW FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ac8hjui1bt/out/v1/7f3eb00469024757b051a35bdb9a71c5/cenc.mpd",
-        "type": "dash",
-        "group": "WILLOW",
-        "kid": "9d4ac51eff0cff8f0d0da3fbdbc11b5a",
-        "key": "a640f2050f6f0ef67cdc6e794c12070e",
-        "useProxy": true,
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-        "name": "SKY CRICKET FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-        "group": "SKY",
-        "useProxy": false,
-        "user-agent": "Mozilla"
-    },
-    {
         "name": "SKY SPORT NZ",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
         "group": "SKY",
         "useProxy": false
-    },
-    {
-        "name": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ac8hjui1bt/out/v1/7f3eb00469024757b051a35bdb9a71c5/cenc.mpd",
-        "type": "dash",
-        "group": "WILLOW",
-        "kid": "9d4ac51eff0cff8f0d0da3fbdbc11b5a",
-        "key": "a640f2050f6f0ef67cdc6e794c12070e",
-        "useProxy": true
     },
     {
         "name": "WILLOW HD",
@@ -138,16 +109,6 @@
         "key": "ff46a8a1031eb27ef22576a077c98ab7",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-        "name": "RTE SPORTS FHD",
-        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/syptrs1458515379.png",
-        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/0d80be88-2ffb-4548-8db3-a64235332b23:GRQ/manifest.mpd",
-        "type": "dash",
-        "group": "RTE",
-        "kid": "d816287e21496989eae1312925a423c5",
-        "key": "00da00f13180e7e6cd5ce87d1c974e8d",
-        "useProxy": true
     },
     {
         "name": "TVE La 1 FHD",
@@ -293,6 +254,15 @@
         "url": "http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8",
         "group": "SOMOY",
         "useProxy": false
+    },
+    {
+        "name": "SD SERVER [ENG]",
+        "logo": "",
+        "url": "http://193.47.62.59/hls/VVQJMMMCZzsssp.m3u8?",
+        "group": "SERVER",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
     },
     {
         "name": "beiN SPORTS FR",
@@ -503,10 +473,10 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
-        "name": "SD SERVER [ENG]",
+        "name": "ESPANOL SD",
         "logo": "",
-        "url": "http://193.47.62.59/hls/yyyyCZzsss.m3u8?",
-        "group": "SERVER",
+        "url": "http://193.47.62.59/hls/yyyyCZckkkqqq.m3u8?",
+        "group": "ESPANOL",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/"
