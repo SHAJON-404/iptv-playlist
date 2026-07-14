@@ -18,17 +18,18 @@
         "origin": "https://streamscenter.online"
     },
     {
-        "name": "WILLOW - AQ",
+        "name": "WILLOW FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd",
         "type": "dash",
         "group": "WILLOW",
         "kid": "63ff5bd50a863114f9d5fe0d18aff544",
         "key": "319760d139c5af680bab44664fd833ad",
-        "useProxy": true
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
-        "name": "WILLOW - ALT",
+        "name": "WILLOW ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd",
         "type": "dash",
@@ -65,14 +66,6 @@
         "url": "https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1784062296~acl=/*~id=50631058332994174048547819394841~hmac=f76b01c8711269e15159856f7c4d88130f7ff9e9dab308e4626cd4344e7b34c4",
         "group": "SONY",
         "useProxy": false
-    },
-    {
-        "name": "CRICKET FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-        "group": "CRICKET",
-        "useProxy": false,
-        "user-agent": "Mozilla"
     },
     {
         "name": "WILLOW HD",
@@ -421,13 +414,6 @@
         "origin": "https://streamscenter.online"
     },
     {
-        "name": "SKY SPORTS SD",
-        "logo": "",
-        "url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
-        "group": "SKY",
-        "useProxy": false
-    },
-    {
         "name": "FOX SPORTS FHD",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
@@ -462,13 +448,6 @@
         "key": "1b8a17598129a3618535c8fb05f103fe",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-        "name": "TNT SPORTS HD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-        "url": "https://tmaxapp.site/8wirwjs76erftg/tntsports4.m3u8",
-        "group": "TNT",
-        "useProxy": false
     },
     {
         "name": "FANCODE SD",
