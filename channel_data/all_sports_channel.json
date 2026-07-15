@@ -292,6 +292,22 @@
         "origin": "http://www.fawanews.sc/"
     },
     {
+        "name": "ESPANOL SD",
+        "logo": "",
+        "url": "http://193.47.62.59/hls/ECZckkkqqq.m3u8?",
+        "group": "ESPANOL",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
+    },
+    {
+        "name": "beIN ARABIC HD",
+        "logo": "",
+        "url": "https://cp11.adabmedia.com/hls2/sport.m3u8",
+        "group": "beIN",
+        "useProxy": false
+    },
+    {
         "name": "FOX ONE - AQ",
         "logo": "",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
@@ -417,15 +433,6 @@
     {
         "name": "SportzX Live",
         "logo": "",
-        "url": "https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
         "url": "https://edgestream3.pro/hls/ztyarueaghj71.m3u8?",
         "group": "SportzX",
         "useProxy": true,
@@ -436,15 +443,6 @@
         "name": "SportzX Live",
         "logo": "",
         "url": "https://edgestream2.pro/hls/mlkijfezag65.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8?",
         "group": "SportzX",
         "useProxy": true,
         "referer": "https://streamscenter.online/",
