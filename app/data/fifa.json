@@ -64,17 +64,6 @@
         "useProxy": true
     },
     {
-        "name": "WC TV FHD",
-        "logo": "https://img.sofascore.com/api/v1/unique-tournament/16/image",
-        "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
-        "type": "dash",
-        "group": "WC",
-        "kid": "603e4118f91f453282dc44850376aabd",
-        "key": "be92f663ca1a10134a5b371ade386ccc",
-        "useProxy": true,
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
         "name": "SPANISH FHD",
         "logo": "",
         "url": "https://teleamazonasb.cdn.mdstrm.com/live-stream-mp/dfzu2jckcs3he/a5e7a2777ea24b8ca49b326b536f87b2/6a0cd90eb3852427fcded197/manifest.mpd",
@@ -105,14 +94,6 @@
         "key": "e5250924f4b738905f7163a0134587a7",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-        "name": "ISCREEN BD FHD",
-        "logo": "https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd",
-        "url": "https://ld58dqz8ajj8.rockstreamer.com/isc_ssai/isc_ssai_ads/main2/isc_ssai_1080p/chunks.m3u8",
-        "group": "ISCREEN",
-        "useProxy": true,
-        "referer": "https://iscreen.com.bd/"
     },
     {
         "name": "CANAL5 FHD",
@@ -236,6 +217,13 @@
         "logo": "",
         "url": "http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8",
         "group": "TSports",
+        "useProxy": false
+    },
+    {
+        "name": "BTV BDIX HD",
+        "logo": "https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=2048&q=75",
+        "url": "http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8",
+        "group": "BTV",
         "useProxy": false
     },
     {
@@ -553,14 +541,6 @@
         "name": "FIFAWC 2026 GAME 04",
         "url": "http://wickediptv.xyz/Randall123/Randall321/340016",
         "useProxy": false
-    },
-    {
-        "name": "SP0TV HD",
-        "logo": "",
-        "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd",
-        "type": "dash",
-        "group": "SP0TV",
-        "useProxy": true
     },
     {
         "name": "SP0TV2 HD",
