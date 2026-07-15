@@ -75,13 +75,6 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
-        "name": "beIN ARABIC FHD",
-        "logo": "",
-        "url": "https://pub-f6b8e84cfb6a4f70b4fc28e51d834e00.r2.dev/BMax1-1/index.m3u8",
-        "group": "beIN",
-        "useProxy": false
-    },
-    {
         "name": "SPANISH FHD",
         "logo": "",
         "url": "https://teleamazonasb.cdn.mdstrm.com/live-stream-mp/dfzu2jckcs3he/a5e7a2777ea24b8ca49b326b536f87b2/6a0cd90eb3852427fcded197/manifest.mpd",
