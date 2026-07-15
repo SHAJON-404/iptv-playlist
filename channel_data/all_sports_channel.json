@@ -92,36 +92,11 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
     },
     {
-        "name": "FAST SERVER",
-        "logo": "",
-        "url": "https://pulltx.cqsycw.com/live/hd-en-6MvYMRTGwDjUa2BEZt.m3u8?txSecret=8c2333810dbef8ad35f07446a228040c&txTime=6A580010",
-        "group": "FAST",
-        "useProxy": false
-    },
-    {
-        "name": "TELEMUNDO HD",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "url": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8?",
-        "group": "TELEMUNDO",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
-    },
-    {
         "name": "TSN SPORTS FHD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "url": "https://hugh.cdn.rumble.cloud/live/e6pv21nm/slot-29/5hut-fygn_1080p/chunklist.m3u8",
         "group": "TSN",
         "useProxy": false
-    },
-    {
-        "name": "TELEMUNDO HD",
-        "logo": "",
-        "url": "https://edgestream3.pro/hls/b0h5fNwDKH.m3u8?",
-        "group": "TELEMUNDO",
-        "useProxy": true,
-        "referer": "https://streame.center/",
-        "origin": "https://streame.center"
     },
     {
         "name": "Server ",
