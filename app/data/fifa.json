@@ -14,6 +14,20 @@
         "useProxy": false
     },
     {
+        "name": "EP 3",
+        "logo": "",
+        "url": "http://himel-op.top/sportzx-stream/star-series2.mkv?id=151814",
+        "group": "EP",
+        "useProxy": false
+    },
+    {
+        "name": "EP 4",
+        "logo": "",
+        "url": "http://himel-op.top/sportzx-stream/star-series2.mkv?id=151815",
+        "group": "EP",
+        "useProxy": false
+    },
+    {
         "name": "EP 5",
         "logo": "",
         "url": "http://himel-op.top/sportzx-stream/star-series2.mkv?id=151816",
@@ -28,9 +42,23 @@
         "useProxy": false
     },
     {
+        "name": "EP 7",
+        "logo": "",
+        "url": "http://himel-op.top/sportzx-stream/star-series2.mkv?id=151818",
+        "group": "EP",
+        "useProxy": false
+    },
+    {
         "name": "EP 8",
         "logo": "",
         "url": "http://himel-op.top/sportzx-stream/star-series2.mkv?id=151819",
+        "group": "EP",
+        "useProxy": false
+    },
+    {
+        "name": "EP 9",
+        "logo": "",
+        "url": "http://himel-op.top/sportzx-stream/star-series2.mkv?id=151820",
         "group": "EP",
         "useProxy": false
     },
@@ -244,15 +272,6 @@
         "url": "http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8",
         "group": "SOMOY",
         "useProxy": false
-    },
-    {
-        "name": "beiN SPORTS FR",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "url": "http://193.47.62.59/hls/VVQJMMMCZckkkq.m3u8?",
-        "group": "beIN",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
     },
     {
         "name": "beIN ARABIC HD",
