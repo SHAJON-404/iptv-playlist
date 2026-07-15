@@ -14,20 +14,6 @@
         "useProxy": false
     },
     {
-        "name": "EP 3",
-        "logo": "",
-        "url": "http://himel-op.top/sportzx-stream/star-series2.mkv?id=151814",
-        "group": "EP",
-        "useProxy": false
-    },
-    {
-        "name": "EP 4",
-        "logo": "",
-        "url": "http://himel-op.top/sportzx-stream/star-series2.mkv?id=151815",
-        "group": "EP",
-        "useProxy": false
-    },
-    {
         "name": "EP 5",
         "logo": "",
         "url": "http://himel-op.top/sportzx-stream/star-series2.mkv?id=151816",
@@ -42,23 +28,9 @@
         "useProxy": false
     },
     {
-        "name": "EP 7",
-        "logo": "",
-        "url": "http://himel-op.top/sportzx-stream/star-series2.mkv?id=151818",
-        "group": "EP",
-        "useProxy": false
-    },
-    {
         "name": "EP 8",
         "logo": "",
         "url": "http://himel-op.top/sportzx-stream/star-series2.mkv?id=151819",
-        "group": "EP",
-        "useProxy": false
-    },
-    {
-        "name": "EP 9",
-        "logo": "",
-        "url": "http://himel-op.top/sportzx-stream/star-series2.mkv?id=151820",
         "group": "EP",
         "useProxy": false
     },
@@ -278,15 +250,6 @@
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "url": "http://193.47.62.59/hls/VVQJMMMCZckkkq.m3u8?",
         "group": "beIN",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
-        "name": "ESPANOL SD",
-        "logo": "",
-        "url": "http://193.47.62.59/hls/ECZckkkqqq.m3u8?",
-        "group": "ESPANOL",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/"
