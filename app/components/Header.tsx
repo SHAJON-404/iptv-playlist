@@ -81,8 +81,8 @@ export function Header() {
               <Link
                 href="/fixtures"
                 className={`flex items-center gap-1.5 sm:gap-2 px-3 py-2 sm:px-4 sm:py-2.5 rounded-xl border transition-all duration-300 hover:shadow-lg hover:shadow-blue-500/10 active:scale-95 cursor-pointer ${isFixturesPage
-                    ? "border-blue-500/50 bg-blue-500/10 text-blue-400"
-                    : "border-white/10 hover:border-blue-500/50 bg-white/5 hover:bg-blue-500/10 text-white"
+                  ? "border-blue-500/50 bg-blue-500/10 text-blue-400"
+                  : "border-white/10 hover:border-blue-500/50 bg-white/5 hover:bg-blue-500/10 text-white"
                   } font-bold text-xs sm:text-sm`}
               >
                 <Trophy size={15} className="text-amber-400" />
@@ -92,8 +92,8 @@ export function Header() {
               <Link
                 href="/download"
                 className={`flex items-center gap-1.5 sm:gap-2 px-3 py-2 sm:px-4 sm:py-2.5 rounded-xl border transition-all duration-300 hover:shadow-lg hover:shadow-blue-500/10 active:scale-95 cursor-pointer ${isDownloadPage
-                    ? "border-blue-500/50 bg-blue-500/10 text-blue-400"
-                    : "border-white/10 hover:border-blue-500/50 bg-white/5 hover:bg-blue-500/10 text-white"
+                  ? "border-blue-500/50 bg-blue-500/10 text-blue-400"
+                  : "border-white/10 hover:border-blue-500/50 bg-white/5 hover:bg-blue-500/10 text-white"
                   } font-bold text-xs sm:text-sm`}
               >
                 <Download size={15} />
@@ -103,8 +103,8 @@ export function Header() {
               <Link
                 href="/faq"
                 className={`flex items-center gap-1.5 sm:gap-2 px-3 py-2 sm:px-4 sm:py-2.5 rounded-xl border transition-all duration-300 hover:shadow-lg hover:shadow-blue-500/10 active:scale-95 cursor-pointer ${isFaqPage
-                    ? "border-blue-500/50 bg-blue-500/10 text-blue-400"
-                    : "border-white/10 hover:border-blue-500/50 bg-white/5 hover:bg-blue-500/10 text-white"
+                  ? "border-blue-500/50 bg-blue-500/10 text-blue-400"
+                  : "border-white/10 hover:border-blue-500/50 bg-white/5 hover:bg-blue-500/10 text-white"
                   } font-bold text-xs sm:text-sm`}
               >
                 <HelpCircle size={15} />
@@ -161,7 +161,7 @@ export function Header() {
                           Telegram
                         </a>
                         <a
-                          href="https://discord.gg/TtWrw8W9B"
+                          href="https://discord.gg/NQjksbt3NN"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-[#5865F2]/10 border border-[#5865F2]/20 text-[#5865F2] text-[10px] font-bold"
@@ -181,8 +181,8 @@ export function Header() {
                   href="/fixtures"
                   onClick={() => setIsOpen(false)}
                   className={`flex items-center gap-2 px-4 py-3 rounded-xl border text-sm font-bold transition-all ${isFixturesPage
-                      ? "border-blue-500/50 bg-blue-500/10 text-blue-400"
-                      : "border-white/5 bg-white/[0.02] text-white"
+                    ? "border-blue-500/50 bg-blue-500/10 text-blue-400"
+                    : "border-white/5 bg-white/[0.02] text-white"
                     }`}
                 >
                   <Trophy size={16} className="text-amber-400" />
@@ -193,8 +193,8 @@ export function Header() {
                   href="/download"
                   onClick={() => setIsOpen(false)}
                   className={`flex items-center gap-2 px-4 py-3 rounded-xl border text-sm font-bold transition-all ${isDownloadPage
-                      ? "border-blue-500/50 bg-blue-500/10 text-blue-400"
-                      : "border-white/5 bg-white/[0.02] text-white"
+                    ? "border-blue-500/50 bg-blue-500/10 text-blue-400"
+                    : "border-white/5 bg-white/[0.02] text-white"
                     }`}
                 >
                   <Download size={16} />
@@ -205,8 +205,8 @@ export function Header() {
                   href="/faq"
                   onClick={() => setIsOpen(false)}
                   className={`flex items-center gap-2 px-4 py-3 rounded-xl border text-sm font-bold transition-all ${isFaqPage
-                      ? "border-blue-500/50 bg-blue-500/10 text-blue-400"
-                      : "border-white/5 bg-white/[0.02] text-white"
+                    ? "border-blue-500/50 bg-blue-500/10 text-blue-400"
+                    : "border-white/5 bg-white/[0.02] text-white"
                     }`}
                 >
                   <HelpCircle size={16} />

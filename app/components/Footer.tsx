@@ -62,7 +62,7 @@ export function Footer() {
                 <FaTelegram size={20} />
               </a>
               <a
-                href="https://discord.gg/TtWrw8W9B"
+                href="https://discord.gg/NQjksbt3NN"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2.5 rounded-xl bg-white/5 border border-white/10 hover:border-blue-500/50 hover:bg-blue-500/10 text-zinc-300 hover:text-blue-400 transition-all duration-300 hover:shadow-lg hover:shadow-blue-500/20"
