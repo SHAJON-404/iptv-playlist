@@ -715,12 +715,6 @@
         "useProxy": false
     },
     {
-        "name": "NOW TV 4K [No VPN]",
-        "url": "http://starhub.pro/live/farhat-3379/67897-913379/745270.ts",
-        "useProxy": false,
-        "group": "4K"
-    },
-    {
         "name": "SP0TV HD",
         "logo": "",
         "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd",

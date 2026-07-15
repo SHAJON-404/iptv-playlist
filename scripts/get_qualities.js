@@ -877,8 +877,151 @@ function determineGroup(name, existingGroup) {
   }
 
   return clean.charAt(0).toUpperCase() + clean.slice(1);
+}/**
+ * Parses MP4 duration from metadata atoms (moov -> mvhd) if present in the buffer.
+ * Returns duration in seconds, or null if not found/invalid.
+ */
+function parseMp4Duration(buffer) {
+  try {
+    let offset = 0;
+    
+    // Helper to read 32-bit unsigned int
+    function readUint32(buf, off) {
+      return ((buf[off] << 24) >>> 0) | (buf[off + 1] << 16) | (buf[off + 2] << 8) | buf[off + 3];
+    }
+    
+    // Helper to read 64-bit unsigned int
+    function readUint64(buf, off) {
+      const view = new DataView(buf.buffer, buf.byteOffset + off, 8);
+      return Number(view.getBigUint64(0));
+    }
+    
+    // Scan root level boxes to find 'moov'
+    let moovOffset = -1;
+    while (offset < buffer.length - 8) {
+      const size = readUint32(buffer, offset);
+      const type = String.fromCharCode(buffer[offset + 4], buffer[offset + 5], buffer[offset + 6], buffer[offset + 7]);
+      
+      if (type === 'moov') {
+        moovOffset = offset;
+        break;
+      }
+      
+      if (size <= 0) break;
+      offset += size;
+    }
+    
+    if (moovOffset === -1) return null;
+    
+    // Scan inside 'moov' box to find 'mvhd'
+    let mvhdOffset = -1;
+    offset = moovOffset + 8; // skip size and type of moov
+    const moovEnd = moovOffset + readUint32(buffer, moovOffset);
+    
+    while (offset < Math.min(moovEnd, buffer.length - 8)) {
+      const size = readUint32(buffer, offset);
+      const type = String.fromCharCode(buffer[offset + 4], buffer[offset + 5], buffer[offset + 6], buffer[offset + 7]);
+      
+      if (type === 'mvhd') {
+        mvhdOffset = offset;
+        break;
+      }
+      
+      if (size <= 0) break;
+      offset += size;
+    }
+    
+    if (mvhdOffset === -1) return null;
+    
+    // Parse mvhd box
+    const version = buffer[mvhdOffset + 8];
+    let timescale, duration;
+    
+    if (version === 1) {
+      // Skip: size (4), type (4), version & flags (4), creation_time (8), modification_time (8)
+      timescale = readUint32(buffer, mvhdOffset + 8 + 4 + 16);
+      duration = readUint64(buffer, mvhdOffset + 8 + 4 + 16 + 4);
+    } else {
+      // Skip: size (4), type (4), version & flags (4), creation_time (4), modification_time (4)
+      timescale = readUint32(buffer, mvhdOffset + 8 + 4 + 8);
+      duration = readUint32(buffer, mvhdOffset + 8 + 4 + 8 + 4);
+    }
+    
+    if (timescale > 0 && duration > 0) {
+      return duration / timescale;
+    }
+  } catch (err) {
+    // Ignore and fallback
+  }
+  return null;
 }
 
+/**
+ * Helper to identify binary format based on headers, magic bytes, and URL extensions.
+ */
+function detectBinaryFormat(buffer, contentType = '', originalUrl = '', finalUrl = '') {
+  const ct = contentType.toLowerCase();
+  const cleanOrig = originalUrl.split(/[?#]/)[0].toLowerCase();
+  const cleanFinal = finalUrl.split(/[?#]/)[0].toLowerCase();
+
+  // 1. Check Content-Type header
+  if (ct.includes('video/mp4') || ct.includes('video/quicktime') || ct.includes('video/x-m4v')) {
+    return 'mp4';
+  }
+  if (ct.includes('video/x-matroska') || ct.includes('video/webm') || ct.includes('video/mkv') || (ct.includes('application/octet-stream') && (cleanOrig.endsWith('.mkv') || cleanFinal.endsWith('.mkv')))) {
+    return 'mkv';
+  }
+  if (ct.includes('video/mp2t')) {
+    return 'ts';
+  }
+
+  // 2. Check Magic Bytes
+  if (buffer.length >= 8) {
+    // MP4 'ftyp' box
+    if (buffer[4] === 0x66 && buffer[5] === 0x74 && buffer[6] === 0x79 && buffer[7] === 0x70) {
+      return 'mp4';
+    }
+    // MKV / EBML: 0x1A 0x45 0xDF 0xA3
+    if (buffer[0] === 0x1A && buffer[1] === 0x45 && buffer[2] === 0xDF && buffer[3] === 0xA3) {
+      return 'mkv';
+    }
+  }
+  
+  if (buffer.length > 0 && buffer[0] === 0x47) {
+    return 'ts';
+  }
+
+  // 3. Fallback to URL extensions
+  const directVideoExtensions = ['.mp4', '.mkv', '.avi', '.mov', '.webm', '.mp3'];
+  
+  if (cleanOrig.endsWith('.mp4') || cleanFinal.endsWith('.mp4')) return 'mp4';
+  if (cleanOrig.endsWith('.mkv') || cleanFinal.endsWith('.mkv')) return 'mkv';
+  
+  if (directVideoExtensions.some(ext => cleanOrig.endsWith(ext) || cleanFinal.endsWith(ext))) {
+    return 'recorded-file';
+  }
+
+  return 'unknown';
+}
+
+/**
+ * Checks HLS manifest for VOD properties.
+ */
+function isHlsRecorded(playlistText) {
+  const lines = playlistText.split(/\r?\n/);
+  let hasEndList = false;
+  let playlistType = null;
+
+  for (const rawLine of lines) {
+    const line = rawLine.trim();
+    if (line.startsWith('#EXT-X-ENDLIST')) {
+      hasEndList = true;
+    } else if (line.startsWith('#EXT-X-PLAYLIST-TYPE:')) {
+      playlistType = line.split(':')[1].trim().toUpperCase();
+    }
+  }
+  return hasEndList || playlistType === 'VOD';
+}
 
 // ─── Main ───────────────────────────────────────────────────────────────────
 
@@ -1018,6 +1161,24 @@ async function getStreamQualities() {
       const headers = buildFetchHeaders(stream);
       const probe = await probeSegment(stream.url, headers);
       if (probe.reachable) {
+        // Check if stream is recorded (VOD) based on format or naming keywords
+        const binaryFormat = detectBinaryFormat(probe.buffer, '', stream.url, stream.url);
+        const nameLower = (stream.name || '').toLowerCase();
+        const groupLower = (stream.group || '').toLowerCase();
+        const isVod = binaryFormat === 'mp4' || binaryFormat === 'mkv' || binaryFormat === 'recorded-file' ||
+                      nameLower.includes('match') || nameLower.includes('half') || nameLower.includes('highlight') || 
+                      nameLower.includes('replay') || nameLower.includes('show') || nameLower.includes('movie') || 
+                      nameLower.includes('ep') || nameLower.includes('extended') ||
+                      groupLower.includes('full') || groupLower.includes('extended') || 
+                      groupLower.includes('1st') || groupLower.includes('2nd') || 
+                      groupLower.includes('replay') || groupLower.includes('vod');
+
+        if (isVod) {
+          printRow(idx, 'TS', stream.name, 'SKIP', `Recorded TS stream (VOD keywords/format) - skipped`);
+          stats.skipped++;
+          continue;
+        }
+
         let resInfo = '';
         const resolution = parseResolution(probe.buffer);
         if (resolution) {
@@ -1091,9 +1252,85 @@ async function getStreamQualities() {
       continue;
     }
 
+    const contentType = response.headers.get('content-type') || '';
+    const trimmedPrefix = text ? text.replace(/^\uFEFF/, '').trim() : '';
+
+    // Check for HTML content first to avoid treating web pages / error pages as live binary streams
+    const isHtml = contentType.toLowerCase().includes('text/html') || 
+                   trimmedPrefix.startsWith('<!DOCTYPE html') || 
+                   trimmedPrefix.startsWith('<!doctype html') || 
+                   trimmedPrefix.startsWith('<html') || 
+                   trimmedPrefix.startsWith('<head');
+
+    if (isHtml) {
+      const urlLower = (stream.url || '').toLowerCase();
+      const finalUrlLower = response.url.toLowerCase();
+      const nameLower = (stream.name || '').toLowerCase();
+      const groupLower = (stream.group || '').toLowerCase();
+      
+      const isVodHost = urlLower.includes('hgcloud.to') || 
+                         urlLower.includes('gofile.io') || 
+                         urlLower.includes('soccerfull.net') ||
+                         finalUrlLower.includes('hgcloud.to') || 
+                         finalUrlLower.includes('gofile.io') || 
+                         finalUrlLower.includes('soccerfull.net');
+
+      const isVodName = nameLower.includes('match') || 
+                        nameLower.includes('half') || 
+                        nameLower.includes('highlight') || 
+                        nameLower.includes('replay') || 
+                        nameLower.includes('show') || 
+                        nameLower.includes('movie') || 
+                        nameLower.includes('ep') ||
+                        nameLower.includes('extended') ||
+                        groupLower.includes('full') ||
+                        groupLower.includes('extended') ||
+                        groupLower.includes('1st') ||
+                        groupLower.includes('2nd') ||
+                        groupLower.includes('replay') ||
+                        groupLower.includes('vod');
+
+      if (isVodHost || isVodName) {
+        printRow(idx, 'HTML', stream.name, 'SKIP', `Recorded video embed page (HTML) - skipped`);
+        stats.skipped++;
+      } else {
+        printRow(idx, 'HTML', stream.name, 'DEAD', `Returned HTML page (not a valid stream)`);
+        trackDead(stream, `Returned HTML page instead of stream`);
+      }
+      continue;
+    }
+
+    // Intercept recorded HLS manifest
+    if (isHls && text) {
+      if (isHlsRecorded(text)) {
+        printRow(idx, 'HLS', stream.name, 'SKIP', `Recorded HLS VOD (contains ENDLIST) - skipped`);
+        stats.skipped++;
+        continue;
+      }
+    }
+
     // If dynamically detected as TS
     if (isTs) {
       if (readResult.buffer && readResult.buffer.length > 0) {
+        // Check if TS stream is actually a static file (MP4, MKV)
+        const binaryFormat = detectBinaryFormat(readResult.buffer, contentType, stream.url, response.url);
+        const nameLower = (stream.name || '').toLowerCase();
+        const groupLower = (stream.group || '').toLowerCase();
+        const isVod = binaryFormat === 'mp4' || binaryFormat === 'mkv' || binaryFormat === 'recorded-file' ||
+                      nameLower.includes('match') || nameLower.includes('half') || nameLower.includes('highlight') || 
+                      nameLower.includes('replay') || nameLower.includes('show') || nameLower.includes('movie') || 
+                      nameLower.includes('ep') || nameLower.includes('extended') ||
+                      groupLower.includes('full') || groupLower.includes('extended') || 
+                      groupLower.includes('1st') || groupLower.includes('2nd') || 
+                      groupLower.includes('replay') || groupLower.includes('vod');
+
+        if (isVod) {
+          let details = `Recorded direct file (${binaryFormat.toUpperCase()})`;
+          printRow(idx, 'FILE', stream.name, 'SKIP', `${details} - skipped`);
+          stats.skipped++;
+          continue;
+        }
+
         let resInfo = '';
         const resolution = parseResolution(readResult.buffer);
         if (resolution) {
@@ -1114,9 +1351,6 @@ async function getStreamQualities() {
       }
       continue;
     }
-
-    const contentType = response.headers.get('content-type') || '';
-
     // ── Phase 2: Content-Type validation ────────────────────────────────
     const ctCheck = validateContentType(contentType, text.substring(0, 500), isDash);
     if (!ctCheck.valid) {
@@ -1191,6 +1425,11 @@ async function getStreamQualities() {
         }
 
         const childText = await childResponse.text();
+        if (isHlsRecorded(childText)) {
+          printRow(idx, 'HLS', stream.name, 'SKIP', `Recorded HLS VOD child playlist (contains ENDLIST) - skipped`);
+          stats.skipped++;
+          continue;
+        }
         const childHlsResult = validateHlsBody(childText, childResponse.url);
 
         if (!childHlsResult.valid) {
