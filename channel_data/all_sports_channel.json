@@ -432,16 +432,6 @@
         "origin": "https://streamscenter.online"
     },
     {
-        "name": "WILLOW ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd",
-        "type": "dash",
-        "group": "WILLOW",
-        "kid": "63ff5bd50a863114f9d5fe0d18aff544",
-        "key": "319760d139c5af680bab44664fd833ad",
-        "useProxy": true
-    },
-    {
         "name": "SportzX Live",
         "logo": "",
         "url": "https://edgestream3.pro/hls/wfazgsqtrezu66.m3u8?",
