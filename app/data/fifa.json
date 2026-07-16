@@ -7,24 +7,6 @@
         "useProxy": false
     },
     {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://edgestream3.pro/hls/zayrtezafgvdv68.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
-    },
-    {
         "name": "WILLOW FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2hqonq2js6/out/v1/3204a1c65a534f6eb946841ead683f29/cenc.mpd",
@@ -73,25 +55,6 @@
         "url": "https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1784240536~acl=/*~id=80163195619765322207249310502926~hmac=37ad3fc0695bf46401a42532ae037a3f6fa53fd7e61b9d56619908448e3641cf",
         "group": "SONY",
         "useProxy": false
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://edgestream1.pro/hls/sqhdghzavbxu75.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "FULL MATCH PARAMOUNT",
-        "logo": "",
-        "url": "https://abdfyr5aaaaaaaamblknqqdakgoyf.bia-cf.live.pv-cdn.net/iad-nitro/jab-assets/jab-prod-iad/live/dash/out/v1/3ee18fe6099c4ab1a985bd8034e5fac2/ipztczhdhupw/cenc-44e61c.mpd",
-        "type": "dash",
-        "group": "FULL",
-        "kid": "6a71d7af70eaeb1b018ded7640a26562",
-        "key": "5d7f73b42c19d3bb68c55d6ee2676b7d",
-        "useProxy": true
     },
     {
         "name": "SportzX Live",
@@ -372,6 +335,43 @@
     {
         "name": "SportzX Live",
         "logo": "",
+        "url": "https://edgestream3.pro/hls/zayrtezafgvdv68.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://streamscenter.online/",
+        "origin": "https://streamscenter.online"
+    },
+    {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://streamscenter.online/",
+        "origin": "https://streamscenter.online"
+    },
+    {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://edgestream1.pro/hls/sqhdghzavbxu75.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://streamscenter.online/",
+        "origin": "https://streamscenter.online"
+    },
+    {
+        "name": "FULL MATCH PARAMOUNT",
+        "logo": "",
+        "url": "https://abdfyr5aaaaaaaamblknqqdakgoyf.bia-cf.live.pv-cdn.net/iad-nitro/jab-assets/jab-prod-iad/live/dash/out/v1/3ee18fe6099c4ab1a985bd8034e5fac2/ipztczhdhupw/cenc-44e61c.mpd",
+        "type": "dash",
+        "group": "FULL",
+        "kid": "6a71d7af70eaeb1b018ded7640a26562",
+        "key": "5d7f73b42c19d3bb68c55d6ee2676b7d",
+        "useProxy": true
+    },
+    {
+        "name": "SportzX Live",
+        "logo": "",
         "url": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8?",
         "group": "SportzX",
         "useProxy": true,
@@ -409,13 +409,6 @@
         "logo": "",
         "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
         "group": "server",
-        "useProxy": false
-    },
-    {
-        "name": "Server 1",
-        "logo": "",
-        "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
-        "group": "Server",
         "useProxy": false
     },
     {
