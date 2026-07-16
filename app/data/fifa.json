@@ -11,7 +11,17 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
-        "name": "PREMIERER 2",
+        "name": "Premier Sports",
+        "logo": "",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+        "type": "dash",
+        "group": "Premier",
+        "kid": "1a5df53609ebc9857898c490f4724918",
+        "key": "77f62980d582ec541280796acf8b2d19",
+        "useProxy": true
+    },
+    {
+        "name": "PREMIERER BR",
         "logo": "",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
         "type": "dash",
@@ -19,6 +29,45 @@
         "kid": "9dc40460c93087aea84d6315f08ecb64",
         "key": "f69c8d4624fddff4ca89bd0b31bdc4a7",
         "useProxy": true
+    },
+    {
+        "name": "SportDigital Fussball",
+        "logo": "",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+        "type": "dash",
+        "group": "SportDigital",
+        "kid": "0ad4080cdff8c60b1233b22087f0b340",
+        "key": "285f129c5eca01dd08a5d5a14ad801c8",
+        "useProxy": true
+    },
+    {
+        "name": "TSN SPORTS",
+        "logo": "",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+        "type": "dash",
+        "group": "TSN",
+        "kid": "d3250252765347a0c2603c6cb4869f8c",
+        "key": "0c19319460da7e9ed816db46ce839b37",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://streamscenter.online/",
+        "origin": "https://streamscenter.online"
+    },
+    {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://streamscenter.online/",
+        "origin": "https://streamscenter.online"
     },
     {
         "name": "PREMIERER BR",
@@ -31,7 +80,7 @@
         "useProxy": true
     },
     {
-        "name": "TSN 4",
+        "name": "TSN SPORTS FHD",
         "logo": "",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
         "type": "dash",
@@ -40,6 +89,15 @@
         "key": "e5250924f4b738905f7163a0134587a7",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://streamscenter.online/",
+        "origin": "https://streamscenter.online"
     },
     {
         "name": "FOX DEPORTES",
@@ -306,6 +364,17 @@
         "useProxy": false
     },
     {
+        "name": "WILLOW FHD",
+        "logo": "",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/f6zxvxbrof/out/v1/e12426335a5240ffa676798c53a77e6e/cenc.mpd",
+        "type": "dash",
+        "group": "WILLOW",
+        "kid": "2af5031d717117b3abe01558b78e2df5",
+        "key": "a971f2b0740eeb1d1ef3e0f2936db73b",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
         "name": "FANCODE FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
@@ -315,6 +384,16 @@
         "key": "1b8a17598129a3618535c8fb05f103fe",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "WILLOW ALT",
+        "logo": "",
+        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/f6zxvxbrof/out/v1/e12426335a5240ffa676798c53a77e6e/cenc.mpd",
+        "type": "dash",
+        "group": "WILLOW",
+        "kid": "2af5031d717117b3abe01558b78e2df5",
+        "key": "a971f2b0740eeb1d1ef3e0f2936db73b",
+        "useProxy": true
     },
     {
         "name": "TNT SPORTS HD",
@@ -403,15 +482,6 @@
     {
         "name": "SportzX Live",
         "logo": "",
-        "url": "https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
         "url": "https://edgestream1.pro/hls/sqhdghzavbxu75.m3u8?",
         "group": "SportzX",
         "useProxy": true,
@@ -427,15 +497,6 @@
         "kid": "6a71d7af70eaeb1b018ded7640a26562",
         "key": "5d7f73b42c19d3bb68c55d6ee2676b7d",
         "useProxy": true
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
     },
     {
         "name": "SportzX SD",
@@ -470,16 +531,6 @@
         "kid": "eabd2d95c89e42f2b0b0b40ce4179ea0",
         "key": "0e7e35a07e2c12822316c0dc4873903f",
         "useProxy": true
-    },
-    {
-        "name": "SportzX SD",
-        "logo": "",
-        "url": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online",
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
     },
     {
         "name": "SportzX Live",
