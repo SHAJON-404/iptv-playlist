@@ -18,15 +18,6 @@
         "origin": "https://streamscenter.online"
     },
     {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://edgestream1.pro/hls/sqhdghzavbxu75.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
-    },
-    {
         "name": "FULL MATCH PARAMOUNT",
         "logo": "",
         "url": "https://abdfyr5aaaaaaaamblknqqdakgoyf.bia-cf.live.pv-cdn.net/iad-nitro/jab-assets/jab-prod-iad/live/dash/out/v1/3ee18fe6099c4ab1a985bd8034e5fac2/ipztczhdhupw/cenc-44e61c.mpd",
@@ -356,15 +347,6 @@
         "kid": "eabd2d95c89e42f2b0b0b40ce4179ea0",
         "key": "0e7e35a07e2c12822316c0dc4873903f",
         "useProxy": true
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
     },
     {
         "name": "SportzX SD",
