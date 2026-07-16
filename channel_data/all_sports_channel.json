@@ -91,13 +91,6 @@
     {
         "name": "SportzX Live",
         "logo": "",
-        "url": "https://pul-tenm.nbs3g.com/live/sd-1-4585568.m3u8?txSecret=adf8ef8474299b9cea97c7f90f08cc9b&txTime=6A5A78E0",
-        "group": "SportzX",
-        "useProxy": false
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
         "url": "https://edgestream2.pro/hls/zeafwqvhfe69.m3u8?",
         "group": "SportzX",
         "useProxy": true,
@@ -151,13 +144,6 @@
         "kid": "d1a163914db8ffad2c3e94f979896a0d",
         "key": "9728800a3959aafdd5b0bcfbf3768811",
         "useProxy": true
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://live1.streambylivepulse.com/live/channel1/playlist.m3u8",
-        "group": "SportzX",
-        "useProxy": false
     },
     {
         "name": "FOX ONE - AQ",
