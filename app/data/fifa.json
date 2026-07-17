@@ -11,36 +11,99 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
+        "name": "PREMIERER BR",
+        "logo": "",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
+        "type": "dash",
+        "group": "PREMIERER",
+        "kid": "d23f7433798a652a7d4f6791d9e1036c",
+        "key": "4942eebd598b5727c5cc484cc62b52e8",
+        "useProxy": true
+    },
+    {
+        "name": "PREMIERER 1",
+        "logo": "",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+        "type": "dash",
+        "group": "PREMIERER",
+        "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
+        "key": "fa38aaa865a57eda7c77444697ba8ed3",
+        "useProxy": true
+    },
+    {
+        "name": "PREMIERER 2",
+        "logo": "",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+        "type": "dash",
+        "group": "PREMIERER",
+        "kid": "9dc40460c93087aea84d6315f08ecb64",
+        "key": "f69c8d4624fddff4ca89bd0b31bdc4a7",
+        "useProxy": true
+    },
+    {
+        "name": "PREMIERER 4",
+        "logo": "",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
+        "type": "dash",
+        "group": "PREMIERER",
+        "kid": "e23365c2ad97870c871712b73f0d6195",
+        "key": "58709c714320bb862dbd07270df81c94",
+        "useProxy": true
+    },
+    {
+        "name": "PREMIERER 5",
+        "logo": "",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd",
+        "type": "dash",
+        "group": "PREMIERER",
+        "kid": "332f62eb3cae824e98a4124da29a7d31",
+        "key": "d1698cda3d040f9051125a61745b596b",
+        "useProxy": true
+    },
+    {
+        "name": "PREMIERER 6",
+        "logo": "",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/k1mql3yg4r/out/v1/898067f362a5444bbe42d7568430ca14/cenc-sd.mpd",
+        "type": "dash",
+        "group": "PREMIERER",
+        "kid": "561baa89676c89c1d047e1852ba01c09",
+        "key": "a8c157826dfdf1299a329b77e2ab6a1a",
+        "useProxy": true
+    },
+    {
+        "name": "Premiere 7",
+        "logo": "",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/kqftwsvdgz/out/v1/9f866bc326d241aa9d470c52654a7bf9/cenc-sd.mpd",
+        "type": "dash",
+        "group": "Premiere",
+        "kid": "9ee352aac7ed8ee1cb42cfdf322b1cb0",
+        "key": "053d635fc90e175881bef26cd29f371e",
+        "useProxy": true
+    },
+    {
+        "name": "Premiere 8",
+        "logo": "",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ln7isfb6fz/out/v1/34c85840b67d46b990cf4e01fb16d24d/cenc-sd.mpd",
+        "type": "dash",
+        "group": "Premiere",
+        "kid": "19fb8464136594ce0c66fe3589e88ef4",
+        "key": "6a0efc4a82a1e087f093c3e5de3e2a3e",
+        "useProxy": true
+    },
+    {
+        "name": "SportDigital Fussball",
+        "logo": "",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+        "type": "dash",
+        "group": "SportDigital",
+        "kid": "0ad4080cdff8c60b1233b22087f0b340",
+        "key": "285f129c5eca01dd08a5d5a14ad801c8",
+        "useProxy": true
+    },
+    {
         "name": "SportzX Live",
         "logo": "",
         "url": "https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://edgestream3.pro/hls/hefbafbakx28.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://edgestream3.pro/hls/dzjhkfazbka26.m3u8?",
         "group": "SportzX",
         "useProxy": true,
         "referer": "https://streamscenter.online/",
@@ -65,16 +128,6 @@
         "key": "0961f48287324adbb4b7ff3c9d82b3c9",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36 OPR/97.0.0.0"
-    },
-    {
-        "name": "FOX SPORTS FHD",
-        "logo": "",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-        "type": "dash",
-        "group": "FOX",
-        "kid": "09453ce820d65fbc675de3185f9e454c",
-        "key": "98cff9600995fa381c76fdacf3c7edae",
-        "useProxy": true
     },
     {
         "name": "SportzX Live",
@@ -499,6 +552,43 @@
     {
         "name": "SportzX Live",
         "logo": "",
+        "url": "https://edgestream3.pro/hls/hefbafbakx28.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://streamscenter.online/",
+        "origin": "https://streamscenter.online"
+    },
+    {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://streamscenter.online/",
+        "origin": "https://streamscenter.online"
+    },
+    {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://edgestream3.pro/hls/dzjhkfazbka26.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://streamscenter.online/",
+        "origin": "https://streamscenter.online"
+    },
+    {
+        "name": "FOX SPORTS FHD",
+        "logo": "",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+        "type": "dash",
+        "group": "FOX",
+        "kid": "09453ce820d65fbc675de3185f9e454c",
+        "key": "98cff9600995fa381c76fdacf3c7edae",
+        "useProxy": true
+    },
+    {
+        "name": "SportzX Live",
+        "logo": "",
         "url": "https://edgestream2.pro/hls/jzabfazkbf27.m3u8?",
         "group": "SportzX",
         "useProxy": true,
@@ -597,16 +687,6 @@
         "useProxy": true
     },
     {
-        "name": "PREMIERER BR",
-        "logo": "",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-        "type": "dash",
-        "group": "PREMIERER",
-        "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
-        "key": "fa38aaa865a57eda7c77444697ba8ed3",
-        "useProxy": true
-    },
-    {
         "name": "Premier Sports",
         "logo": "",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
@@ -614,26 +694,6 @@
         "group": "Premier",
         "kid": "1a5df53609ebc9857898c490f4724918",
         "key": "77f62980d582ec541280796acf8b2d19",
-        "useProxy": true
-    },
-    {
-        "name": "PREMIERER BR",
-        "logo": "",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
-        "type": "dash",
-        "group": "PREMIERER",
-        "kid": "9dc40460c93087aea84d6315f08ecb64",
-        "key": "f69c8d4624fddff4ca89bd0b31bdc4a7",
-        "useProxy": true
-    },
-    {
-        "name": "SportDigital Fussball",
-        "logo": "",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-        "type": "dash",
-        "group": "SportDigital",
-        "kid": "0ad4080cdff8c60b1233b22087f0b340",
-        "key": "285f129c5eca01dd08a5d5a14ad801c8",
         "useProxy": true
     },
     {
