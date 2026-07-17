@@ -399,6 +399,14 @@
         "referer": "https://pushembdz.store/"
     },
     {
+        "name": "APPLE TV FHD",
+        "logo": "",
+        "url": "https://g001.sadhoofiton.shop/out/v2/d45bbe10cd959e60d61887d676e9fac1/index.m3u8?",
+        "group": "APPLE",
+        "useProxy": true,
+        "referer": "https://pushembdz.store/"
+    },
+    {
         "name": "DAZN ESPANOL",
         "logo": "",
         "url": "https://g001.sadhoofiton.shop/out/v2/aa2e11f8ad50df999ad7cb0d441883f5/index.m3u8?",
