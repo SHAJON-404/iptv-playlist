@@ -67,6 +67,16 @@
         "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36 OPR/97.0.0.0"
     },
     {
+        "name": "FOX SPORTS FHD",
+        "logo": "",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+        "type": "dash",
+        "group": "FOX",
+        "kid": "09453ce820d65fbc675de3185f9e454c",
+        "key": "98cff9600995fa381c76fdacf3c7edae",
+        "useProxy": true
+    },
+    {
         "name": "SportzX Live",
         "logo": "",
         "url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
@@ -92,6 +102,17 @@
         "kid": "69a7111079036ea39999d0da6be9f8d9",
         "key": "26f5326bf03cb3467e15a49e4a1fc8c8",
         "useProxy": true
+    },
+    {
+        "name": "SPX FHD LIVE",
+        "logo": "",
+        "url": "https://dice-live-oc.akamaized.net/hdntl=exp=1784357788~acl=*dash%2flive%2f2093742%2f219026-322453%2f*!*dash%2flive%2f2093742-b%2f219026-322453-b%2f*!%2fv1%2fdashsegment%2f*~id=da1598ae-05c7-4a3f-8e7a-c778b9c9d499~data=hdntl,dWlkPVlhVXR0QnwwNjg2YTFmZi0yZjAxLTQzMmEtYmE4Zi0xNGU5ZTEwMjhmYTYmc3JjPWRnZSZpcD04NS4yOC41NC4yMzUmZXhwPTE3ODQzNTc4MTcmZWlkPTIxOTAyNiZjaWQ9ZGNlLnNreW56Jm9pZD0zMTgmdHlwZT1MSVZF~hmac=109ec94609bfbdb621a583550a4648ba93e507ad23ee5fc7bcddd481e5e6c9ee/dash/live/2093742/219026-322453/manifest-d.mpd",
+        "type": "dash",
+        "group": "SPX",
+        "kid": "aefc2c8d1c8840f1b6981f856c9269ba",
+        "key": "cf8ea114c45b4d6596b2748258ab74d6",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36 OPR/97.0.0.0"
     },
     {
         "name": "Fox Sports Premium",
@@ -277,16 +298,6 @@
         "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
         "group": "4K",
         "useProxy": false
-    },
-    {
-        "name": "Match Football FHD",
-        "logo": "",
-        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-        "type": "dash",
-        "group": "Match",
-        "kid": "9145a6e0f778e61866f573d4944dd533",
-        "key": "d02173d40515fea5c83944f21d0f3114",
-        "useProxy": true
     },
     {
         "name": "TSports HD",
