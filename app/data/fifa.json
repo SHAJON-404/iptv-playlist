@@ -289,6 +289,16 @@
         "useProxy": false
     },
     {
+        "name": "Match Football FHD",
+        "logo": "",
+        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+        "type": "dash",
+        "group": "Match",
+        "kid": "9145a6e0f778e61866f573d4944dd533",
+        "key": "d02173d40515fea5c83944f21d0f3114",
+        "useProxy": true
+    },
+    {
         "name": "TSports HD",
         "logo": "",
         "url": "http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8",
@@ -377,6 +387,17 @@
         "url": "http://103.165.93.31:8095/somoyTv/index.m3u8",
         "group": "SOMOY",
         "useProxy": false
+    },
+    {
+        "name": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+        "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "type": "dash",
+        "group": "FANCODE",
+        "kid": "7e9239c1982d984a002df3ed049d0756",
+        "key": "1b8a17598129a3618535c8fb05f103fe",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
         "name": "SportzX F1 HD",
@@ -494,27 +515,6 @@
         "group": "PREMIERER",
         "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
         "key": "fa38aaa865a57eda7c77444697ba8ed3",
-        "useProxy": true
-    },
-    {
-        "name": "WILLOW FHD",
-        "logo": "",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/f6zxvxbrof/out/v1/e12426335a5240ffa676798c53a77e6e/cenc.mpd",
-        "type": "dash",
-        "group": "WILLOW",
-        "kid": "2af5031d717117b3abe01558b78e2df5",
-        "key": "a971f2b0740eeb1d1ef3e0f2936db73b",
-        "useProxy": true,
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-        "name": "WILLOW ALT",
-        "logo": "",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/f6zxvxbrof/out/v1/e12426335a5240ffa676798c53a77e6e/cenc.mpd",
-        "type": "dash",
-        "group": "WILLOW",
-        "kid": "2af5031d717117b3abe01558b78e2df5",
-        "key": "a971f2b0740eeb1d1ef3e0f2936db73b",
         "useProxy": true
     },
     {
