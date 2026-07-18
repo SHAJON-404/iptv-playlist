@@ -55,9 +55,25 @@
         "referer": "https://player.online909.com/"
     },
     {
+        "name": "HD SERVER",
+        "logo": "",
+        "url": "https://hls.streamhub.media/hls/thesport-api-076cecf54325a5407fe3/master.m3u8",
+        "group": "SERVER",
+        "useProxy": false
+    },
+    {
         "name": "SD SERVER",
         "logo": "",
         "url": "http://193.47.62.49/hls/YNNNQQQQQQ.m3u8?",
+        "group": "SERVER",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
+    },
+    {
+        "name": "SD SERVER",
+        "logo": "",
+        "url": "http://193.47.62.49/hls/YNNNQQQQQ.m3u8?",
         "group": "SERVER",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
@@ -124,24 +140,31 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
+        "name": "HD SERVER",
+        "logo": "",
+        "url": "https://hls.streamhub.media/hls/thesport-api-5985834c24afb9f6488a/master.m3u8",
+        "group": "SERVER",
+        "useProxy": false
+    },
+    {
         "name": "WILLOW - FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqukmtmmv9/out/v1/c78af2d94a4e4442b3f007b9ee847721/cenc.mpd",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ly2lruzgx2/out/v1/d1b297d066fb4a1ab26c2f9c22a9f1a5/cenc.mpd",
         "type": "dash",
         "group": "WILLOW",
-        "kid": "75f854d2c277ce9e3735817f9c6c77ad",
-        "key": "9c4f93decc3c9a4065e8f4e09a3adecc",
+        "kid": "b01ff121603a3cddd09976f66f9feb12",
+        "key": "952f80607b8666022fb5cc2d95df096c",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
         "name": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oqukmtmmv9/out/v1/c78af2d94a4e4442b3f007b9ee847721/cenc.mpd",
+        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ly2lruzgx2/out/v1/d1b297d066fb4a1ab26c2f9c22a9f1a5/cenc.mpd",
         "type": "dash",
         "group": "WILLOW",
-        "kid": "75f854d2c277ce9e3735817f9c6c77ad",
-        "key": "9c4f93decc3c9a4065e8f4e09a3adecc",
+        "kid": "b01ff121603a3cddd09976f66f9feb12",
+        "key": "952f80607b8666022fb5cc2d95df096c",
         "useProxy": true
     },
     {
@@ -158,6 +181,13 @@
         "type": "dash",
         "group": "MU",
         "useProxy": true
+    },
+    {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://live1.streambylivepulse.com/live/channel1/playlist.m3u8",
+        "group": "SportzX",
+        "useProxy": false
     },
     {
         "name": "FOX ONE - AQ",
@@ -326,6 +356,16 @@
         "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
         "group": "4K",
         "useProxy": false
+    },
+    {
+        "name": "Match Football FHD",
+        "logo": "",
+        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+        "type": "dash",
+        "group": "Match",
+        "kid": "9145a6e0f778e61866f573d4944dd533",
+        "key": "d02173d40515fea5c83944f21d0f3114",
+        "useProxy": true
     },
     {
         "name": "TSports HD",
@@ -569,6 +609,36 @@
         "useProxy": true,
         "referer": "https://streamscenter.online/",
         "origin": "https://streamscenter.online"
+    },
+    {
+        "name": "SD SERVER",
+        "logo": "",
+        "url": "http://193.47.62.46/hls/IAAA.m3u8?",
+        "group": "SERVER",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
+    },
+    {
+        "name": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqukmtmmv9/out/v1/c78af2d94a4e4442b3f007b9ee847721/cenc.mpd",
+        "type": "dash",
+        "group": "WILLOW",
+        "kid": "75f854d2c277ce9e3735817f9c6c77ad",
+        "key": "9c4f93decc3c9a4065e8f4e09a3adecc",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oqukmtmmv9/out/v1/c78af2d94a4e4442b3f007b9ee847721/cenc.mpd",
+        "type": "dash",
+        "group": "WILLOW",
+        "kid": "75f854d2c277ce9e3735817f9c6c77ad",
+        "key": "9c4f93decc3c9a4065e8f4e09a3adecc",
+        "useProxy": true
     },
     {
         "name": "WILLOW FHD",
