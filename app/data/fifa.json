@@ -47,37 +47,11 @@
         "useProxy": true
     },
     {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://live.vivo200.com/live/sd-1-4587780.m3u8?txSecret=1d6f9a6c324cb7b62cd7a4b5d810cd78&txTime=6A5B92D8",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://player.online909.com/"
-    },
-    {
         "name": "HD SERVER",
         "logo": "",
         "url": "https://hls.streamhub.media/hls/thesport-api-076cecf54325a5407fe3/master.m3u8",
         "group": "SERVER",
         "useProxy": false
-    },
-    {
-        "name": "SD SERVER",
-        "logo": "",
-        "url": "http://193.47.62.49/hls/YNNNQQQQQQ.m3u8?",
-        "group": "SERVER",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
-        "name": "SD SERVER",
-        "logo": "",
-        "url": "http://193.47.62.49/hls/YNNNQQQQQ.m3u8?",
-        "group": "SERVER",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
     },
     {
         "name": "EUROSPORT1 FHD",
@@ -444,14 +418,6 @@
         "useProxy": false
     },
     {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://live.vivo200.com/live/sd-1-4584528.m3u8?txSecret=c60212596bd784119f7687af306e090a&txTime=6A5B92FC",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://player.online909.com/"
-    },
-    {
         "name": "SD SERVER",
         "logo": "",
         "url": "http://193.47.62.49/hls/YNNNQQQ.m3u8?",
@@ -542,14 +508,6 @@
         "group": "SKY",
         "useProxy": true,
         "referer": "https://pushembdz.store/"
-    },
-    {
-        "name": "RUSSIA FEED",
-        "logo": "",
-        "url": "https://bl.rutube.ru/livestream/40a90b042d58ae5cfc34ed9f1d6c24b2/index.m3u8?s=d7qwkaBv3c1WWjMr_O0HPQ&e=1784468616&scheme=https",
-        "group": "RUSSIA",
-        "useProxy": false,
-        "user-agent": "Mozilla"
     },
     {
         "name": "DAZN ESPANOL",
