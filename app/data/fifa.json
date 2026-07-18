@@ -1,5 +1,26 @@
 [
     {
+        "name": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9uwi1u8pp4/out/v1/e3442a4252344b0493129c4db959dc06/cenc.mpd",
+        "type": "dash",
+        "group": "WILLOW",
+        "kid": "c19c0062404ac30d42291fbfadba323e",
+        "key": "6086d22b65e8e988f4b6da3e34a3e2c3",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9uwi1u8pp4/out/v1/e3442a4252344b0493129c4db959dc06/cenc.mpd",
+        "type": "dash",
+        "group": "WILLOW",
+        "kid": "c19c0062404ac30d42291fbfadba323e",
+        "key": "6086d22b65e8e988f4b6da3e34a3e2c3",
+        "useProxy": true
+    },
+    {
         "name": "SportzX Live",
         "logo": "",
         "url": "https://edgestream1.pro/hls/hfsdqtaxvb67.m3u8?",
@@ -378,9 +399,25 @@
         "origin": "https://streamscenter.online"
     },
     {
+        "name": "SportzX MLB",
+        "logo": "",
+        "url": "https://chatgpt.hereisman.net/playlist/53477/load-playlist?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://gooz.aapmains.net"
+    },
+    {
+        "name": "MLB LIVE HD",
+        "logo": "",
+        "url": "https://chatgpt.hereisman.net/playlist/53478/load-playlist?",
+        "group": "MLB",
+        "useProxy": true,
+        "referer": "https://gooz.aapmains.net"
+    },
+    {
         "name": "SportzX Live",
         "logo": "",
-        "url": "https://edgestream1.pro/hls/fskjanach24.m3u8?",
+        "url": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8?",
         "group": "SportzX",
         "useProxy": true,
         "referer": "https://streamscenter.online/",
@@ -439,6 +476,15 @@
         "referer": "https://streamscenter.online/",
         "origin": "https://streamscenter.online",
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://edgestream1.pro/hls/fskjanach24.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://streamscenter.online/",
+        "origin": "https://streamscenter.online"
     },
     {
         "name": "SportzX Live",
