@@ -358,16 +358,6 @@
         "useProxy": false
     },
     {
-        "name": "Match Football FHD",
-        "logo": "",
-        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-        "type": "dash",
-        "group": "Match",
-        "kid": "9145a6e0f778e61866f573d4944dd533",
-        "key": "d02173d40515fea5c83944f21d0f3114",
-        "useProxy": true
-    },
-    {
         "name": "TSports HD",
         "logo": "",
         "url": "http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8",
@@ -379,13 +369,6 @@
         "logo": "https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=2048&q=75",
         "url": "http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8",
         "group": "BTV",
-        "useProxy": false
-    },
-    {
-        "name": "SOMOY TV HD",
-        "logo": "",
-        "url": "http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8",
-        "group": "SOMOY",
         "useProxy": false
     },
     {
@@ -545,14 +528,6 @@
         "group": "SKY",
         "useProxy": true,
         "referer": "https://pushembdz.store/"
-    },
-    {
-        "name": "RUSSIA FEED",
-        "logo": "",
-        "url": "https://bl.rutube.ru/livestream/40a90b042d58ae5cfc34ed9f1d6c24b2/index.m3u8?s=d7qwkaBv3c1WWjMr_O0HPQ&e=1784468616&scheme=https",
-        "group": "RUSSIA",
-        "useProxy": false,
-        "user-agent": "Mozilla"
     },
     {
         "name": "DAZN ESPANOL",
