@@ -29,15 +29,6 @@
         "useProxy": false
     },
     {
-        "name": "SD SERVER",
-        "logo": "",
-        "url": "http://193.47.62.41/hls/TAAAQQ.m3u8?",
-        "group": "SERVER",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
-    },
-    {
         "name": "SportzX Live",
         "logo": "",
         "url": "https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?",
@@ -464,15 +455,6 @@
         "group": "SKY",
         "useProxy": true,
         "referer": "https://pushembdz.store/"
-    },
-    {
-        "name": "SD SERVER",
-        "logo": "",
-        "url": "http://193.47.62.41/hls/skkk.m3u8?",
-        "group": "SERVER",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/",
-        "origin": "http://www.fawanews.sc/"
     },
     {
         "name": "Tipik FRANCE FHD",
