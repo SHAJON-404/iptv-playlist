@@ -175,7 +175,14 @@
         "useProxy": false
     },
     {
-        "name": "MU TV ",
+        "name": "Sportscast FHD",
+        "logo": "",
+        "url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/445db9eb-0ebc-4035-9598-e637f934abc8/master.m3u8",
+        "group": "Sportscast",
+        "useProxy": false
+    },
+    {
+        "name": "MU TV",
         "logo": "",
         "url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd",
         "type": "dash",
@@ -372,6 +379,13 @@
         "useProxy": false
     },
     {
+        "name": "SOMOY TV HD",
+        "logo": "",
+        "url": "http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8",
+        "group": "SOMOY",
+        "useProxy": false
+    },
+    {
         "name": "FOX ONE - AQ",
         "logo": "",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
@@ -528,6 +542,14 @@
         "group": "SKY",
         "useProxy": true,
         "referer": "https://pushembdz.store/"
+    },
+    {
+        "name": "RUSSIA FEED",
+        "logo": "",
+        "url": "https://bl.rutube.ru/livestream/40a90b042d58ae5cfc34ed9f1d6c24b2/index.m3u8?s=d7qwkaBv3c1WWjMr_O0HPQ&e=1784468616&scheme=https",
+        "group": "RUSSIA",
+        "useProxy": false,
+        "user-agent": "Mozilla"
     },
     {
         "name": "DAZN ESPANOL",
