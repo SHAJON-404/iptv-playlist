@@ -66,6 +66,15 @@
         "origin": "https://streamscenter.online"
     },
     {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://streamscenter.online/",
+        "origin": "https://streamscenter.online"
+    },
+    {
         "name": "TSN 1",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
@@ -288,6 +297,14 @@
         "referer": "https://gooz.aapmains.net"
     },
     {
+        "name": "BBC SPORTS HD",
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/mcoywh1678355150.png",
+        "url": "https://chatgpt.hereisman.net/playlist/53498/load-playlist?",
+        "group": "BBC",
+        "useProxy": true,
+        "referer": "https://gooz.aapmains.net"
+    },
+    {
         "name": "ISCREEN BD FHD",
         "logo": "https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd",
         "url": "https://ld58dqz8ajj8.rockstreamer.com/isc_ssai/isc_ssai_ads/playlist.m3u8?",
@@ -298,7 +315,7 @@
     {
         "name": "TUDN HD",
         "logo": "",
-        "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+        "url": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8",
         "group": "TUDN",
         "useProxy": false
     },
@@ -386,6 +403,13 @@
         "logo": "",
         "url": "http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8",
         "group": "SOMOY",
+        "useProxy": false
+    },
+    {
+        "name": "ESPANOL SD",
+        "logo": "",
+        "url": "https://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8",
+        "group": "ESPANOL",
         "useProxy": false
     },
     {
@@ -524,6 +548,15 @@
         "referer": "https://gooz.aapmains.net"
     },
     {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://edgestream1.pro/hls/mlkijfezag65.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://streamscenter.online/",
+        "origin": "https://streamscenter.online"
+    },
+    {
         "name": "SportzX MLB",
         "logo": "",
         "url": "https://chatgpt.hereisman.net/playlist/53492/load-playlist?",
@@ -539,6 +572,13 @@
         "useProxy": true,
         "referer": "https://streamscenter.online/",
         "origin": "https://streamscenter.online"
+    },
+    {
+        "name": "TUDN HD",
+        "logo": "",
+        "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+        "group": "TUDN",
+        "useProxy": false
     },
     {
         "name": "SportzX Live",
@@ -746,27 +786,6 @@
         "useProxy": false
     },
     {
-        "name": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ly2lruzgx2/out/v1/d1b297d066fb4a1ab26c2f9c22a9f1a5/cenc.mpd",
-        "type": "dash",
-        "group": "WILLOW",
-        "kid": "b01ff121603a3cddd09976f66f9feb12",
-        "key": "952f80607b8666022fb5cc2d95df096c",
-        "useProxy": true,
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-        "name": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ly2lruzgx2/out/v1/d1b297d066fb4a1ab26c2f9c22a9f1a5/cenc.mpd",
-        "type": "dash",
-        "group": "WILLOW",
-        "kid": "b01ff121603a3cddd09976f66f9feb12",
-        "key": "952f80607b8666022fb5cc2d95df096c",
-        "useProxy": true
-    },
-    {
         "name": "MU TV",
         "logo": "",
         "url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8",
@@ -871,16 +890,6 @@
         "referer": "https://pushembdz.store/"
     },
     {
-        "name": "Tipik FRANCE FHD",
-        "logo": "",
-        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "type": "dash",
-        "group": "Tipik",
-        "kid": "adca25b8779e4168a0cd710f59f61ccf",
-        "key": "be5383ed3cd8079f4ffe78ad067f476a",
-        "useProxy": true
-    },
-    {
         "name": "ELEVEN SPORTS",
         "logo": "",
         "url": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
@@ -898,27 +907,6 @@
         "useProxy": true,
         "referer": "https://streamscenter.online/",
         "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqukmtmmv9/out/v1/c78af2d94a4e4442b3f007b9ee847721/cenc.mpd",
-        "type": "dash",
-        "group": "WILLOW",
-        "kid": "75f854d2c277ce9e3735817f9c6c77ad",
-        "key": "9c4f93decc3c9a4065e8f4e09a3adecc",
-        "useProxy": true,
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-        "name": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oqukmtmmv9/out/v1/c78af2d94a4e4442b3f007b9ee847721/cenc.mpd",
-        "type": "dash",
-        "group": "WILLOW",
-        "kid": "75f854d2c277ce9e3735817f9c6c77ad",
-        "key": "9c4f93decc3c9a4065e8f4e09a3adecc",
-        "useProxy": true
     },
     {
         "name": "ITV SPORTS FHD",
