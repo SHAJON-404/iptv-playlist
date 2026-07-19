@@ -32,25 +32,61 @@
         "origin": "https://streamscenter.online"
     },
     {
-        "name": "WILLOW FHD",
+        "name": "WILLOW - AQ",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/owszcir0c3/out/v1/6d0979f92dd14691aba85bbe0ac4d449/cenc.mpd",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uttx59lzmo/out/v1/fe9c404839284110a46313354214c6cb/cenc.mpd",
         "type": "dash",
         "group": "WILLOW",
-        "kid": "613080a865a801eaf441ec5bc605b5e4",
-        "key": "8ec1b70270472910e4aca31d16d1c5ea",
-        "useProxy": true,
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        "kid": "5be2590ab12743d21a1d377d8b5e7900",
+        "key": "ff08faff3b5d2c874b62ec09e2db888c",
+        "useProxy": true
     },
     {
         "name": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/owszcir0c3/out/v1/6d0979f92dd14691aba85bbe0ac4d449/cenc.mpd",
+        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uttx59lzmo/out/v1/fe9c404839284110a46313354214c6cb/cenc.mpd",
         "type": "dash",
         "group": "WILLOW",
-        "kid": "613080a865a801eaf441ec5bc605b5e4",
-        "key": "8ec1b70270472910e4aca31d16d1c5ea",
+        "kid": "5be2590ab12743d21a1d377d8b5e7900",
+        "key": "ff08faff3b5d2c874b62ec09e2db888c",
         "useProxy": true
+    },
+    {
+        "name": "SKY SPORT NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+        "group": "SKY",
+        "useProxy": false
+    },
+    {
+        "name": "SONY TEN 1 - IN",
+        "logo": "",
+        "url": "https://dishmt.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8?hdnea=exp=1784495890~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=95aed93f7bf7e91363a1e0bfc310728563eb31fe943eb257fad43ebc84f55b9f",
+        "group": "SONY",
+        "useProxy": true,
+        "origin": "https://www.sonyliv.com",
+        "referer": "https://www.sonyliv.com/",
+        "x-playback-session-id": "1e03fe217581440690708a23c8a3a3ff-1784452689983"
+    },
+    {
+        "name": "SONY TEN 3 - IN",
+        "logo": "",
+        "url": "https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1784495890~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=95aed93f7bf7e91363a1e0bfc310728563eb31fe943eb257fad43ebc84f55b9f",
+        "group": "SONY",
+        "useProxy": true,
+        "origin": "https://www.sonyliv.com",
+        "referer": "https://www.sonyliv.com/",
+        "x-playback-session-id": "1e03fe217581440690708a23c8a3a3ff-1784452689983"
+    },
+    {
+        "name": "SONY TEN 4 - IN",
+        "logo": "",
+        "url": "https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1784495890~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=95aed93f7bf7e91363a1e0bfc310728563eb31fe943eb257fad43ebc84f55b9f",
+        "group": "SONY",
+        "useProxy": true,
+        "origin": "https://www.sonyliv.com",
+        "referer": "https://www.sonyliv.com/",
+        "x-playback-session-id": "1e03fe217581440690708a23c8a3a3ff-1784452689983"
     },
     {
         "name": "SportzX Live",
@@ -99,6 +135,26 @@
         "url": "https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8",
         "group": "TNT",
         "useProxy": false
+    },
+    {
+        "name": "WILLOW - AQ",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xy7igbvbrw/out/v1/ebd25d8eb3c643858d8dd55d88d677ac/cenc.mpd",
+        "type": "dash",
+        "group": "WILLOW",
+        "kid": "287f5d409978b84086c6428b6acb73c1",
+        "key": "bad025076475daec87e62ec1016e8cec",
+        "useProxy": true
+    },
+    {
+        "name": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xy7igbvbrw/out/v1/ebd25d8eb3c643858d8dd55d88d677ac/cenc.mpd",
+        "type": "dash",
+        "group": "WILLOW",
+        "kid": "287f5d409978b84086c6428b6acb73c1",
+        "key": "bad025076475daec87e62ec1016e8cec",
+        "useProxy": true
     },
     {
         "name": "FOX ONE - AQ",
@@ -218,16 +274,6 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
-        "name": "MATCH TV RU",
-        "logo": "",
-        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-        "type": "dash",
-        "group": "MATCH",
-        "kid": "9145a6e0f778e61866f573d4944dd533",
-        "key": "d02173d40515fea5c83944f21d0f3114",
-        "useProxy": true
-    },
-    {
         "name": "TSports BDIX",
         "logo": "",
         "url": "http://103.165.93.31:8095/tsports/video.m3u8",
@@ -267,6 +313,27 @@
         "group": "FULL",
         "kid": "14eeabf30c14b7fbf3008c03099ce011",
         "key": "17d2ac8dbc5429bd70af3433aa12158d",
+        "useProxy": true
+    },
+    {
+        "name": "WILLOW FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/owszcir0c3/out/v1/6d0979f92dd14691aba85bbe0ac4d449/cenc.mpd",
+        "type": "dash",
+        "group": "WILLOW",
+        "kid": "613080a865a801eaf441ec5bc605b5e4",
+        "key": "8ec1b70270472910e4aca31d16d1c5ea",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/owszcir0c3/out/v1/6d0979f92dd14691aba85bbe0ac4d449/cenc.mpd",
+        "type": "dash",
+        "group": "WILLOW",
+        "kid": "613080a865a801eaf441ec5bc605b5e4",
+        "key": "8ec1b70270472910e4aca31d16d1c5ea",
         "useProxy": true
     },
     {
