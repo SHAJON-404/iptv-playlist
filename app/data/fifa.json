@@ -42,6 +42,14 @@
         "useProxy": true
     },
     {
+        "name": "CRICKET FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+        "group": "CRICKET",
+        "useProxy": false,
+        "user-agent": "Mozilla"
+    },
+    {
         "name": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uttx59lzmo/out/v1/fe9c404839284110a46313354214c6cb/cenc.mpd",
@@ -50,14 +58,6 @@
         "kid": "5be2590ab12743d21a1d377d8b5e7900",
         "key": "ff08faff3b5d2c874b62ec09e2db888c",
         "useProxy": true
-    },
-    {
-        "name": "LOW SERVER ",
-        "logo": "",
-        "url": "http://193.47.62.41/hls/XAXAXA.m3u8",
-        "group": "LOW",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/"
     },
     {
         "name": "SKY SPORT NZ",
@@ -115,6 +115,16 @@
         "key": "18071eac168232fc3d45549049c1de6b",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "SD TV (USE VPN)",
+        "logo": "",
+        "url": "http://193.47.62.41/hls/suuu.m3u8?",
+        "group": "TV",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+        "referer": "http://www.fawanews.sc/",
+        "origin": "http://www.fawanews.sc/"
     },
     {
         "name": "CANAL 5",
@@ -385,14 +395,6 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
-        "name": "SportzX F1 HD",
-        "logo": "",
-        "url": "https://chatgpt.hereisman.net/playlist/53414/load-playlist?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://gooz.aapmains.net"
-    },
-    {
         "name": "Sportscast FHD",
         "logo": "",
         "url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/34aa2c48-06de-4288-9af3-91f2622da979/master.m3u8",
@@ -434,14 +436,6 @@
         "referer": "https://pushembdz.store/"
     },
     {
-        "name": "RUSSIA FEED",
-        "logo": "",
-        "url": "https://bl.rutube.ru/livestream/f0ddd7af7d20cad89139a493c62e5781/index.m3u8?s=vhffpbXtZKo9a0xXyYgc6g&e=1784551970&scheme=https",
-        "group": "RUSSIA",
-        "useProxy": false,
-        "user-agent": "Mozilla"
-    },
-    {
         "name": "DAZN ESPANOL",
         "logo": "",
         "url": "https://g001.sadhoofiton.shop/out/v2/c9bf8a242f762595afad533557e538b7/index.m3u8?",
@@ -473,15 +467,6 @@
         "useProxy": true,
         "referer": "http://www.fawanews.sc/",
         "origin": "http://www.fawanews.sc/"
-    },
-    {
-        "name": "SKY SPORTS HD",
-        "logo": "",
-        "url": "https://edgestream1.pro/hls/hbfkazbkaznc49.m3u8?",
-        "group": "SKY",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
     },
     {
         "name": "ELEVEN SPORTS",
