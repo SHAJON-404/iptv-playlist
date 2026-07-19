@@ -11,6 +11,14 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
+        "name": "CRICKET FHD",
+        "logo": "",
+        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+        "group": "CRICKET",
+        "useProxy": false,
+        "user-agent": "Mozilla"
+    },
+    {
         "name": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9uwi1u8pp4/out/v1/e3442a4252344b0493129c4db959dc06/cenc.mpd",
@@ -19,14 +27,6 @@
         "kid": "c19c0062404ac30d42291fbfadba323e",
         "key": "6086d22b65e8e988f4b6da3e34a3e2c3",
         "useProxy": true
-    },
-    {
-        "name": "SportzX NBA",
-        "logo": "",
-        "url": "https://chatgpt.hereisman.net/playlist/53505/load-playlist?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://gooz.aapmains.net"
     },
     {
         "name": "SportzX Live",
@@ -209,6 +209,16 @@
         "useProxy": false
     },
     {
+        "name": "Match Football FHD",
+        "logo": "",
+        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+        "type": "dash",
+        "group": "Match",
+        "kid": "9145a6e0f778e61866f573d4944dd533",
+        "key": "d02173d40515fea5c83944f21d0f3114",
+        "useProxy": true
+    },
+    {
         "name": "FIFA TV FHD",
         "logo": "https://img.sofascore.com/api/v1/unique-tournament/16/image",
         "url": "https://cdnec02.mediaquest.com.ph/bpk-token/2ab@w544wk5y111knxfbv2itg33nvw2xxxv0wx4e31ca/bpk-tv/fifa_ppv1/default/index.mpd?bkm-query",
@@ -236,6 +246,13 @@
         "group": "CAZE",
         "useProxy": true,
         "referer": "https://playerembed.xyz/"
+    },
+    {
+        "name": "MUNIDAL HD",
+        "logo": "",
+        "url": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8",
+        "group": "MUNIDAL",
+        "useProxy": false
     },
     {
         "name": "FUSSBALL TV FHD",
