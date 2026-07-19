@@ -238,13 +238,6 @@
         "referer": "https://playerembed.xyz/"
     },
     {
-        "name": "MUNIDAL HD",
-        "logo": "",
-        "url": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8",
-        "group": "MUNIDAL",
-        "useProxy": false
-    },
-    {
         "name": "FUSSBALL TV FHD",
         "logo": "",
         "url": "https://cp11.adabmedia.com/hls2/sport.m3u8",
@@ -403,14 +396,6 @@
         "useProxy": true,
         "referer": "https://streamscenter.online/",
         "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "SportzX MLB",
-        "logo": "",
-        "url": "https://chatgpt.hereisman.net/playlist/53488/load-playlist?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://gooz.aapmains.net"
     },
     {
         "name": "SportzX Live",
