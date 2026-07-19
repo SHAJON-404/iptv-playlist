@@ -14,17 +14,6 @@
         "useProxy": false
     },
     {
-        "name": "TSN SPORTS",
-        "logo": "",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-        "type": "dash",
-        "group": "TSN",
-        "kid": "385ceb9714b75e0cef61254f80b31002",
-        "key": "18dce92a2891fee68d21ede5173230f8",
-        "useProxy": true,
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
         "name": "SportzX Live",
         "logo": "",
         "url": "https://edgestream3.pro/hls/JHDAJBDnjdna30.m3u8?",
@@ -32,33 +21,6 @@
         "useProxy": true,
         "referer": "https://streamscenter.online/",
         "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "WILLOW - AQ",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uttx59lzmo/out/v1/fe9c404839284110a46313354214c6cb/cenc.mpd",
-        "type": "dash",
-        "group": "WILLOW",
-        "kid": "5be2590ab12743d21a1d377d8b5e7900",
-        "key": "ff08faff3b5d2c874b62ec09e2db888c",
-        "useProxy": true
-    },
-    {
-        "name": "CRICKET FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-        "group": "CRICKET",
-        "useProxy": false,
-        "user-agent": "Mozilla"
     },
     {
         "name": "WILLOW - ALT",
@@ -69,6 +31,14 @@
         "kid": "5be2590ab12743d21a1d377d8b5e7900",
         "key": "ff08faff3b5d2c874b62ec09e2db888c",
         "useProxy": true
+    },
+    {
+        "name": "LOW SERVER ",
+        "logo": "",
+        "url": "http://193.47.62.41/hls/XAXAXA.m3u8",
+        "group": "LOW",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/"
     },
     {
         "name": "SKY SPORT NZ",
@@ -178,7 +148,7 @@
     },
     {
         "name": "FOX ONE - AQ",
-        "logo": "",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "type": "dash",
         "group": "FOX",
@@ -188,8 +158,30 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
-        "name": "TSN4 SPORTS FHD",
+        "name": "CANAL5",
         "logo": "",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+        "type": "dash",
+        "group": "CANAL",
+        "kid": "d695093ea3e66d75a4d213a3e2cbf360",
+        "key": "01be3f645e89a067d2786c295f68dde4",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "TVE La 1 FHD",
+        "logo": "https://r2.thesportsdb.com/images/media/channel/logo/p19tzj1781340041.png",
+        "url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+        "type": "dash",
+        "group": "TVE",
+        "kid": "745cd6ec34a58f2f7ac2af35dc3da6d2",
+        "key": "ae008f1e47e6567fe4201a6ff8f1ae54",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "TSN4 SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
         "type": "dash",
         "group": "TSN",
@@ -200,7 +192,7 @@
     },
     {
         "name": "ITV SPORTS FHD",
-        "logo": "",
+        "logo": "https://cdn.livesoccertv.com/images/channels/thumbnails/itv-1.png",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
         "type": "dash",
         "group": "ITV",
@@ -211,7 +203,7 @@
     },
     {
         "name": "CAZE TV HD",
-        "logo": "",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
         "url": "https://rdcstream.life/live/cazetv/index.m3u8?",
         "group": "CAZE",
         "useProxy": true,
@@ -240,7 +232,7 @@
     },
     {
         "name": "TELEMUNDO HD",
-        "logo": "",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
         "url": "https://edgestream3.pro/hls/b0h5fNwDKH.m3u8?",
         "group": "TELEMUNDO",
         "useProxy": true,
@@ -271,7 +263,7 @@
     },
     {
         "name": "CAZE TV FHD",
-        "logo": "",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
         "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
         "type": "dash",
         "group": "CAZE",
@@ -293,7 +285,7 @@
     },
     {
         "name": "FOX SPORTS 4K",
-        "logo": "",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
         "type": "dash",
         "group": "4K",
@@ -311,7 +303,7 @@
     },
     {
         "name": "FOX SPORTS HD",
-        "logo": "",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd",
         "type": "dash",
         "group": "FOX",
@@ -346,28 +338,6 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
-        "name": "FANCODE SD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-        "type": "dash",
-        "group": "FANCODE",
-        "kid": "709c812e1b4174002605df1d17d34a4c",
-        "key": "0bbee6c9c20a0f065bf8369d54cbf83e",
-        "useProxy": true,
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-        "name": "APPLE TV+ FHD",
-        "logo": "",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lnnce28adq/out/v1/47847083b5fc4ccbb01871ee331ad8f7/cenc.mpd",
-        "type": "dash",
-        "group": "APPLE",
-        "kid": "9dc12b57addecba1a491e81edcbaad57",
-        "key": "9fcf7fef82dcc6399cafdb6a96809310",
-        "useProxy": true,
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
         "name": "FANCODE FHD",
         "logo": "",
         "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
@@ -375,17 +345,6 @@
         "group": "FANCODE",
         "kid": "7e9239c1982d984a002df3ed049d0756",
         "key": "1b8a17598129a3618535c8fb05f103fe",
-        "useProxy": true,
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-        "name": "SKY via APPLE TV",
-        "logo": "",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zl03cuvpb2/out/v1/7c64c4d71fae4ba7b80952ad71ed1e36/cenc.mpd",
-        "type": "dash",
-        "group": "SKY",
-        "kid": "51040efb59bf199bf09bcd79e4af435a",
-        "key": "636de0aecb318b012f47eed0845f96df",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
@@ -422,54 +381,6 @@
         "useProxy": true
     },
     {
-        "name": "APPLE TV FHD",
-        "logo": "",
-        "url": "https://g001.sadhoofiton.shop/out/v2/ac2635e55062b01925b85e38e422c5ed/index.m3u8?",
-        "group": "APPLE",
-        "useProxy": true,
-        "referer": "https://pushembdz.store/"
-    },
-    {
-        "name": "SKY SPORTS FHD",
-        "logo": "",
-        "url": "https://g001.sadhoofiton.shop/out/v2/470e8fd3ddfe844ace4ab0211e53e51b/index.m3u8?",
-        "group": "SKY",
-        "useProxy": true,
-        "referer": "https://pushembdz.store/"
-    },
-    {
-        "name": "FOX SPORTS FHD",
-        "logo": "",
-        "url": "https://g001.sadhoofiton.shop/out/v2/a457e04618ba530dae3232c3f67233a6/index.m3u8?",
-        "group": "FOX",
-        "useProxy": true,
-        "referer": "https://pushembdz.store/"
-    },
-    {
-        "name": "DAZN ESPANOL",
-        "logo": "",
-        "url": "https://g001.sadhoofiton.shop/out/v2/c9bf8a242f762595afad533557e538b7/index.m3u8?",
-        "group": "DAZN",
-        "useProxy": true,
-        "referer": "https://pushembdz.store/"
-    },
-    {
-        "name": "SKY ITALY FHD",
-        "logo": "",
-        "url": "https://g001.sadhoofiton.shop/out/v2/8c121b7272256bf76f49e5ef81b42a41/index.m3u8?",
-        "group": "SKY",
-        "useProxy": true,
-        "referer": "https://pushembdz.store/"
-    },
-    {
-        "name": "SKY GERMAN FHD",
-        "logo": "",
-        "url": "https://g001.sadhoofiton.shop/out/v2/d306bca69cb626f4e54baaac4e8005dd/index.m3u8?",
-        "group": "SKY",
-        "useProxy": true,
-        "referer": "https://pushembdz.store/"
-    },
-    {
         "name": "ELEVEN SPORTS",
         "logo": "",
         "url": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
@@ -487,6 +398,16 @@
         "useProxy": true,
         "referer": "https://streamscenter.online/",
         "origin": "https://streamscenter.online"
+    },
+    {
+        "name": "BELGIAN GRAND PRIX - RACE",
+        "logo": "",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/jab-assets/jab-prod-iad/live/dash/out/v1/f5774813052f4d5499e7611d0db33b2f/ar7q7qx4nkkn/cenc-5fe047.mpd",
+        "type": "dash",
+        "group": "BELGIAN",
+        "kid": "385ceb9714b75e0cef61254f80b31002",
+        "key": "18dce92a2891fee68d21ede5173230f8",
+        "useProxy": true
     },
     {
         "name": "SportzX Live",
@@ -548,15 +469,13 @@
         "useProxy": true
     },
     {
-        "name": "CANAL 5",
+        "name": "SportzX Live",
         "logo": "",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-        "type": "dash",
-        "group": "CANAL",
-        "kid": "d695093ea3e66d75a4d213a3e2cbf360",
-        "key": "01be3f645e89a067d2786c295f68dde4",
+        "url": "https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?",
+        "group": "SportzX",
         "useProxy": true,
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        "referer": "https://streamscenter.online/",
+        "origin": "https://streamscenter.online"
     },
     {
         "name": "FOX ONE - AQ",
