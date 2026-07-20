@@ -112,14 +112,6 @@
         "origin": "https://streamscenter.online"
     },
     {
-        "name": "Fusball 4K MULTI",
-        "logo": "",
-        "url": "https://cast.zlive.st/p/a1e123c50c75cf09/index.m3u8?",
-        "group": "4K",
-        "useProxy": true,
-        "referer": "https://zlive.st/"
-    },
-    {
         "name": "Fox Sports UHD [US VPN]",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "url": "https://foxdtc-video.akamaized.net/ZXhwPTE3ODQ1NjQxODc7YWNsPS8qO3dzaWQ9ZThkZWM0NWJhZDNjN2Y3ODNlYWMxNjYxNDk2NjQyOTVfZm94ZHRjX2FuZHJvaWR0dl9lbi1VUztobWFjPW41QjV5bE90dDdFVkhTei9aVEU4QmlxcjFxWmNmTEJWN1VXK3BLSkhsMWs9/live/uhd-1-b-uw2/index.m3u8",
