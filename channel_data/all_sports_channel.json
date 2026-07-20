@@ -103,14 +103,6 @@
         "origin": "https://streamscenter.online"
     },
     {
-        "name": "Fusball 4K MULTI",
-        "logo": "",
-        "url": "https://cast.zlive.st/p/a1e123c50c75cf09/index.m3u8?",
-        "group": "4K",
-        "useProxy": true,
-        "referer": "https://zlive.st/"
-    },
-    {
         "name": "Fox Sports UHD [US VPN]",
         "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "url": "https://foxdtc-video.akamaized.net/ZXhwPTE3ODQ1NjQxODc7YWNsPS8qO3dzaWQ9ZThkZWM0NWJhZDNjN2Y3ODNlYWMxNjYxNDk2NjQyOTVfZm94ZHRjX2FuZHJvaWR0dl9lbi1VUztobWFjPW41QjV5bE90dDdFVkhTei9aVEU4QmlxcjFxWmNmTEJWN1VXK3BLSkhsMWs9/live/uhd-1-b-uw2/index.m3u8",
@@ -142,22 +134,6 @@
         "group": "CAZE",
         "useProxy": true,
         "referer": "https://playerembed.xyz/"
-    },
-    {
-        "name": "TELEMUNDO FHD",
-        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
-        "url": "https://cast.zlive.st/p/8b7d49cd99094663/index.m3u8?",
-        "group": "TELEMUNDO",
-        "useProxy": true,
-        "referer": "https://zlive.st/"
-    },
-    {
-        "name": "TSN SPORTS FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "url": "https://cast.zlive.st/p/d786921a17ec5daf/index.m3u8?",
-        "group": "TSN",
-        "useProxy": true,
-        "referer": "https://zlive.st/"
     },
     {
         "name": "CANAL5",
@@ -289,16 +265,6 @@
         "key": "a879b1d38ed002d4018bce96f9219b8d",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-        "name": "MATCH TV RU",
-        "logo": "",
-        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-        "type": "dash",
-        "group": "MATCH",
-        "kid": "9145a6e0f778e61866f573d4944dd533",
-        "key": "d02173d40515fea5c83944f21d0f3114",
-        "useProxy": true
     },
     {
         "name": "TSports BDIX",
