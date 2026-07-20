@@ -121,6 +121,13 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
+        "name": "MUNIDAL HD",
+        "logo": "",
+        "url": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8",
+        "group": "MUNIDAL",
+        "useProxy": false
+    },
+    {
         "name": "CAZE TV HD",
         "logo": "https://duckduckgo.com/i/dab0d6887915781c.png",
         "url": "https://rdcstream.life/live/cazetv/index.m3u8?",
@@ -258,6 +265,26 @@
         "key": "a879b1d38ed002d4018bce96f9219b8d",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "TELEMUNDO [USA]",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+        "type": "dash",
+        "group": "TELEMUNDO",
+        "kid": "7d6bb9f86e133e4cb33440b493b6b672",
+        "key": "584ad285dcb9e7d42cf3e93f1cc3fe11",
+        "useProxy": true
+    },
+    {
+        "name": "TELEMUNDO [ALT]",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png",
+        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+        "type": "dash",
+        "group": "TELEMUNDO",
+        "kid": "ce7ab3022e753307997f58afe001bac4",
+        "key": "72d631a66e635c60829a0fe7705516c1",
+        "useProxy": true
     },
     {
         "name": "TSports BDIX",
