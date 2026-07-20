@@ -267,16 +267,6 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
-        "name": "MATCH TV RU",
-        "logo": "",
-        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-        "type": "dash",
-        "group": "MATCH",
-        "kid": "9145a6e0f778e61866f573d4944dd533",
-        "key": "d02173d40515fea5c83944f21d0f3114",
-        "useProxy": true
-    },
-    {
         "name": "TSports BDIX",
         "logo": "",
         "url": "http://103.165.93.31:8095/tsports/video.m3u8",
@@ -506,16 +496,6 @@
         "useProxy": true,
         "referer": "https://streamscenter.online/",
         "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rypwqp6z3f/out/v1/a10c4ad014a5422b84c91d98f51dd279/cenc.mpd",
-        "type": "dash",
-        "group": "WILLOW",
-        "kid": "ecdf2f70c1d0df4187b2be76cce4e63d",
-        "key": "38832d5c9796f7113fbd2ec6ba70f313",
-        "useProxy": true
     },
     {
         "name": "SportzX Live",
