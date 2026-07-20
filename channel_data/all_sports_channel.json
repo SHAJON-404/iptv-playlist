@@ -137,24 +137,10 @@
         "referer": "https://playerembed.xyz/"
     },
     {
-        "name": "MUNIDAL HD",
-        "logo": "",
-        "url": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8",
-        "group": "MUNIDAL",
-        "useProxy": false
-    },
-    {
         "name": "FUSSBALL TV FHD",
         "logo": "",
         "url": "https://cp11.adabmedia.com/hls2/sport.m3u8",
         "group": "FUSSBALL",
-        "useProxy": false
-    },
-    {
-        "name": "QAZ SPORTS HD",
-        "logo": "",
-        "url": "http://stream.mcquack.net/72/index.m3u8",
-        "group": "QAZ",
         "useProxy": false
     },
     {
@@ -250,16 +236,6 @@
         "url": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
         "group": "4K",
         "useProxy": false
-    },
-    {
-        "name": "Match Football FHD",
-        "logo": "",
-        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-        "type": "dash",
-        "group": "Match",
-        "kid": "9145a6e0f778e61866f573d4944dd533",
-        "key": "d02173d40515fea5c83944f21d0f3114",
-        "useProxy": true
     },
     {
         "name": "BTV BDIX HD",
@@ -414,14 +390,6 @@
         "useProxy": true,
         "referer": "https://streamscenter.online/",
         "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "SportzX NBA",
-        "logo": "",
-        "url": "https://chatgpt.hereisman.net/playlist/53575/load-playlist?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://gooz.aapmains.net"
     },
     {
         "name": "SportzX Live",
