@@ -1,13 +1,5 @@
 [
     {
-        "name": "SD SERVER",
-        "logo": "",
-        "url": "http://193.47.62.42/hls/gtgtgt.m3u8?",
-        "group": "SERVER",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/"
-    },
-    {
         "name": "SportzX Live",
         "logo": "",
         "url": "https://edgestream3.pro/hls/hefbafbakx28.m3u8?",
@@ -143,13 +135,6 @@
         "useProxy": true
     },
     {
-        "name": "TNT SPORTS HD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-        "url": "https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8",
-        "group": "TNT",
-        "useProxy": false
-    },
-    {
         "name": "FANCODE - SD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
@@ -207,13 +192,6 @@
         "user-agent": "Mozilla"
     },
     {
-        "name": "BBC SPORTS",
-        "logo": "",
-        "url": "https://tmaxapp.site/8wirwjs76erftg/bbctwo.m3u8",
-        "group": "BBC",
-        "useProxy": false
-    },
-    {
         "name": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3r3pos4qag/out/v1/491e4ff7bf7a4098b5481b2c590271e0/cenc.mpd",
@@ -222,13 +200,6 @@
         "kid": "247001b170f0ef5b46c40276f6435a82",
         "key": "30a61d7051926d8b63ae81e8b1502567",
         "useProxy": true
-    },
-    {
-        "name": "SKY SPORT",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
-        "group": "SKY",
-        "useProxy": false
     },
     {
         "name": "PREMIERER BR",
