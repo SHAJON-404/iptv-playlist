@@ -1,5 +1,13 @@
 [
     {
+        "name": "SD SERVER",
+        "logo": "",
+        "url": "http://193.47.62.50/hls/DAAAQQQQQ.m3u8?",
+        "group": "SERVER",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/"
+    },
+    {
         "name": "Tap Sports",
         "logo": "",
         "url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
@@ -119,6 +127,14 @@
         "useProxy": true
     },
     {
+        "name": "SD SERVER",
+        "logo": "",
+        "url": "http://193.47.62.50/hls/UAAAQ.m3u8?",
+        "group": "SERVER",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/"
+    },
+    {
         "name": "WILLOW FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjigreak4h/out/v1/3e2e635212094aa5802cf66c1601f8a5/cenc.mpd",
@@ -172,6 +188,14 @@
         "useProxy": true
     },
     {
+        "name": "SD SERVER",
+        "logo": "",
+        "url": "http://193.47.62.53/hls/BAAA.m3u8?",
+        "group": "SERVER",
+        "useProxy": true,
+        "referer": "http://www.fawanews.sc/"
+    },
+    {
         "name": "SportzX Live",
         "logo": "",
         "url": "https://edgestream2.pro/hls/jzabfazkbf27.m3u8?",
@@ -181,17 +205,9 @@
         "origin": "https://streamscenter.online"
     },
     {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://live.vivo200.com/live/sd-1-4586108.m3u8?txSecret=0e374ed99d6a0297bdc63624d493ab01&txTime=6A5FAC06",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://player.online909.com/"
-    },
-    {
         "name": "SD SERVER",
         "logo": "",
-        "url": "http://193.47.62.44/hls/NHHH.m3u8?",
+        "url": "http://193.47.62.50/hls/UAAA.m3u8?",
         "group": "SERVER",
         "useProxy": true,
         "referer": "http://www.fawanews.sc/"
