@@ -11,15 +11,6 @@
     {
         "name": "SportzX Live",
         "logo": "",
-        "url": "https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
         "url": "https://edgestream1.pro/hls/hfzljfahzcax29.m3u8?",
         "group": "SportzX",
         "useProxy": true,
@@ -30,15 +21,6 @@
         "name": "SportzX Live",
         "logo": "",
         "url": "https://edgestream3.pro/hls/dzjhkfazbka26.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://edgestream3.pro/hls/Czajafjihafch18.m3u8?",
         "group": "SportzX",
         "useProxy": true,
         "referer": "https://streamscenter.online/",
@@ -83,25 +65,7 @@
     {
         "name": "SportzX Live",
         "logo": "",
-        "url": "https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
         "url": "https://edgestream1.pro/hls/ojzkajnach21.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://edgestream1.pro/hls/bzagLHzach19.m3u8?",
         "group": "SportzX",
         "useProxy": true,
         "referer": "https://streamscenter.online/",
@@ -120,6 +84,42 @@
         "name": "SportzX Live",
         "logo": "",
         "url": "https://edgestream3.pro/hls/jkzahzadach20.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://streamscenter.online/",
+        "origin": "https://streamscenter.online"
+    },
+    {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://streamscenter.online/",
+        "origin": "https://streamscenter.online"
+    },
+    {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://edgestream3.pro/hls/Czajafjihafch18.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://streamscenter.online/",
+        "origin": "https://streamscenter.online"
+    },
+    {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://streamscenter.online/",
+        "origin": "https://streamscenter.online"
+    },
+    {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://edgestream1.pro/hls/bzagLHzach19.m3u8?",
         "group": "SportzX",
         "useProxy": true,
         "referer": "https://streamscenter.online/",
