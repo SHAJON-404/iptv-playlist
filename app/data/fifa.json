@@ -99,6 +99,21 @@
         "origin": "https://streamscenter.online"
     },
     {
+        "name": "TUDN HD",
+        "logo": "",
+        "url": "https://chatgpt.hereisman.net/playlist/53621/load-playlist?",
+        "group": "TUDN",
+        "useProxy": true,
+        "referer": "https://gooz.aapmains.net"
+    },
+    {
+        "name": "TUDN SD",
+        "logo": "",
+        "url": "https://pulltx.cqsycw.com/live/sd-6MwdpntpZvm84guRb4.m3u8?txSecret=5ec4cea84bb797b931d6baebf8a6f0bc&txTime=6A604388",
+        "group": "TUDN",
+        "useProxy": false
+    },
+    {
         "name": "SportzX Live",
         "logo": "",
         "url": "https://edgestream1.pro/hls/bzagLHzach19.m3u8?",
@@ -106,6 +121,14 @@
         "useProxy": true,
         "referer": "https://streamscenter.online/",
         "origin": "https://streamscenter.online"
+    },
+    {
+        "name": "SportzX MLB",
+        "logo": "",
+        "url": "https://chatgpt.hereisman.net/playlist/53648/load-playlist?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://gooz.aapmains.net"
     },
     {
         "name": "SportzX Live",
