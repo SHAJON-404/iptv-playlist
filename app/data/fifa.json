@@ -1,12 +1,22 @@
 [
     {
-        "name": "SportzX Live",
+        "name": "SportDigital Fussball",
         "logo": "",
-        "url": "https://edgestream1.pro/hls/hfzljfahzcax29.m3u8?",
-        "group": "SportzX",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+        "type": "dash",
+        "group": "SportDigital",
+        "kid": "0ad4080cdff8c60b1233b22087f0b340",
+        "key": "285f129c5eca01dd08a5d5a14ad801c8",
         "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "PRIME VIDEO HD",
+        "logo": "",
+        "url": "https://rdcstream.life/live/primevideo/index.m3u8?",
+        "group": "PRIME",
+        "useProxy": true,
+        "referer": "https://playerembed.xyz/"
     },
     {
         "name": "SportzX Live",
@@ -103,6 +113,15 @@
         "url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
         "group": "SKY",
         "useProxy": false
+    },
+    {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://edgestream1.pro/hls/hfzljfahzcax29.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://streamscenter.online/",
+        "origin": "https://streamscenter.online"
     },
     {
         "name": "SportzX Live",
@@ -304,16 +323,6 @@
         "group": "beIN",
         "kid": "7995c724a13748ed970840a8ab5bb9b3",
         "key": "67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "useProxy": true
-    },
-    {
-        "name": "SportDigital Fussball",
-        "logo": "",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-        "type": "dash",
-        "group": "SportDigital",
-        "kid": "0ad4080cdff8c60b1233b22087f0b340",
-        "key": "285f129c5eca01dd08a5d5a14ad801c8",
         "useProxy": true
     },
     {
