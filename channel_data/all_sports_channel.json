@@ -1,21 +1,5 @@
 [
     {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://live.vivo200.com/live/sd-1-4589237.m3u8?txSecret=11e6d0c2fe41248a03eff20b5886f4b9&txTime=6A60F74C",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://player.online909.com/"
-    },
-    {
-        "name": "SD SERVER",
-        "logo": "",
-        "url": "http://193.47.62.49/hls/RRRR.m3u8?",
-        "group": "SERVER",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/"
-    },
-    {
         "name": "PREMIERER BR",
         "logo": "",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
@@ -92,14 +76,6 @@
         "origin": "http://www.fawanews.sc/"
     },
     {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://live.vivo200.com/live/sd-1-4591078.m3u8?txSecret=5fdf116858c7c8833f054a78871bd3a9&txTime=6A60F69D",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://player.online909.com/"
-    },
-    {
         "name": "HD SERVER",
         "logo": "",
         "url": "https://hls.streamhub.media/hls/thesport-api-34383b254efd4df13076/master.m3u8",
@@ -133,14 +109,6 @@
         "useProxy": true,
         "referer": "https://streamscenter.online/",
         "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://live.vivo200.com/live/sd-1-4591082.m3u8?txSecret=50c78556f7ca9b97e3c213aae1fa07a2&txTime=6A60F7BA",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://player.online909.com/"
     },
     {
         "name": "SD SERVER",
@@ -250,27 +218,11 @@
         "origin": "https://streamscenter.online"
     },
     {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://live.vivo200.com/live/sd-1-4591081.m3u8?txSecret=ce31f8be6c8b56ee5099e1d46a33cb3a&txTime=6A60F6F1",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://player.online909.com/"
-    },
-    {
         "name": "HD SERVER",
         "logo": "",
         "url": "https://hls.streamhub.media/hls/thesport-api-cf89962de572ba5ddac3/master.m3u8",
         "group": "SERVER",
         "useProxy": false
-    },
-    {
-        "name": "SD SERVER",
-        "logo": "",
-        "url": "http://193.47.62.49/hls/RRRRQ.m3u8?",
-        "group": "SERVER",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/"
     },
     {
         "name": "SportzX Live",
