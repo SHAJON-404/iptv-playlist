@@ -8,6 +8,13 @@
         "referer": "https://gooz.aapmains.net"
     },
     {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://pulltx.cqsycw.com/live/sd-6MwdpntpZtZeCD5WSA.m3u8?txSecret=4a46ac832fbc9884a0b80a843d5677f3&txTime=6A6063E0",
+        "group": "SportzX",
+        "useProxy": false
+    },
+    {
         "name": "SportzX MLB",
         "logo": "",
         "url": "https://chatgpt.hereisman.net/playlist/53653/load-playlist?",
@@ -172,16 +179,6 @@
         "url": "https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8",
         "group": "TNT",
         "useProxy": false
-    },
-    {
-        "name": "FANCODE - SD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-        "type": "dash",
-        "group": "FANCODE",
-        "kid": "709c812e1b4174002605df1d17d34a4c",
-        "key": "0bbee6c9c20a0f065bf8369d54cbf83e",
-        "useProxy": true
     },
     {
         "name": "SportzX Live",
