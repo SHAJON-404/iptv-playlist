@@ -2,16 +2,80 @@
     {
         "name": "SportzX Live",
         "logo": "",
-        "url": "https://edgestream3.pro/hls/hefbafbakx28.m3u8?",
+        "url": "https://edgestream1.pro/hls/hfzljfahzcax29.m3u8?",
         "group": "SportzX",
         "useProxy": true,
         "referer": "https://streamscenter.online/",
         "origin": "https://streamscenter.online"
     },
     {
+        "name": "WILLOW FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bkvy8namph/out/v1/408fe9c1ee2048d98bd629a60b55f8a9/cenc.mpd",
+        "type": "dash",
+        "group": "WILLOW",
+        "kid": "08e857788244fe19e0ebf8afe19a5baf",
+        "key": "07829ed6a8151c4c363713d38687efc8",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bkvy8namph/out/v1/408fe9c1ee2048d98bd629a60b55f8a9/cenc.mpd",
+        "type": "dash",
+        "group": "WILLOW",
+        "kid": "08e857788244fe19e0ebf8afe19a5baf",
+        "key": "07829ed6a8151c4c363713d38687efc8",
+        "useProxy": true
+    },
+    {
+        "name": "WILLOW FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wvy4bjqqtx/out/v1/a8eb10fe4a4445a39c4aada4b042fb88/cenc.mpd",
+        "type": "dash",
+        "group": "WILLOW",
+        "kid": "8787005b2c501603a117e26044f93e50",
+        "key": "e57ce8dcc0158ef1002ab5bba0f25d14",
+        "useProxy": true,
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "CRICKET FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+        "group": "CRICKET",
+        "useProxy": false,
+        "user-agent": "Mozilla"
+    },
+    {
+        "name": "BBC SPORTS",
+        "logo": "",
+        "url": "https://tmaxapp.site/8wirwjs76erftg/bbctwo.m3u8",
+        "group": "BBC",
+        "useProxy": false
+    },
+    {
+        "name": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wvy4bjqqtx/out/v1/a8eb10fe4a4445a39c4aada4b042fb88/cenc.mpd",
+        "type": "dash",
+        "group": "WILLOW",
+        "kid": "8787005b2c501603a117e26044f93e50",
+        "key": "e57ce8dcc0158ef1002ab5bba0f25d14",
+        "useProxy": true
+    },
+    {
+        "name": "SKY SPORT",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+        "group": "SKY",
+        "useProxy": false
+    },
+    {
         "name": "SportzX Live",
         "logo": "",
-        "url": "https://edgestream1.pro/hls/hfzljfahzcax29.m3u8?",
+        "url": "https://edgestream3.pro/hls/hefbafbakx28.m3u8?",
         "group": "SportzX",
         "useProxy": true,
         "referer": "https://streamscenter.online/",
@@ -181,14 +245,6 @@
         "useProxy": true,
         "referer": "https://streamscenter.online/",
         "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "CRICKET FHD",
-        "logo": "",
-        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-        "group": "CRICKET",
-        "useProxy": false,
-        "user-agent": "Mozilla"
     },
     {
         "name": "PREMIERER BR",
