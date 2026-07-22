@@ -58,14 +58,6 @@
         "origin": "https://streamscenter.online"
     },
     {
-        "name": "SportzX MLB",
-        "logo": "",
-        "url": "https://chatgpt.hereisman.net/playlist/53647/load-playlist?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://gooz.aapmains.net"
-    },
-    {
         "name": "SportzX Live",
         "logo": "",
         "url": "https://edgestream3.pro/hls/dzjhkfazbka26.m3u8?",
@@ -164,6 +156,15 @@
         "origin": "https://streamscenter.online"
     },
     {
+        "name": "SportzX Live",
+        "logo": "",
+        "url": "https://edgestream3.pro/hls/jkzahzadach20.m3u8?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://streamscenter.online/",
+        "origin": "https://streamscenter.online"
+    },
+    {
         "name": "FANCODE FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
@@ -179,15 +180,6 @@
         "url": "https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8",
         "group": "TNT",
         "useProxy": false
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://edgestream3.pro/hls/jkzahzadach20.m3u8?",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://streamscenter.online/",
-        "origin": "https://streamscenter.online"
     },
     {
         "name": "Tap Sports",
