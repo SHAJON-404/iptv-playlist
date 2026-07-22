@@ -59,14 +59,14 @@
         "useProxy": true
     },
     {
-        "name": "SKY SPORT",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
-        "group": "SKY",
+        "name": "HD SERVER ",
+        "logo": "",
+        "url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+        "group": "SERVER",
         "useProxy": false
     },
     {
-        "name": "LOW SERVER",
+        "name": "LOW SERVER ",
         "logo": "",
         "url": "http://193.47.62.44/hls/NHHHQQq.m3u8",
         "group": "LOW",
@@ -76,19 +76,18 @@
         "origin": "http://www.fawanews.sc/"
     },
     {
+        "name": "SKY SPORT",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+        "group": "SKY",
+        "useProxy": false
+    },
+    {
         "name": "HD SERVER",
         "logo": "",
         "url": "https://hls.streamhub.media/hls/thesport-api-34383b254efd4df13076/master.m3u8",
         "group": "SERVER",
         "useProxy": false
-    },
-    {
-        "name": "SD SERVER",
-        "logo": "",
-        "url": "http://193.47.62.49/hls/EEEEQ.m3u8?",
-        "group": "SERVER",
-        "useProxy": true,
-        "referer": "http://www.fawanews.sc/"
     },
     {
         "name": "TSN SPORTS",
