@@ -49,6 +49,14 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
+        "name": "SportzX MLB",
+        "logo": "",
+        "url": "https://chatgpt.hereisman.net/playlist/53719/load-playlist?",
+        "group": "SportzX",
+        "useProxy": true,
+        "referer": "https://gooz.aapmains.net"
+    },
+    {
         "name": "SportzX Live",
         "logo": "",
         "url": "https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?",
@@ -270,14 +278,6 @@
         "kid": "89191e6bfbd29dee4c593cb15c4925c3",
         "key": "ebcd78506f203fd0b3cf422d4a5ba0d4",
         "useProxy": true
-    },
-    {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://live.vivo200.com/live/sd-1-4589353.m3u8?txSecret=e3cc75677cd7fd8d0f56e0d6974ffc91&txTime=6A625690",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://player.online909.com/"
     },
     {
         "name": "WILLOW FHD",
