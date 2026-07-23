@@ -62,22 +62,6 @@
         "origin": "https://streamscenter.online"
     },
     {
-        "name": "APPLE TV+ HD",
-        "logo": "",
-        "url": "https://rdcstream.life/live/inter-miami-x-chicago-fire/index.m3u8?",
-        "group": "APPLE",
-        "useProxy": true,
-        "referer": "https://playerembed.xyz/"
-    },
-    {
-        "name": "MLS LIVE HD",
-        "logo": "",
-        "url": "https://chatgpt.hereisman.net/playlist/53692/load-playlist?",
-        "group": "MLS",
-        "useProxy": true,
-        "referer": "https://gooz.aapmains.net"
-    },
-    {
         "name": "TSN SPORTS",
         "logo": "",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
@@ -193,6 +177,14 @@
         "key": "e5250924f4b738905f7163a0134587a7",
         "useProxy": true,
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+        "name": "APPLE TV+ HD",
+        "logo": "",
+        "url": "https://chatgpt.hereisman.net/playlist/53712/load-playlist?",
+        "group": "APPLE",
+        "useProxy": true,
+        "referer": "https://gooz.aapmains.net"
     },
     {
         "name": "FOX SPORTS",
