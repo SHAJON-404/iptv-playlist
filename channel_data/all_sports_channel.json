@@ -124,14 +124,6 @@
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
-        "name": "SportzX Live",
-        "logo": "",
-        "url": "https://live.vivo200.com/live/sd-1-4591127.m3u8?txSecret=caa8c54a54e66f9108cb050ca86b8370&txTime=6A6274A9",
-        "group": "SportzX",
-        "useProxy": true,
-        "referer": "https://player.online909.com/"
-    },
-    {
         "name": "SD SERVER",
         "logo": "",
         "url": "http://193.47.62.54/hls/HMMMAAQQQQ.m3u8?",
