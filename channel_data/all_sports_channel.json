@@ -677,17 +677,6 @@
         "useProxy": true
     },
     {
-        "name": "FOX ONE HD",
-        "logo": "",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bc3y4t1rpk/out/v1/df2b71a9487a4c369c9742e7ea62a2e2/cenc.mpd",
-        "type": "dash",
-        "group": "FOX",
-        "kid": "d0f2e537aa6d576e355c271b22caeaca",
-        "key": "d5869f84abacfe205c524c59e62d3803",
-        "useProxy": true,
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
         "name": "LOW QUALITY",
         "logo": "",
         "url": "https://hls.streamhub.media/hls/thesport-api-19be5892a432b8ce226c/master.m3u8",
