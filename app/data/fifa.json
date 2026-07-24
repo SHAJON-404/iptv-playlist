@@ -47,13 +47,6 @@
         "useProxy": true
     },
     {
-        "name": "LOW SERVER",
-        "logo": "",
-        "url": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-        "group": "LOW",
-        "useProxy": false
-    },
-    {
         "name": "SD SERVER",
         "logo": "",
         "url": "http://193.47.62.43/hls/vaaaa.m3u8?",
@@ -319,13 +312,6 @@
         "useProxy": true,
         "referer": "https://streamscenter.online/",
         "origin": "https://streamscenter.online"
-    },
-    {
-        "name": "TNT MAX HD",
-        "logo": "",
-        "url": "https://tmaxapp.site/8wirwjs76erftg/tntsports3.m3u8",
-        "group": "TNT",
-        "useProxy": false
     },
     {
         "name": "SportzX Live",
